@@ -1,0 +1,8 @@
+[
+  {"id":"ramp","name":"Ramp","ats":"ashby","board":"ramp","enabled":true},
+  {"id":"notion","name":"Notion","ats":"ashby","board":"notion","enabled":true},
+  {"id":"linear","name":"Linear","ats":"ashby","board":"linear","enabled":true},
+  {"id":"cursor","name":"Cursor","ats":"ashby","board":"cursor","enabled":true},
+  {"id":"binance","name":"Binance","ats":"lever","board":"binance","enabled":true},
+  {"id":"cloudflare","name":"Cloudflare","ats":"greenhouse","board":"cloudflare","enabled":true}
+]

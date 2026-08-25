@@ -1,0 +1,6 @@
+import test from"node:test";import assert from"node:assert/strict";import{normalizeJob}from"../lib/normalize.mjs";import{diffJobs}from"../lib/diff.mjs";const company={id:"example",name:"Example",ats:"ashby"},at="2026-01-01T00:00:00.000Z",job=overrides=>normalizeJob({sourceId:"1",title:"Engineer",applyUrl:"https://example.com/apply",sourceUrl:"https://example.com/job",...overrides},company,at);
+test("normalization preserves unknowns",()=>{const value=job({workplace:"Remote",description:"hello"});assert.equal(value.workplace,"remote");assert.equal(value.country,null);assert.equal(value.descriptionHash.length,64)});
+test("diff classifies posts and closures",()=>{assert.equal(diffJobs([],[job({})],at)[0].type,"JOB_POSTED");assert.equal(diffJobs([job({})],[],at)[0].type,"JOB_CLOSED")});
+test("diff classifies material edits",()=>{const events=diffJobs([job({location:"London"})],[job({location:"Remote"})],at);assert.equal(events[0].type,"LOCATION_CHANGED")});
+test("unchanged jobs create no drift",()=>{const value=job({});assert.deepEqual(diffJobs([value],[value],at),[])});
+test("missing optional dates do not create drift",()=>{const current=job({});const previous={...current};delete previous.updatedAt;assert.deepEqual(diffJobs([previous],[current],at),[])});

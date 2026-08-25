@@ -1,0 +1,1 @@
+{"name":"job-drift","version":"0.1.0","private":true,"type":"module","engines":{"node":">=24"},"scripts":{"collect":"node scripts/collect.mjs","generate":"node scripts/generate.mjs","test":"node --test","check":"node --check docs/app.js && node --test && node scripts/generate.mjs --check"}}
