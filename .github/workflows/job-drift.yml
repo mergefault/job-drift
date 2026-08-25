@@ -2,7 +2,7 @@ name: Collect job drift
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 4,16 * * *"
+    - cron: "23 */6 * * *"
 permissions:
   contents: write
 concurrency:
