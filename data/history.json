@@ -5458,5 +5458,117 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/6a20b3b8-8111-4cbd-be4b-423b60660738"
     }
+  },
+  {
+    "id": "2026-08-26T07:12:38.188Z:binance:1a66f532-5022-4c22-ac86-ee917193cfe6:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:1a66f532-5022-4c22-ac86-ee917193cfe6",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-26T07:12:38.188Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/1a66f532-5022-4c22-ac86-ee917193cfe6"
+    }
+  },
+  {
+    "id": "2026-08-26T07:12:38.188Z:binance:7dad5ebe-5657-467d-9c0f-9b3cafa3f5cd:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:7dad5ebe-5657-467d-9c0f-9b3cafa3f5cd",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-26T07:12:38.188Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/7dad5ebe-5657-467d-9c0f-9b3cafa3f5cd"
+    }
+  },
+  {
+    "id": "2026-08-26T07:12:38.188Z:binance:94c737f9-5a40-4d53-bbcb-af05f22ca299:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:94c737f9-5a40-4d53-bbcb-af05f22ca299",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-26T07:12:38.188Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/94c737f9-5a40-4d53-bbcb-af05f22ca299"
+    }
+  },
+  {
+    "id": "2026-08-26T07:12:38.188Z:binance:ab26c3f8-3728-4750-a07b-88adb962e3bc:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:ab26c3f8-3728-4750-a07b-88adb962e3bc",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Full Stack Software Engineer — AI / Cross-Platform (Fully Remote)",
+    "after": "Full Stack Software Engineer — AI,Fronted Oriented (Fully Remote)",
+    "occurredAt": "2026-08-26T07:12:38.188Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/ab26c3f8-3728-4750-a07b-88adb962e3bc"
+    }
+  },
+  {
+    "id": "2026-08-26T07:12:38.188Z:cloudflare:7972135:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:7972135",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-26T07:12:38.188Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7972135?gh_jid=7972135"
+    }
+  },
+  {
+    "id": "2026-08-26T07:12:38.188Z:cloudflare:8152697:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8152697",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-26T07:12:38.188Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8152697?gh_jid=8152697"
+    }
+  },
+  {
+    "id": "2026-08-26T07:12:38.188Z:cursor:e57836e8-c864-4817-aaa2-1b1263f0a352:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cursor:e57836e8-c864-4817-aaa2-1b1263f0a352",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "title",
+    "before": "Field Engineer - APJ",
+    "after": "Field Engineer - ASEAN",
+    "occurredAt": "2026-08-26T07:12:38.188Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/e57836e8-c864-4817-aaa2-1b1263f0a352"
+    }
+  },
+  {
+    "id": "2026-08-26T07:12:38.188Z:notion:00960f3c-46b6-4ad5-ae6b-4175035b3cb9:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "notion:00960f3c-46b6-4ad5-ae6b-4175035b3cb9",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-26T07:12:38.188Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/00960f3c-46b6-4ad5-ae6b-4175035b3cb9"
+    }
   }
 ]
