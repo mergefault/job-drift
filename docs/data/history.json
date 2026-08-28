@@ -7642,5 +7642,257 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/f5cf4790-0b77-47be-b332-02ca6ec755fd"
     }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:binance:2af0995a-910d-4060-910e-569c73409052:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:2af0995a-910d-4060-910e-569c73409052",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Campaign Growth Operations - Greater China",
+    "after": "Growth Strategy & Campaign Manager  - Greater China",
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/2af0995a-910d-4060-910e-569c73409052"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:binance:4d2279a4-2173-4e95-810d-61d952747db0:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:4d2279a4-2173-4e95-810d-61d952747db0",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/4d2279a4-2173-4e95-810d-61d952747db0"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:binance:60a2d99e-4882-470c-8ffb-356d17f04c47:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:60a2d99e-4882-470c-8ffb-356d17f04c47",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/60a2d99e-4882-470c-8ffb-356d17f04c47"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:binance:a47d7d92-e71e-455a-83b4-1589800bb6cd:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:a47d7d92-e71e-455a-83b4-1589800bb6cd",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/a47d7d92-e71e-455a-83b4-1589800bb6cd"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:binance:a7a0a825-eb3a-4c0a-8239-6d22c1afcf45:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:a7a0a825-eb3a-4c0a-8239-6d22c1afcf45",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/a7a0a825-eb3a-4c0a-8239-6d22c1afcf45"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:binance:b5d7219c-d555-47e4-9ec2-020fe3139584:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:b5d7219c-d555-47e4-9ec2-020fe3139584",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/b5d7219c-d555-47e4-9ec2-020fe3139584"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:binance:dba3318c-fb3b-4101-b119-8cad8690888e:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:dba3318c-fb3b-4101-b119-8cad8690888e",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/dba3318c-fb3b-4101-b119-8cad8690888e"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:binance:ecb14829-c9b6-445f-b403-0207c7e6c45a:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:ecb14829-c9b6-445f-b403-0207c7e6c45a",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/ecb14829-c9b6-445f-b403-0207c7e6c45a"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:cloudflare:7902104:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:7902104",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7902104?gh_jid=7902104"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:cloudflare:8041034:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8041034",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8041034?gh_jid=8041034"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:cloudflare:8161940:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8161940",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8161940?gh_jid=8161940"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:cloudflare:8163023:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8163023",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8163023?gh_jid=8163023"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:cursor:8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:cursor:dbdccf8f-cc8f-4701-94ea-5d0a33efad80:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cursor:dbdccf8f-cc8f-4701-94ea-5d0a33efad80",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "title",
+    "before": "Sales Development Representative",
+    "after": "Sales Development Representative - San Francisco",
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/dbdccf8f-cc8f-4701-94ea-5d0a33efad80"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:cursor:dbdccf8f-cc8f-4701-94ea-5d0a33efad80:JOB_UPDATED:publishedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cursor:dbdccf8f-cc8f-4701-94ea-5d0a33efad80",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "publishedAt",
+    "before": "2026-03-20T18:14:58.357Z",
+    "after": "2026-08-28T00:20:40.955Z",
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/dbdccf8f-cc8f-4701-94ea-5d0a33efad80"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:cursor:dbdccf8f-cc8f-4701-94ea-5d0a33efad80:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:dbdccf8f-cc8f-4701-94ea-5d0a33efad80",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "94356133ebc1f5b6d73fff0df02275ea4f3a2b558ea376b3741bea102a25f531",
+    "after": "ab2525e00130a48e9861f960ddef3fe82a25967d4d732bc2cc7aa31ce43cca86",
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/dbdccf8f-cc8f-4701-94ea-5d0a33efad80"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:notion:3e988191-692b-48b7-969f-61c000c1636e:JOB_UPDATED:department",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:3e988191-692b-48b7-969f-61c000c1636e",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "department",
+    "before": "Customer Experience",
+    "after": "Sales",
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/3e988191-692b-48b7-969f-61c000c1636e"
+    }
+  },
+  {
+    "id": "2026-08-28T11:30:55.857Z:notion:3e988191-692b-48b7-969f-61c000c1636e:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:3e988191-692b-48b7-969f-61c000c1636e",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "team",
+    "before": "Customer Experience",
+    "after": "Sales",
+    "occurredAt": "2026-08-28T11:30:55.857Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/3e988191-692b-48b7-969f-61c000c1636e"
+    }
   }
 ]
