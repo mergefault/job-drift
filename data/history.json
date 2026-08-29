@@ -8384,5 +8384,61 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/f99558f9-639c-4f36-81af-2d0910703560"
     }
+  },
+  {
+    "id": "2026-08-29T07:10:38.381Z:binance:5e5c344b-d43d-4250-a729-9f04bc008388:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:5e5c344b-d43d-4250-a729-9f04bc008388",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-29T07:10:38.381Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/5e5c344b-d43d-4250-a729-9f04bc008388"
+    }
+  },
+  {
+    "id": "2026-08-29T07:10:38.381Z:binance:c383b373-b97f-458b-aa6e-d1c122ff3efd:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:c383b373-b97f-458b-aa6e-d1c122ff3efd",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-08-29T07:10:38.381Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/c383b373-b97f-458b-aa6e-d1c122ff3efd"
+    }
+  },
+  {
+    "id": "2026-08-29T07:10:38.381Z:cloudflare:8147148:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8147148",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-08-25T23:38:33.000Z",
+    "after": "2026-08-29T05:03:03.000Z",
+    "occurredAt": "2026-08-29T07:10:38.381Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8147148?gh_jid=8147148"
+    }
+  },
+  {
+    "id": "2026-08-29T07:10:38.381Z:cloudflare:8147148:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8147148",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "a954752f43d7d44241f78d60e5c6d74a301ec33aa2006f5f99c0cd5215eedba4",
+    "after": "04cbcba53e47f579e5cbd82a5475714dae9c68e92801fed8fe633b8da4714dde",
+    "occurredAt": "2026-08-29T07:10:38.381Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8147148?gh_jid=8147148"
+    }
   }
 ]
