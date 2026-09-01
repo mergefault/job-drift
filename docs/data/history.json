@@ -11100,5 +11100,117 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/6ac50530-ce1c-4375-9cc1-c56f8b5925fd"
     }
+  },
+  {
+    "id": "2026-09-01T21:07:35.161Z:cloudflare:8030327:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8030327",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-01T21:07:35.161Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8030327?gh_jid=8030327"
+    }
+  },
+  {
+    "id": "2026-09-01T21:07:35.161Z:cloudflare:8094826:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8094826",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-08-28T17:14:15.000Z",
+    "after": "2026-09-01T17:05:31.000Z",
+    "occurredAt": "2026-09-01T21:07:35.161Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8094826?gh_jid=8094826"
+    }
+  },
+  {
+    "id": "2026-09-01T21:07:35.161Z:notion:39c352a7-3f90-4704-b2ff-92df50b4ca02:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "notion:39c352a7-3f90-4704-b2ff-92df50b4ca02",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-01T21:07:35.161Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/39c352a7-3f90-4704-b2ff-92df50b4ca02"
+    }
+  },
+  {
+    "id": "2026-09-01T21:07:35.161Z:notion:a92eb06e-8ef3-4118-b496-94f3cdf8005d:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "notion:a92eb06e-8ef3-4118-b496-94f3cdf8005d",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-01T21:07:35.161Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/a92eb06e-8ef3-4118-b496-94f3cdf8005d"
+    }
+  },
+  {
+    "id": "2026-09-01T21:07:35.161Z:notion:def3f337-5593-491c-b34d-e0b53f2a5cac:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:def3f337-5593-491c-b34d-e0b53f2a5cac",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Software Engineer, AI Security",
+    "after": "Software Engineer, AI Product Security",
+    "occurredAt": "2026-09-01T21:07:35.161Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/def3f337-5593-491c-b34d-e0b53f2a5cac"
+    }
+  },
+  {
+    "id": "2026-09-01T21:07:35.161Z:notion:f0e6202b-b16e-44ca-889a-c07271798467:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "notion:f0e6202b-b16e-44ca-889a-c07271798467",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-01T21:07:35.161Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/f0e6202b-b16e-44ca-889a-c07271798467"
+    }
+  },
+  {
+    "id": "2026-09-01T21:07:35.161Z:ramp:29b679a8-9990-48c1-b91e-001c566ced27:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:29b679a8-9990-48c1-b91e-001c566ced27",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-01T21:07:35.161Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/29b679a8-9990-48c1-b91e-001c566ced27"
+    }
+  },
+  {
+    "id": "2026-09-01T21:07:35.161Z:ramp:72ba7873-254f-45dc-9e7b-595c9d1f8acf:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:72ba7873-254f-45dc-9e7b-595c9d1f8acf",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Lead Recruiter | GTM",
+    "after": "Senior/Lead Recruiter | GTM",
+    "occurredAt": "2026-09-01T21:07:35.161Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/72ba7873-254f-45dc-9e7b-595c9d1f8acf"
+    }
   }
 ]
