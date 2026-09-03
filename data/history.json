@@ -17652,5 +17652,159 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/notion/5546e570-aa17-4e88-a877-f62d0d56f378"
     }
+  },
+  {
+    "id": "2026-09-03T11:24:32.574Z:binance:0f3ddaff-9103-4e7b-9a92-a4d228c64143:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:0f3ddaff-9103-4e7b-9a92-a4d228c64143",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-03T11:24:32.574Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/0f3ddaff-9103-4e7b-9a92-a4d228c64143"
+    }
+  },
+  {
+    "id": "2026-09-03T11:24:32.574Z:binance:1a2f77b6-b3b4-4c5b-97e8-d041a33f5c19:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "binance:1a2f77b6-b3b4-4c5b-97e8-d041a33f5c19",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "location",
+    "before": "United Kingdom, London",
+    "after": "Asia",
+    "occurredAt": "2026-09-03T11:24:32.574Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/1a2f77b6-b3b4-4c5b-97e8-d041a33f5c19"
+    }
+  },
+  {
+    "id": "2026-09-03T11:24:32.574Z:binance:3cee5d6a-3bc4-4e0c-8414-1d073dce3920:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:3cee5d6a-3bc4-4e0c-8414-1d073dce3920",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-03T11:24:32.574Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/3cee5d6a-3bc4-4e0c-8414-1d073dce3920"
+    }
+  },
+  {
+    "id": "2026-09-03T11:24:32.574Z:binance:3d655138-e405-4ed7-8266-dc01e1bfdc6d:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:3d655138-e405-4ed7-8266-dc01e1bfdc6d",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Senior Product Manager, Compliance ( 6 months contract)",
+    "after": "Senior Product Manager, Compliance ( 12 months contract)",
+    "occurredAt": "2026-09-03T11:24:32.574Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/3d655138-e405-4ed7-8266-dc01e1bfdc6d"
+    }
+  },
+  {
+    "id": "2026-09-03T11:24:32.574Z:binance:6867adf0-87e2-49a1-bb1e-304336c44fe1:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:6867adf0-87e2-49a1-bb1e-304336c44fe1",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Binance Accelerator Program - QA (Cloud)",
+    "after": "Binance Accelerator Program - QA (Growth)",
+    "occurredAt": "2026-09-03T11:24:32.574Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/6867adf0-87e2-49a1-bb1e-304336c44fe1"
+    }
+  },
+  {
+    "id": "2026-09-03T11:24:32.574Z:binance:80395b1f-eaf2-4c7c-872d-8687ce870e5d:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:80395b1f-eaf2-4c7c-872d-8687ce870e5d",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-03T11:24:32.574Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/80395b1f-eaf2-4c7c-872d-8687ce870e5d"
+    }
+  },
+  {
+    "id": "2026-09-03T11:24:32.574Z:binance:916163ee-44d4-475a-9f0f-97627b1b6c9a:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:916163ee-44d4-475a-9f0f-97627b1b6c9a",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "VIP Sales Manager, SEA",
+    "after": "VIP Sales Manager, APAC",
+    "occurredAt": "2026-09-03T11:24:32.574Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/916163ee-44d4-475a-9f0f-97627b1b6c9a"
+    }
+  },
+  {
+    "id": "2026-09-03T11:24:32.574Z:binance:c2ea73fc-8fde-412e-8516-5cb5c6ba0639:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:c2ea73fc-8fde-412e-8516-5cb5c6ba0639",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Local Market Digital Specialist (Africa)",
+    "after": "Paid Ads & Search Specialist (Africa)",
+    "occurredAt": "2026-09-03T11:24:32.574Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/c2ea73fc-8fde-412e-8516-5cb5c6ba0639"
+    }
+  },
+  {
+    "id": "2026-09-03T11:24:32.574Z:cloudflare:7479271:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:7479271",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-03T11:24:32.574Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7479271?gh_jid=7479271"
+    }
+  },
+  {
+    "id": "2026-09-03T11:24:32.574Z:notion:4bf220cf-a84c-4ad5-a0e4-107051f8e184:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "notion:4bf220cf-a84c-4ad5-a0e4-107051f8e184",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-03T11:24:32.574Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/4bf220cf-a84c-4ad5-a0e4-107051f8e184"
+    }
+  },
+  {
+    "id": "2026-09-03T11:24:32.574Z:ramp:aa5512b1-d973-4d74-9d10-d56446ecf803:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "ramp:aa5512b1-d973-4d74-9d10-d56446ecf803",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "descriptionHash",
+    "before": "a383f75bf82f2281ba574cde0ac3334090cc24871228350fbee0717e00b59136",
+    "after": "92463b8fdcca8018b9adee526e45dc2b5fc45098d7ece4da2670dfe2c00023e3",
+    "occurredAt": "2026-09-03T11:24:32.574Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/aa5512b1-d973-4d74-9d10-d56446ecf803"
+    }
   }
 ]
