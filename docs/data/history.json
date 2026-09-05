@@ -23630,5 +23630,19 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/f7c4de3c-1d64-42e9-8111-f38e265327d8"
     }
+  },
+  {
+    "id": "2026-09-05T15:19:52.121Z:cloudflare:8125865:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8125865",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-05T15:19:52.121Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8125865?gh_jid=8125865"
+    }
   }
 ]
