@@ -23672,5 +23672,33 @@
     "evidence": {
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8042843?gh_jid=8042843"
     }
+  },
+  {
+    "id": "2026-09-06T15:32:40.264Z:binance:684ead60-5f7f-4ed9-bfc5-9f69c67af9a6:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:684ead60-5f7f-4ed9-bfc5-9f69c67af9a6",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-06T15:32:40.264Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/684ead60-5f7f-4ed9-bfc5-9f69c67af9a6"
+    }
+  },
+  {
+    "id": "2026-09-06T15:32:40.264Z:binance:6a2a94d5-66fb-4099-9e1e-6114938befe1:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:6a2a94d5-66fb-4099-9e1e-6114938befe1",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-06T15:32:40.264Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/6a2a94d5-66fb-4099-9e1e-6114938befe1"
+    }
   }
 ]
