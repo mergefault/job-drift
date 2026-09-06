@@ -23644,5 +23644,33 @@
     "evidence": {
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8125865?gh_jid=8125865"
     }
+  },
+  {
+    "id": "2026-09-06T04:48:44.959Z:cloudflare:8042843:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8042843",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Senior Territory Account Executive - iGaming (ASEAN)",
+    "after": "Senior Territory Account Executive, iGaming (ASEAN)",
+    "occurredAt": "2026-09-06T04:48:44.959Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8042843?gh_jid=8042843"
+    }
+  },
+  {
+    "id": "2026-09-06T04:48:44.959Z:cloudflare:8042843:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8042843",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-04T14:59:17.000Z",
+    "after": "2026-09-06T02:54:36.000Z",
+    "occurredAt": "2026-09-06T04:48:44.959Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8042843?gh_jid=8042843"
+    }
   }
 ]
