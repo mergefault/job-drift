@@ -23812,5 +23812,453 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/notion/671ea859-ae45-46fb-9421-97d401cb987a"
     }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:binance:15de5e6e-afa1-4bed-a2d0-1d4ed0df191b:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:15de5e6e-afa1-4bed-a2d0-1d4ed0df191b",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Accounting Manager (Controllership Focus)",
+    "after": "Finance Manager (Controllership Focus)",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/15de5e6e-afa1-4bed-a2d0-1d4ed0df191b"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:binance:33cd47bb-b88c-40f0-9d1a-8f2f910801e1:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:33cd47bb-b88c-40f0-9d1a-8f2f910801e1",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/33cd47bb-b88c-40f0-9d1a-8f2f910801e1"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:binance:a7a0a825-eb3a-4c0a-8239-6d22c1afcf45:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:a7a0a825-eb3a-4c0a-8239-6d22c1afcf45",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/a7a0a825-eb3a-4c0a-8239-6d22c1afcf45"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:binance:b212ded6-6e81-492e-bd34-120c26b42f29:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:b212ded6-6e81-492e-bd34-120c26b42f29",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Senior Product Manager, KYB ( 6 months Contract)",
+    "after": "Senior Product Manager, KYB ( 12 months Contract)",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/b212ded6-6e81-492e-bd34-120c26b42f29"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:binance:e69a313b-0cf3-41a4-a026-856bbcce33ad:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:e69a313b-0cf3-41a4-a026-856bbcce33ad",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/e69a313b-0cf3-41a4-a026-856bbcce33ad"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:cloudflare:6696709:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:6696709",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/6696709?gh_jid=6696709"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:cloudflare:7540853:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:7540853",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7540853?gh_jid=7540853"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:cloudflare:8045321:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8045321",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8045321?gh_jid=8045321"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:cloudflare:8140310:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8140310",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-04T14:59:17.000Z",
+    "after": "2026-09-07T11:03:55.000Z",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8140310?gh_jid=8140310"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:cloudflare:8140310:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8140310",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "e53af83479870ff28d87d3cd9dceca7f81df09c2758101826ea6fd3e42797683",
+    "after": "93bfd26a4edb5466883bb87afb51db13375390306180dac4917450e9dceb825f",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8140310?gh_jid=8140310"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:cloudflare:8158527:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8158527",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-04T20:26:58.000Z",
+    "after": "2026-09-07T11:14:23.000Z",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8158527?gh_jid=8158527"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:cloudflare:8158527:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8158527",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "45a706b103c753a72f316bcd8a5de149f3483c5520a64377489e6348b2c64774",
+    "after": "f07884cb68426bffd0eb8826f7e788533f9d7913212a89b04b8ebf771b2ca59b",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8158527?gh_jid=8158527"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:cloudflare:8158994:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8158994",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8158994?gh_jid=8158994"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:cloudflare:8160660:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8160660",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-04T14:59:17.000Z",
+    "after": "2026-09-07T11:21:10.000Z",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8160660?gh_jid=8160660"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:cloudflare:8160660:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8160660",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "d6588e91d118d416e117d11d4573c2015781320210849f4d7ffca3ffd6fce2eb",
+    "after": "348d06d51aca3cb7ac44f41f3783a23e22bfc345364d5e76343167e62d16e184",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8160660?gh_jid=8160660"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:cloudflare:8184838:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8184838",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8184838?gh_jid=8184838"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:notion:05e14247-17c4-4e98-9a13-53828a4e2f13:JOB_UPDATED:department",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:05e14247-17c4-4e98-9a13-53828a4e2f13",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "department",
+    "before": "Business Development",
+    "after": "Early Career",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:notion:05e14247-17c4-4e98-9a13-53828a4e2f13:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:05e14247-17c4-4e98-9a13-53828a4e2f13",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "team",
+    "before": "Business Development",
+    "after": "Early Career",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:notion:0737c717-1882-421e-88dc-100c74a1a54a:JOB_UPDATED:department",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:0737c717-1882-421e-88dc-100c74a1a54a",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "department",
+    "before": "Business Development",
+    "after": "Sales",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/0737c717-1882-421e-88dc-100c74a1a54a"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:notion:0737c717-1882-421e-88dc-100c74a1a54a:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:0737c717-1882-421e-88dc-100c74a1a54a",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "team",
+    "before": "Business Development",
+    "after": "Sales",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/0737c717-1882-421e-88dc-100c74a1a54a"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:notion:3f842011-eb04-4b75-bf92-8be5a5ce02b2:JOB_UPDATED:department",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:3f842011-eb04-4b75-bf92-8be5a5ce02b2",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "department",
+    "before": "Business Development",
+    "after": "Sales",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/3f842011-eb04-4b75-bf92-8be5a5ce02b2"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:notion:3f842011-eb04-4b75-bf92-8be5a5ce02b2:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:3f842011-eb04-4b75-bf92-8be5a5ce02b2",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "team",
+    "before": "Business Development",
+    "after": "Sales",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/3f842011-eb04-4b75-bf92-8be5a5ce02b2"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:notion:b21fef72-4864-4a3e-a627-91557a0f8a36:JOB_UPDATED:department",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:b21fef72-4864-4a3e-a627-91557a0f8a36",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "department",
+    "before": "Business Development",
+    "after": "Early Career",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:notion:b21fef72-4864-4a3e-a627-91557a0f8a36:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:b21fef72-4864-4a3e-a627-91557a0f8a36",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "team",
+    "before": "Business Development",
+    "after": "Early Career",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/b21fef72-4864-4a3e-a627-91557a0f8a36"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:notion:bf2e9a54-4f46-423f-ad08-5317c1d1c9b4:JOB_UPDATED:department",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:bf2e9a54-4f46-423f-ad08-5317c1d1c9b4",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "department",
+    "before": "Business Development",
+    "after": "Sales",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/bf2e9a54-4f46-423f-ad08-5317c1d1c9b4"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:notion:bf2e9a54-4f46-423f-ad08-5317c1d1c9b4:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:bf2e9a54-4f46-423f-ad08-5317c1d1c9b4",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "team",
+    "before": "Business Development",
+    "after": "Sales",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/bf2e9a54-4f46-423f-ad08-5317c1d1c9b4"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:notion:c65b26b9-df54-481a-817b-c6551be2373b:JOB_UPDATED:department",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:c65b26b9-df54-481a-817b-c6551be2373b",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "department",
+    "before": "Business Development",
+    "after": "Sales",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/c65b26b9-df54-481a-817b-c6551be2373b"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:notion:c65b26b9-df54-481a-817b-c6551be2373b:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:c65b26b9-df54-481a-817b-c6551be2373b",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "team",
+    "before": "Business Development",
+    "after": "Sales",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/c65b26b9-df54-481a-817b-c6551be2373b"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:notion:d0b9e586-bdf9-4df2-a512-371a6492b2d9:JOB_UPDATED:department",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:d0b9e586-bdf9-4df2-a512-371a6492b2d9",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "department",
+    "before": "Business Development",
+    "after": "Sales",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/d0b9e586-bdf9-4df2-a512-371a6492b2d9"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:notion:d0b9e586-bdf9-4df2-a512-371a6492b2d9:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:d0b9e586-bdf9-4df2-a512-371a6492b2d9",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "team",
+    "before": "Business Development",
+    "after": "Sales",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/d0b9e586-bdf9-4df2-a512-371a6492b2d9"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:notion:f14ce537-e859-4f1d-bcd5-d12cdfe9c05d:JOB_UPDATED:department",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:f14ce537-e859-4f1d-bcd5-d12cdfe9c05d",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "department",
+    "before": "Business Development",
+    "after": "Sales",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/f14ce537-e859-4f1d-bcd5-d12cdfe9c05d"
+    }
+  },
+  {
+    "id": "2026-09-07T12:45:18.619Z:notion:f14ce537-e859-4f1d-bcd5-d12cdfe9c05d:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "notion:f14ce537-e859-4f1d-bcd5-d12cdfe9c05d",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "team",
+    "before": "Business Development",
+    "after": "Sales",
+    "occurredAt": "2026-09-07T12:45:18.619Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/f14ce537-e859-4f1d-bcd5-d12cdfe9c05d"
+    }
   }
 ]
