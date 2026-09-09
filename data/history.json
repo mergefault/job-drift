@@ -25492,5 +25492,229 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/fddcfe54-6fd2-4091-bf9c-346f35606cc9"
     }
+  },
+  {
+    "id": "2026-09-09T04:51:38.253Z:binance:77d4c5cf-a604-454f-9e35-79d5ce32c318:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:77d4c5cf-a604-454f-9e35-79d5ce32c318",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-09T04:51:38.253Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/77d4c5cf-a604-454f-9e35-79d5ce32c318"
+    }
+  },
+  {
+    "id": "2026-09-09T04:51:38.253Z:binance:c2fe112d-4081-4b6a-8af7-2456e174e23c:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:c2fe112d-4081-4b6a-8af7-2456e174e23c",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Product Manager - OTC Business",
+    "after": "Product Manager - Institution Business",
+    "occurredAt": "2026-09-09T04:51:38.253Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/c2fe112d-4081-4b6a-8af7-2456e174e23c"
+    }
+  },
+  {
+    "id": "2026-09-09T04:51:38.253Z:binance:ecbd6d95-cb4a-46e4-9e7c-61bb95a99841:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:ecbd6d95-cb4a-46e4-9e7c-61bb95a99841",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-09T04:51:38.253Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/ecbd6d95-cb4a-46e4-9e7c-61bb95a99841"
+    }
+  },
+  {
+    "id": "2026-09-09T04:51:38.253Z:cloudflare:8158104:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8158104",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-09T04:51:38.253Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8158104?gh_jid=8158104"
+    }
+  },
+  {
+    "id": "2026-09-09T04:51:38.253Z:cloudflare:8169689:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8169689",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-09T04:51:38.253Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8169689?gh_jid=8169689"
+    }
+  },
+  {
+    "id": "2026-09-09T04:51:38.253Z:cloudflare:8172554:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8172554",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Principal Partner Solutions Engineer, Japan (Based in Tokyo)",
+    "after": "Principal Partner Engineer, Japan (Based in Tokyo)",
+    "occurredAt": "2026-09-09T04:51:38.253Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8172554?gh_jid=8172554"
+    }
+  },
+  {
+    "id": "2026-09-09T04:51:38.253Z:cloudflare:8172554:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8172554",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-08T03:26:39.000Z",
+    "after": "2026-09-08T22:50:28.000Z",
+    "occurredAt": "2026-09-09T04:51:38.253Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8172554?gh_jid=8172554"
+    }
+  },
+  {
+    "id": "2026-09-09T04:51:38.253Z:cloudflare:8172873:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8172873",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-09T04:51:38.253Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8172873?gh_jid=8172873"
+    }
+  },
+  {
+    "id": "2026-09-09T04:51:38.253Z:cloudflare:8173899:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8173899",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-09T04:51:38.253Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8173899?gh_jid=8173899"
+    }
+  },
+  {
+    "id": "2026-09-09T04:51:38.253Z:cloudflare:8179387:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8179387",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-09T04:51:38.253Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8179387?gh_jid=8179387"
+    }
+  },
+  {
+    "id": "2026-09-09T04:51:38.253Z:notion:05e14247-17c4-4e98-9a13-53828a4e2f13:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:05e14247-17c4-4e98-9a13-53828a4e2f13",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "9a0d75ab290647f5a9377974790c215f9b6918cc8eacb05e64af31b1d559d023",
+    "after": "f64b07753d13e5ade0fc6b78bdeea47eeddad4fae9f236c3d6c5948e5defb263",
+    "occurredAt": "2026-09-09T04:51:38.253Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/05e14247-17c4-4e98-9a13-53828a4e2f13"
+    }
+  },
+  {
+    "id": "2026-09-09T04:51:38.253Z:ramp:9916e9da-7491-4c99-afd1-e4b8158fa58b:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "ramp:9916e9da-7491-4c99-afd1-e4b8158fa58b",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-09T04:51:38.253Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/9916e9da-7491-4c99-afd1-e4b8158fa58b"
+    }
+  },
+  {
+    "id": "2026-09-09T04:51:38.253Z:ramp:b614563f-3ce6-4dca-b5ba-0e5a6c8bda27:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:b614563f-3ce6-4dca-b5ba-0e5a6c8bda27",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Software Engineer, Forward Deployed AI",
+    "after": "Software Engineer, Forward Deployed AI Solutions",
+    "occurredAt": "2026-09-09T04:51:38.253Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27"
+    }
+  },
+  {
+    "id": "2026-09-09T04:51:38.253Z:ramp:b614563f-3ce6-4dca-b5ba-0e5a6c8bda27:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "ramp:b614563f-3ce6-4dca-b5ba-0e5a6c8bda27",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "descriptionHash",
+    "before": "fe8994268c7d675b1a108bdac9db594b07293111ca348e4c5e4de4722fc4bd4a",
+    "after": "da788917b97823df0cabea53bd8a55c666181a842a7d710f1c7ff4d6a6725f93",
+    "occurredAt": "2026-09-09T04:51:38.253Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27"
+    }
+  },
+  {
+    "id": "2026-09-09T04:51:38.253Z:ramp:deca582c-a1d0-4705-9975-60aed81ba89f:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:deca582c-a1d0-4705-9975-60aed81ba89f",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "San Francisco, CA",
+    "after": "New York, NY (HQ)",
+    "occurredAt": "2026-09-09T04:51:38.253Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f"
+    }
+  },
+  {
+    "id": "2026-09-09T04:51:38.253Z:ramp:deca582c-a1d0-4705-9975-60aed81ba89f:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "ramp:deca582c-a1d0-4705-9975-60aed81ba89f",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "descriptionHash",
+    "before": "c6c79bdba06bdfc5afa7e4d9756b9c51afc2ada7cd8a2f5acf998edd22ed1952",
+    "after": "23f5f507121e64fb0804f2ac374d4f4f32a5afb9faae210cb2c398c2ed04559d",
+    "occurredAt": "2026-09-09T04:51:38.253Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f"
+    }
   }
 ]
