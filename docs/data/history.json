@@ -27550,5 +27550,117 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/ee45197b-f2f7-455e-8a5e-f0a1db5088e5"
     }
+  },
+  {
+    "id": "2026-09-11T04:49:35.469Z:binance:cc3dde64-30c3-4d91-bf0f-009fd051ce1b:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:cc3dde64-30c3-4d91-bf0f-009fd051ce1b",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-11T04:49:35.469Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/cc3dde64-30c3-4d91-bf0f-009fd051ce1b"
+    }
+  },
+  {
+    "id": "2026-09-11T04:49:35.469Z:binance:d364b698-90b3-4a32-ae97-653dd2735e51:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:d364b698-90b3-4a32-ae97-653dd2735e51",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "SOC Engineer (Incident Response)",
+    "after": "SOC Engineer (Incident Response & Python Automation)",
+    "occurredAt": "2026-09-11T04:49:35.469Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/d364b698-90b3-4a32-ae97-653dd2735e51"
+    }
+  },
+  {
+    "id": "2026-09-11T04:49:35.469Z:binance:d3893712-4cc0-49a3-99fa-563a19cd6f9b:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:d3893712-4cc0-49a3-99fa-563a19cd6f9b",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-11T04:49:35.469Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/d3893712-4cc0-49a3-99fa-563a19cd6f9b"
+    }
+  },
+  {
+    "id": "2026-09-11T04:49:35.469Z:binance:f6e78b0c-f9a5-459b-ac09-d8951f9a47ba:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:f6e78b0c-f9a5-459b-ac09-d8951f9a47ba",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Pioneer Talent Program - AI Productivity Engineer",
+    "after": "Pioneer Talent Program - Applied AI Agent/AI Productivity Engineer (Top Talent Program)",
+    "occurredAt": "2026-09-11T04:49:35.469Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/f6e78b0c-f9a5-459b-ac09-d8951f9a47ba"
+    }
+  },
+  {
+    "id": "2026-09-11T04:49:35.469Z:cloudflare:8187634:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8187634",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-09T23:46:37.000Z",
+    "after": "2026-09-11T01:40:16.000Z",
+    "occurredAt": "2026-09-11T04:49:35.469Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8187634?gh_jid=8187634"
+    }
+  },
+  {
+    "id": "2026-09-11T04:49:35.469Z:ramp:6a20b3b8-8111-4cbd-be4b-423b60660738:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:6a20b3b8-8111-4cbd-be4b-423b60660738",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-11T04:49:35.469Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/6a20b3b8-8111-4cbd-be4b-423b60660738"
+    }
+  },
+  {
+    "id": "2026-09-11T04:49:35.469Z:ramp:803e8ace-6c1d-4807-99d3-e35fe45b2fc9:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:803e8ace-6c1d-4807-99d3-e35fe45b2fc9",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Senior Manager, Equity Operations",
+    "after": "Senior Manager, Equity Administration",
+    "occurredAt": "2026-09-11T04:49:35.469Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/803e8ace-6c1d-4807-99d3-e35fe45b2fc9"
+    }
+  },
+  {
+    "id": "2026-09-11T04:49:35.469Z:ramp:aa37bb0b-6b22-4197-a53c-4a4848234f0c:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:aa37bb0b-6b22-4197-a53c-4a4848234f0c",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-11T04:49:35.469Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/aa37bb0b-6b22-4197-a53c-4a4848234f0c"
+    }
   }
 ]
