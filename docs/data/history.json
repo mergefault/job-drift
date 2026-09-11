@@ -27844,5 +27844,313 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/notion/d87154d4-d3c5-48cf-8e83-559436f27133"
     }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:binance:145b2067-9fc6-4c7f-89c7-4b9d9f505034:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:145b2067-9fc6-4c7f-89c7-4b9d9f505034",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/145b2067-9fc6-4c7f-89c7-4b9d9f505034"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:binance:14fc65fb-32b5-4363-93fc-309f0fad79e2:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:14fc65fb-32b5-4363-93fc-309f0fad79e2",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/14fc65fb-32b5-4363-93fc-309f0fad79e2"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:binance:2acced34-b8d4-41c5-a3bb-86fa4d307cf3:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:2acced34-b8d4-41c5-a3bb-86fa4d307cf3",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/2acced34-b8d4-41c5-a3bb-86fa4d307cf3"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:binance:303def79-701c-4b29-aceb-e07877a22d1d:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:303def79-701c-4b29-aceb-e07877a22d1d",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Binance Accelerator Program -  Applied AI Agent Engineer (Fully Remote)",
+    "after": "Binance Accelerator Program -  Applied AI Agent Engineer (Top Talent Program)",
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/303def79-701c-4b29-aceb-e07877a22d1d"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:binance:4d2279a4-2173-4e95-810d-61d952747db0:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:4d2279a4-2173-4e95-810d-61d952747db0",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/4d2279a4-2173-4e95-810d-61d952747db0"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:binance:58cacd4c-78f1-423b-b6e4-9bab15e01ba1:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:58cacd4c-78f1-423b-b6e4-9bab15e01ba1",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Pioneer Talent Program - Full Stack AI Engineer, Backend Oriented (Fully Remote)",
+    "after": "Pioneer Talent Program - Full Stack AI Engineer, Backend Oriented (Top Talent Program)",
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/58cacd4c-78f1-423b-b6e4-9bab15e01ba1"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:binance:608438a8-1cae-4915-9861-05034a418785:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:608438a8-1cae-4915-9861-05034a418785",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/608438a8-1cae-4915-9861-05034a418785"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:binance:80a64970-528f-4d90-aada-84284bd6f1f3:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:80a64970-528f-4d90-aada-84284bd6f1f3",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "LLM Data Scientist/Algorithm Engineer (Fully Remote)",
+    "after": "LLM Data Scientist/Algorithm Engineer (Top Talent Program)",
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/80a64970-528f-4d90-aada-84284bd6f1f3"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:binance:ab26c3f8-3728-4750-a07b-88adb962e3bc:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:ab26c3f8-3728-4750-a07b-88adb962e3bc",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Full Stack Software Engineer — AI,Fronted Oriented (Fully Remote)",
+    "after": "Pioneer Talent Program - Full Stack AI Engineer, Fronted Oriented (Top Talent Program)",
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/ab26c3f8-3728-4750-a07b-88adb962e3bc"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:binance:b6a7e960-52b6-400c-ac58-f6d578b59fbd:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:b6a7e960-52b6-400c-ac58-f6d578b59fbd",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/b6a7e960-52b6-400c-ac58-f6d578b59fbd"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:binance:bc1ba4b5-03d0-4fd9-8d17-62c08d36fb51:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:bc1ba4b5-03d0-4fd9-8d17-62c08d36fb51",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": null,
+    "after": "879aa877ac9fc5f3aa710144f9fd8f80f844397cadb41a67ffe6ffeae6b72bf9",
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/bc1ba4b5-03d0-4fd9-8d17-62c08d36fb51"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:binance:dc0c742c-847c-4b86-88df-ddac253399a8:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:dc0c742c-847c-4b86-88df-ddac253399a8",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Binance Accelerator Program - Backend Engineer (AI Pro / Agent Infrastructure) Fully Remote",
+    "after": "Binance Accelerator Program - Full Stack Engineer (AI Pro / Agent Infrastructure) Fully Remote",
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/dc0c742c-847c-4b86-88df-ddac253399a8"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:binance:ff83a594-78bf-4870-8861-41c3de299d7d:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:ff83a594-78bf-4870-8861-41c3de299d7d",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/ff83a594-78bf-4870-8861-41c3de299d7d"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:cloudflare:7463793:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:7463793",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-09T15:13:10.000Z",
+    "after": "2026-09-11T14:40:10.000Z",
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7463793?gh_jid=7463793"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:cloudflare:7463793:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:7463793",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "78548f1065e857c2d9ff9184bf6687cae4c0af64e9460fa68487a4f641f9c3c4",
+    "after": "0ea491bb0926a731ff61a59bbe5ca20386ef0f642d2f70d50bef1999965cc9d0",
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7463793?gh_jid=7463793"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:cloudflare:8068479:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8068479",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8068479?gh_jid=8068479"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:cloudflare:8112200:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8112200",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-04T14:59:17.000Z",
+    "after": "2026-09-11T16:14:23.000Z",
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8112200?gh_jid=8112200"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:cloudflare:8112200:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8112200",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "a5536c22bda2d5c0906478032fadab3d60e485fc389501af8b745085d2e63204",
+    "after": "5b2db07c92d2eb306cef10e0bd07608a250e7868d6c5e6f72e1f392f469f5cea",
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8112200?gh_jid=8112200"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:cloudflare:8189858:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8189858",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8189858?gh_jid=8189858"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:cloudflare:8195746:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8195746",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8195746?gh_jid=8195746"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:cursor:f27e0997-e283-4015-be61-e13d844a2834:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:f27e0997-e283-4015-be61-e13d844a2834",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/f27e0997-e283-4015-be61-e13d844a2834"
+    }
+  },
+  {
+    "id": "2026-09-11T16:35:16.858Z:ramp:85bb97ba-b1fe-4a3b-be35-df4d40b7455e:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:85bb97ba-b1fe-4a3b-be35-df4d40b7455e",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Technical Consultant, Workday",
+    "after": "Technical Consultant, Workday Financials",
+    "occurredAt": "2026-09-11T16:35:16.858Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/85bb97ba-b1fe-4a3b-be35-df4d40b7455e"
+    }
   }
 ]
