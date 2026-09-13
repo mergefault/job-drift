@@ -28418,5 +28418,33 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/cbdf2857-1675-4b68-8cb5-2f92a20faa75"
     }
+  },
+  {
+    "id": "2026-09-13T16:26:29.890Z:binance:10e2ec82-6bad-4cf9-8dfa-02acfb5e0f6f:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:10e2ec82-6bad-4cf9-8dfa-02acfb5e0f6f",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-13T16:26:29.890Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/10e2ec82-6bad-4cf9-8dfa-02acfb5e0f6f"
+    }
+  },
+  {
+    "id": "2026-09-13T16:26:29.890Z:cursor:232223c1-913a-4318-982b-1970e2842710:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:232223c1-913a-4318-982b-1970e2842710",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "10391f251d925f34ea058482a611636c9275c9f78242edddac1e5f29bfe7e934",
+    "after": "be235e403ccdf30c2739dfcde3d702546768be54dc9d6ca95022c1dc6db00ac3",
+    "occurredAt": "2026-09-13T16:26:29.890Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/232223c1-913a-4318-982b-1970e2842710"
+    }
   }
 ]
