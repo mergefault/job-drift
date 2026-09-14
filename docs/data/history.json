@@ -28446,5 +28446,131 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/cursor/232223c1-913a-4318-982b-1970e2842710"
     }
+  },
+  {
+    "id": "2026-09-14T05:05:40.331Z:binance:210ba69f-d315-41dc-9b18-886305180abb:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "binance:210ba69f-d315-41dc-9b18-886305180abb",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "location",
+    "before": "CIS Region",
+    "after": "Ukraine, Kyiv",
+    "occurredAt": "2026-09-14T05:05:40.331Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/210ba69f-d315-41dc-9b18-886305180abb"
+    }
+  },
+  {
+    "id": "2026-09-14T05:05:40.331Z:binance:44b997f0-ec80-442d-93e0-3210f0915216:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:44b997f0-ec80-442d-93e0-3210f0915216",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-14T05:05:40.331Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/44b997f0-ec80-442d-93e0-3210f0915216"
+    }
+  },
+  {
+    "id": "2026-09-14T05:05:40.331Z:cloudflare:8052785:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8052785",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-14T05:05:40.331Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785"
+    }
+  },
+  {
+    "id": "2026-09-14T05:05:40.331Z:cloudflare:8110442:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8110442",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-14T05:05:40.331Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8110442?gh_jid=8110442"
+    }
+  },
+  {
+    "id": "2026-09-14T05:05:40.331Z:cloudflare:8114069:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8114069",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-04T14:59:17.000Z",
+    "after": "2026-09-14T02:48:17.000Z",
+    "occurredAt": "2026-09-14T05:05:40.331Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8114069?gh_jid=8114069"
+    }
+  },
+  {
+    "id": "2026-09-14T05:05:40.331Z:cloudflare:8114069:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8114069",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "e08e10b9c31478e12d89999ac1cd0130825f32751f903cbc5212791c37a61372",
+    "after": "7b46404389cd8074f6f4efdc8e712248c7e6b6b25bb59bc228002a23632cfdf0",
+    "occurredAt": "2026-09-14T05:05:40.331Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8114069?gh_jid=8114069"
+    }
+  },
+  {
+    "id": "2026-09-14T05:05:40.331Z:cloudflare:8118845:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8118845",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-14T05:05:40.331Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845"
+    }
+  },
+  {
+    "id": "2026-09-14T05:05:40.331Z:cloudflare:8118855:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8118855",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-14T05:05:40.331Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855"
+    }
+  },
+  {
+    "id": "2026-09-14T05:05:40.331Z:notion:fef0c5d0-6744-40e6-aeae-0c5644f6af5e:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "notion:fef0c5d0-6744-40e6-aeae-0c5644f6af5e",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-14T05:05:40.331Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/fef0c5d0-6744-40e6-aeae-0c5644f6af5e"
+    }
   }
 ]
