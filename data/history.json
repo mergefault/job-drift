@@ -33038,5 +33038,89 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/f1ebd439-56ed-4d12-a8fd-979c74604eca"
     }
+  },
+  {
+    "id": "2026-09-17T21:29:06.504Z:cloudflare:7535803:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:7535803",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Data Center DCIM Program Leader - Infrastructure Operations",
+    "after": "IT Asset Manager",
+    "occurredAt": "2026-09-17T21:29:06.504Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7535803?gh_jid=7535803"
+    }
+  },
+  {
+    "id": "2026-09-17T21:29:06.504Z:cloudflare:7535803:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:7535803",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-04T14:59:17.000Z",
+    "after": "2026-09-17T17:52:57.000Z",
+    "occurredAt": "2026-09-17T21:29:06.504Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7535803?gh_jid=7535803"
+    }
+  },
+  {
+    "id": "2026-09-17T21:29:06.504Z:cloudflare:7535803:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:7535803",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "1ab6df37dbfcbec80793adb2e79d707fbb5f3bab6fd0f2b740fb601299b7decb",
+    "after": "94900d1887769449c300c896251eaa3e28af221774cec2b6f0033e7d8a6f6473",
+    "occurredAt": "2026-09-17T21:29:06.504Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7535803?gh_jid=7535803"
+    }
+  },
+  {
+    "id": "2026-09-17T21:29:06.504Z:cloudflare:7991283:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:7991283",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-17T21:29:06.504Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7991283?gh_jid=7991283"
+    }
+  },
+  {
+    "id": "2026-09-17T21:29:06.504Z:cloudflare:8106415:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8106415",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-04T14:59:17.000Z",
+    "after": "2026-09-17T17:42:00.000Z",
+    "occurredAt": "2026-09-17T21:29:06.504Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8106415?gh_jid=8106415"
+    }
+  },
+  {
+    "id": "2026-09-17T21:29:06.504Z:ramp:afe866c3-3725-4416-9e5f-530ed89b295d:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:afe866c3-3725-4416-9e5f-530ed89b295d",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Manager, Scaled Customer Success",
+    "after": "Manager, Scaled Customer Success Strategy & Operations",
+    "occurredAt": "2026-09-17T21:29:06.504Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/afe866c3-3725-4416-9e5f-530ed89b295d"
+    }
   }
 ]
