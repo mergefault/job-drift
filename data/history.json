@@ -34102,5 +34102,19 @@
     "evidence": {
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8214726?gh_jid=8214726"
     }
+  },
+  {
+    "id": "2026-09-19T15:56:53.367Z:cloudflare:8147213:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8147213",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-19T15:56:53.367Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8147213?gh_jid=8147213"
+    }
   }
 ]
