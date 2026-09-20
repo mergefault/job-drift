@@ -34116,5 +34116,19 @@
     "evidence": {
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8147213?gh_jid=8147213"
     }
+  },
+  {
+    "id": "2026-09-20T16:14:44.985Z:binance:7f4d579c-40f1-4f5e-a595-dcbd86ce6106:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:7f4d579c-40f1-4f5e-a595-dcbd86ce6106",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-20T16:14:44.985Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/7f4d579c-40f1-4f5e-a595-dcbd86ce6106"
+    }
   }
 ]
