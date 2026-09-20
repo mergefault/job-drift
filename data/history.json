@@ -34130,5 +34130,19 @@
     "evidence": {
       "url": "https://jobs.lever.co/binance/7f4d579c-40f1-4f5e-a595-dcbd86ce6106"
     }
+  },
+  {
+    "id": "2026-09-20T20:54:32.202Z:binance:4d2145b6-9143-4a3c-b409-7f98e32712bf:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:4d2145b6-9143-4a3c-b409-7f98e32712bf",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-20T20:54:32.202Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/4d2145b6-9143-4a3c-b409-7f98e32712bf"
+    }
   }
 ]
