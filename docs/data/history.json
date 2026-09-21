@@ -34144,5 +34144,61 @@
     "evidence": {
       "url": "https://jobs.lever.co/binance/4d2145b6-9143-4a3c-b409-7f98e32712bf"
     }
+  },
+  {
+    "id": "2026-09-21T05:06:20.219Z:binance:3009fd11-526f-468d-bd1e-1437bc476afa:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:3009fd11-526f-468d-bd1e-1437bc476afa",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-21T05:06:20.219Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/3009fd11-526f-468d-bd1e-1437bc476afa"
+    }
+  },
+  {
+    "id": "2026-09-21T05:06:20.219Z:binance:608438a8-1cae-4915-9861-05034a418785:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:608438a8-1cae-4915-9861-05034a418785",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-21T05:06:20.219Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/608438a8-1cae-4915-9861-05034a418785"
+    }
+  },
+  {
+    "id": "2026-09-21T05:06:20.219Z:binance:a7a0a825-eb3a-4c0a-8239-6d22c1afcf45:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:a7a0a825-eb3a-4c0a-8239-6d22c1afcf45",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-21T05:06:20.219Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/a7a0a825-eb3a-4c0a-8239-6d22c1afcf45"
+    }
+  },
+  {
+    "id": "2026-09-21T05:06:20.219Z:binance:b6a7e960-52b6-400c-ac58-f6d578b59fbd:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:b6a7e960-52b6-400c-ac58-f6d578b59fbd",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-21T05:06:20.219Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/b6a7e960-52b6-400c-ac58-f6d578b59fbd"
+    }
   }
 ]
