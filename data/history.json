@@ -34200,5 +34200,369 @@
     "evidence": {
       "url": "https://jobs.lever.co/binance/b6a7e960-52b6-400c-ac58-f6d578b59fbd"
     }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:binance:1245204b-d029-4961-9819-bb6fc37d9b16:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:1245204b-d029-4961-9819-bb6fc37d9b16",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Binance Accelerator Program - Data Scientist (KYB/KYC Ops), AI",
+    "after": "Binance Accelerator Program - Data Scientist, AI (KYB/KYC Transaction Monitoring)",
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/1245204b-d029-4961-9819-bb6fc37d9b16"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:binance:1b47fa5d-2fce-4427-a697-893d6ec42dfe:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:1b47fa5d-2fce-4427-a697-893d6ec42dfe",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/1b47fa5d-2fce-4427-a697-893d6ec42dfe"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:binance:4bf08930-4450-4d83-ae70-5d7b38c48c88:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "binance:4bf08930-4450-4d83-ae70-5d7b38c48c88",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "location",
+    "before": "United Kingdom, London",
+    "after": "Asia",
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/4bf08930-4450-4d83-ae70-5d7b38c48c88"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:binance:5f7658b5-0dfa-4123-8d92-ffb987fb99ce:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:5f7658b5-0dfa-4123-8d92-ffb987fb99ce",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/5f7658b5-0dfa-4123-8d92-ffb987fb99ce"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:binance:809c42f3-fedc-475a-9b10-7c544b0b2318:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:809c42f3-fedc-475a-9b10-7c544b0b2318",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/809c42f3-fedc-475a-9b10-7c544b0b2318"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:binance:96e8326e-074f-4d1f-89c4-8ed1a6f96014:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:96e8326e-074f-4d1f-89c4-8ed1a6f96014",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Binance Accelerator Program - Blockchain Data Scientist (AI/LLM)",
+    "after": "Binance Accelerator Program - Data Scientist (On Chain background) Fully Remote",
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/96e8326e-074f-4d1f-89c4-8ed1a6f96014"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:binance:96e8326e-074f-4d1f-89c4-8ed1a6f96014:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:96e8326e-074f-4d1f-89c4-8ed1a6f96014",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "87497710f11ab7d67f9b49f6bf6040ba4ee753fe07dd660f908b4fb5da474b3d",
+    "after": "cc3778977324dcda97a8341cb86f2acfb68250ebb2c91b084230692ae700092d",
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/96e8326e-074f-4d1f-89c4-8ed1a6f96014"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:binance:98675df4-de04-4859-a402-3e2631dec06a:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:98675df4-de04-4859-a402-3e2631dec06a",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/98675df4-de04-4859-a402-3e2631dec06a"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:binance:ac0a2ef0-61f8-4440-ab3d-faf0bbb9b584:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:ac0a2ef0-61f8-4440-ab3d-faf0bbb9b584",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/ac0a2ef0-61f8-4440-ab3d-faf0bbb9b584"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:binance:b46a1b43-d138-408d-af45-de505982b47a:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:b46a1b43-d138-408d-af45-de505982b47a",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/b46a1b43-d138-408d-af45-de505982b47a"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:binance:c899ed69-9dea-49a0-9732-8cdce5c99ecf:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:c899ed69-9dea-49a0-9732-8cdce5c99ecf",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/c899ed69-9dea-49a0-9732-8cdce5c99ecf"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:binance:ec9f10bd-3b8c-4824-981e-cd2eedf8c789:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:ec9f10bd-3b8c-4824-981e-cd2eedf8c789",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Finance System Lead",
+    "after": "Head of Finance System",
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/ec9f10bd-3b8c-4824-981e-cd2eedf8c789"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:cloudflare:7462504:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:7462504",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Senior Named Account Executive, Israel",
+    "after": "Senior Named Account Executive, Israel - Digital Natives",
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7462504?gh_jid=7462504"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:cloudflare:7462504:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:7462504",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-17T08:30:25.000Z",
+    "after": "2026-09-21T10:47:48.000Z",
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7462504?gh_jid=7462504"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:cloudflare:7735965:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:7735965",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7735965?gh_jid=7735965"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:cloudflare:7857793:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:7857793",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Senior Account Executive, Saudi Arabia - Digital Natives",
+    "after": "Senior Account Executive, Saudi Arabia - Startups",
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7857793?gh_jid=7857793"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:cloudflare:7857793:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:7857793",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-18T12:12:13.000Z",
+    "after": "2026-09-21T09:20:17.000Z",
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7857793?gh_jid=7857793"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:cloudflare:8161038:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8161038",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8161038?gh_jid=8161038"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:cloudflare:8179405:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8179405",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8179405?gh_jid=8179405"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:cloudflare:8203752:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8203752",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8203752?gh_jid=8203752"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:cloudflare:8213265:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8213265",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Senior Account Executive, South Africa - Digital Natives",
+    "after": "Senior Account Executive, South Africa - Startups",
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8213265?gh_jid=8213265"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:cloudflare:8213265:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8213265",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-18T12:15:03.000Z",
+    "after": "2026-09-21T09:20:28.000Z",
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8213265?gh_jid=8213265"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:cloudflare:8213269:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8213269",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Senior Account Executive, Turkey - Digital Natives",
+    "after": "Senior Account Executive, Turkey - Startups",
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8213269?gh_jid=8213269"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:cloudflare:8213269:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8213269",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-18T12:16:23.000Z",
+    "after": "2026-09-21T09:20:41.000Z",
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8213269?gh_jid=8213269"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:ramp:a85afad0-8051-4333-ae89-0f82321dea87:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:a85afad0-8051-4333-ae89-0f82321dea87",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/a85afad0-8051-4333-ae89-0f82321dea87"
+    }
+  },
+  {
+    "id": "2026-09-21T12:59:01.056Z:ramp:f1ebd439-56ed-4d12-a8fd-979c74604eca:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:f1ebd439-56ed-4d12-a8fd-979c74604eca",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "SMB Manager, Sales Development",
+    "after": "Manager, Sales Development | SMB",
+    "occurredAt": "2026-09-21T12:59:01.056Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/f1ebd439-56ed-4d12-a8fd-979c74604eca"
+    }
   }
 ]
