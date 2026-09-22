@@ -35418,5 +35418,145 @@
     "evidence": {
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8222720?gh_jid=8222720"
     }
+  },
+  {
+    "id": "2026-09-22T17:02:49.883Z:binance:f919775a-7959-452a-877f-b53ec3e094a6:JOB_UPDATED:department",
+    "type": "JOB_UPDATED",
+    "jobId": "binance:f919775a-7959-452a-877f-b53ec3e094a6",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "department",
+    "before": "Data & Research",
+    "after": "Business Development",
+    "occurredAt": "2026-09-22T17:02:49.883Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/f919775a-7959-452a-877f-b53ec3e094a6"
+    }
+  },
+  {
+    "id": "2026-09-22T17:02:49.883Z:binance:f919775a-7959-452a-877f-b53ec3e094a6:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "binance:f919775a-7959-452a-877f-b53ec3e094a6",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "team",
+    "before": "Research",
+    "after": "Business Development",
+    "occurredAt": "2026-09-22T17:02:49.883Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/f919775a-7959-452a-877f-b53ec3e094a6"
+    }
+  },
+  {
+    "id": "2026-09-22T17:02:49.883Z:cloudflare:7521551:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:7521551",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-22T17:02:49.883Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7521551?gh_jid=7521551"
+    }
+  },
+  {
+    "id": "2026-09-22T17:02:49.883Z:cloudflare:8063946:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8063946",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-22T17:02:49.883Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8063946?gh_jid=8063946"
+    }
+  },
+  {
+    "id": "2026-09-22T17:02:49.883Z:cloudflare:8143690:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8143690",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-22T17:02:49.883Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8143690?gh_jid=8143690"
+    }
+  },
+  {
+    "id": "2026-09-22T17:02:49.883Z:cloudflare:8173899:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8173899",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-22T17:02:49.883Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8173899?gh_jid=8173899"
+    }
+  },
+  {
+    "id": "2026-09-22T17:02:49.883Z:cloudflare:8222720:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8222720",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-22T08:56:33.000Z",
+    "after": "2026-09-22T15:24:07.000Z",
+    "occurredAt": "2026-09-22T17:02:49.883Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8222720?gh_jid=8222720"
+    }
+  },
+  {
+    "id": "2026-09-22T17:02:49.883Z:cursor:7b0b5994-5405-419c-bdca-c7b7ca05b613:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cursor:7b0b5994-5405-419c-bdca-c7b7ca05b613",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "title",
+    "before": "Sales Development Representative - Dutch speaking",
+    "after": "Sales Development Representative",
+    "occurredAt": "2026-09-22T17:02:49.883Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/7b0b5994-5405-419c-bdca-c7b7ca05b613"
+    }
+  },
+  {
+    "id": "2026-09-22T17:02:49.883Z:notion:f663839e-46ac-44ad-9720-da2b6aa28093:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "notion:f663839e-46ac-44ad-9720-da2b6aa28093",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "location",
+    "before": "San Francisco, California",
+    "after": "New York, New York",
+    "occurredAt": "2026-09-22T17:02:49.883Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/f663839e-46ac-44ad-9720-da2b6aa28093"
+    }
+  },
+  {
+    "id": "2026-09-22T17:02:49.883Z:ramp:c826e3bf-f165-4b7c-af8e-301ad7e2dcda:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:c826e3bf-f165-4b7c-af8e-301ad7e2dcda",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-22T17:02:49.883Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/c826e3bf-f165-4b7c-af8e-301ad7e2dcda"
+    }
   }
 ]
