@@ -35068,5 +35068,159 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/4c24a55a-ea3b-4cea-a5b5-7862938616bf"
     }
+  },
+  {
+    "id": "2026-09-22T05:07:59.918Z:binance:ab4fc805-7fe8-4fef-843e-40d9aa1b636c:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:ab4fc805-7fe8-4fef-843e-40d9aa1b636c",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-22T05:07:59.918Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/ab4fc805-7fe8-4fef-843e-40d9aa1b636c"
+    }
+  },
+  {
+    "id": "2026-09-22T05:07:59.918Z:cloudflare:8143311:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8143311",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-22T05:07:59.918Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8143311?gh_jid=8143311"
+    }
+  },
+  {
+    "id": "2026-09-22T05:07:59.918Z:cloudflare:8204256:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8204256",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-22T05:07:59.918Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8204256?gh_jid=8204256"
+    }
+  },
+  {
+    "id": "2026-09-22T05:07:59.918Z:cloudflare:8206674:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8206674",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-22T05:07:59.918Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8206674?gh_jid=8206674"
+    }
+  },
+  {
+    "id": "2026-09-22T05:07:59.918Z:cloudflare:8221187:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8221187",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-22T05:07:59.918Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8221187?gh_jid=8221187"
+    }
+  },
+  {
+    "id": "2026-09-22T05:07:59.918Z:cursor:03b454f2-c586-48cb-a19c-5fc57be55f43:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:03b454f2-c586-48cb-a19c-5fc57be55f43",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-22T05:07:59.918Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/03b454f2-c586-48cb-a19c-5fc57be55f43"
+    }
+  },
+  {
+    "id": "2026-09-22T05:07:59.918Z:cursor:a4fcfac1-8bf1-4804-a0fb-0ea97037772e:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:a4fcfac1-8bf1-4804-a0fb-0ea97037772e",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-22T05:07:59.918Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/a4fcfac1-8bf1-4804-a0fb-0ea97037772e"
+    }
+  },
+  {
+    "id": "2026-09-22T05:07:59.918Z:linear:a8041e0e-350e-47d0-9190-454089216fb8:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "linear:a8041e0e-350e-47d0-9190-454089216fb8",
+    "company": "linear",
+    "companyName": "Linear",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-22T05:07:59.918Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/linear/a8041e0e-350e-47d0-9190-454089216fb8"
+    }
+  },
+  {
+    "id": "2026-09-22T05:07:59.918Z:notion:759a9c5a-cdd6-4d05-8eaf-e78eabc34293:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:759a9c5a-cdd6-4d05-8eaf-e78eabc34293",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Business Development Representative, Korea",
+    "after": "Business Development Representative",
+    "occurredAt": "2026-09-22T05:07:59.918Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/759a9c5a-cdd6-4d05-8eaf-e78eabc34293"
+    }
+  },
+  {
+    "id": "2026-09-22T05:07:59.918Z:notion:be119222-db73-45fb-8634-0095154fcf1d:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:be119222-db73-45fb-8634-0095154fcf1d",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Enterprise Solutions Consultant, Korea",
+    "after": "Enterprise Solutions Consultant",
+    "occurredAt": "2026-09-22T05:07:59.918Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/be119222-db73-45fb-8634-0095154fcf1d"
+    }
+  },
+  {
+    "id": "2026-09-22T05:07:59.918Z:ramp:7cd46077-05fe-4cd7-816f-5528638342f1:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "ramp:7cd46077-05fe-4cd7-816f-5528638342f1",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-22T05:07:59.918Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/7cd46077-05fe-4cd7-816f-5528638342f1"
+    }
   }
 ]
