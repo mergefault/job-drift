@@ -37224,5 +37224,285 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/notion/86138d2b-2e7a-4cbb-b108-549280cc4f03"
     }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:binance:015c877d-238a-491c-ad5b-a65b32671997:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:015c877d-238a-491c-ad5b-a65b32671997",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/015c877d-238a-491c-ad5b-a65b32671997"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:binance:05d495e3-982e-4af7-9d38-f87014984901:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:05d495e3-982e-4af7-9d38-f87014984901",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Binance Accelerator Program - Marketing BD Operations",
+    "after": "Binance Accelerator Program - TradFI Business Development",
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/05d495e3-982e-4af7-9d38-f87014984901"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:binance:1245204b-d029-4961-9819-bb6fc37d9b16:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:1245204b-d029-4961-9819-bb6fc37d9b16",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/1245204b-d029-4961-9819-bb6fc37d9b16"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:binance:1c2867e4-ed8c-4017-94c6-2ffacce00538:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:1c2867e4-ed8c-4017-94c6-2ffacce00538",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/1c2867e4-ed8c-4017-94c6-2ffacce00538"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:binance:e2ff393c-1ca5-4c31-adcd-a2e373bab71f:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:e2ff393c-1ca5-4c31-adcd-a2e373bab71f",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/e2ff393c-1ca5-4c31-adcd-a2e373bab71f"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:binance:eb2c1d7c-ad2c-4c76-b929-efb1a79cd5d8:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:eb2c1d7c-ad2c-4c76-b929-efb1a79cd5d8",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/eb2c1d7c-ad2c-4c76-b929-efb1a79cd5d8"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:cloudflare:7540853:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:7540853",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7540853?gh_jid=7540853"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:cloudflare:7887609:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:7887609",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7887609?gh_jid=7887609"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:cloudflare:8106815:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8106815",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8106815?gh_jid=8106815"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:cloudflare:8109620:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8109620",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8109620?gh_jid=8109620"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:cloudflare:8143314:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8143314",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8143314?gh_jid=8143314"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:cloudflare:8164649:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8164649",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8164649?gh_jid=8164649"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:cloudflare:8195510:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8195510",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-09-22T17:03:15.000Z",
+    "after": "2026-09-24T12:55:19.000Z",
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8195510?gh_jid=8195510"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:cloudflare:8195510:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8195510",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "7f61ad50c30e7e3db9dcf474c08e12513e2a3ab3cbe5a1bfd88306879c6010f9",
+    "after": "f808a92d639e13bca099b36e2615671316cd1ed75ecdab547cca7e1d7eed4760",
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8195510?gh_jid=8195510"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:cloudflare:8222614:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8222614",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8222614?gh_jid=8222614"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:cloudflare:8222720:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8222720",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8222720?gh_jid=8222720"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:cloudflare:8222732:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8222732",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8222732?gh_jid=8222732"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:cloudflare:8223319:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8223319",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8223319?gh_jid=8223319"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:ramp:2888b101-b1da-4e53-a02e-1bb9b1b5a951:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "ramp:2888b101-b1da-4e53-a02e-1bb9b1b5a951",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "descriptionHash",
+    "before": "59fc38be54dffda31c9a07433b645e03e9a2ff5a78d36a6f49e1e6b65255eb9f",
+    "after": "248c12b62b086258bc93febadd496194c8cf5c3a633d80d2dc3988b8c0485ad2",
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/2888b101-b1da-4e53-a02e-1bb9b1b5a951"
+    }
+  },
+  {
+    "id": "2026-09-24T17:18:20.549Z:ramp:c01a2ed9-fcb4-48c0-ad7a-c59476d9c986:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:c01a2ed9-fcb4-48c0-ad7a-c59476d9c986",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "TLM, Production Engineering",
+    "after": "Tech Lead and Manager (TLM), Production Engineering",
+    "occurredAt": "2026-09-24T17:18:20.549Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/c01a2ed9-fcb4-48c0-ad7a-c59476d9c986"
+    }
   }
 ]
