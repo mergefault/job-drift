@@ -38764,5 +38764,75 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/d2beca4a-7409-404b-8382-761e5db6e917"
     }
+  },
+  {
+    "id": "2026-09-26T05:08:22.112Z:binance:8f148612-9a2a-4b73-9f9e-cfcc005953bf:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:8f148612-9a2a-4b73-9f9e-cfcc005953bf",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-26T05:08:22.112Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/8f148612-9a2a-4b73-9f9e-cfcc005953bf"
+    }
+  },
+  {
+    "id": "2026-09-26T05:08:22.112Z:binance:b5627380-0111-4d47-bbd5-9cb8b312fb8c:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:b5627380-0111-4d47-bbd5-9cb8b312fb8c",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-26T05:08:22.112Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/b5627380-0111-4d47-bbd5-9cb8b312fb8c"
+    }
+  },
+  {
+    "id": "2026-09-26T05:08:22.112Z:cloudflare:8233344:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8233344",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-09-26T05:08:22.112Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8233344?gh_jid=8233344"
+    }
+  },
+  {
+    "id": "2026-09-26T05:08:22.112Z:ramp:4e9886c1-134b-4cc7-9bcf-eb56bd0ca71f:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "ramp:4e9886c1-134b-4cc7-9bcf-eb56bd0ca71f",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "descriptionHash",
+    "before": "1b355968d80f3fcb7810a7e030b3586bd142e813529f7ec67d13dc7b582e51f0",
+    "after": "5bd5de3ff50f048fdf0abae14e1b6bfefb2024bd8709cd08afbc8977841b5ec3",
+    "occurredAt": "2026-09-26T05:08:22.112Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/4e9886c1-134b-4cc7-9bcf-eb56bd0ca71f"
+    }
+  },
+  {
+    "id": "2026-09-26T05:08:22.112Z:ramp:cc861080-4e19-43a2-bbeb-5b4dc5c6f92a:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "ramp:cc861080-4e19-43a2-bbeb-5b4dc5c6f92a",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "descriptionHash",
+    "before": "9a7cfe3f0e7b270fdd87f50f24f303e4161f3918b07d9ebd8f9f54debbd7708e",
+    "after": "1d9c315f2a36343cc45f747d7c11f44fd57e9eeec358c3f6bfce256ba332d4d9",
+    "occurredAt": "2026-09-26T05:08:22.112Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/cc861080-4e19-43a2-bbeb-5b4dc5c6f92a"
+    }
   }
 ]
