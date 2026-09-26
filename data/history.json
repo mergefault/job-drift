@@ -38862,5 +38862,19 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/314d4881-e8f2-4e61-a102-3469f9566759"
     }
+  },
+  {
+    "id": "2026-09-26T21:16:42.993Z:cursor:c1ac67d4-645a-4632-a178-ea6b5f49bb26:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cursor:c1ac67d4-645a-4632-a178-ea6b5f49bb26",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "title",
+    "before": "Software Engineer, Research Tools",
+    "after": "Software Engineer, ML Research Tools",
+    "occurredAt": "2026-09-26T21:16:42.993Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c1ac67d4-645a-4632-a178-ea6b5f49bb26"
+    }
   }
 ]
