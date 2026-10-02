@@ -43062,5 +43062,61 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/f859c941-4579-402a-aad5-a7bacbf33175"
     }
+  },
+  {
+    "id": "2026-10-02T05:50:25.094Z:binance:c0c39e9b-8795-4622-b1c5-0e93ac87c67d:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:c0c39e9b-8795-4622-b1c5-0e93ac87c67d",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-02T05:50:25.094Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/c0c39e9b-8795-4622-b1c5-0e93ac87c67d"
+    }
+  },
+  {
+    "id": "2026-10-02T05:50:25.094Z:cursor:2514161d-be85-41bd-9b16-38d3771616ad:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:2514161d-be85-41bd-9b16-38d3771616ad",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-02T05:50:25.094Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2514161d-be85-41bd-9b16-38d3771616ad"
+    }
+  },
+  {
+    "id": "2026-10-02T05:50:25.094Z:cursor:38f2d7b3-f431-464d-abdb-b10f71df9a72:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:38f2d7b3-f431-464d-abdb-b10f71df9a72",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-02T05:50:25.094Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/38f2d7b3-f431-464d-abdb-b10f71df9a72"
+    }
+  },
+  {
+    "id": "2026-10-02T05:50:25.094Z:cursor:5729deab-ba2b-4a39-bbdd-c981287d8515:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:5729deab-ba2b-4a39-bbdd-c981287d8515",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "148ad69d65613afa81335b6a97ac2ed5415588ac47b67d5ab4b16e353d354fca",
+    "after": "29b8c4914c3a7b5c8d1d2aeab25c541a53dde9a3607e38a0cbef67a004bd1008",
+    "occurredAt": "2026-10-02T05:50:25.094Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/5729deab-ba2b-4a39-bbdd-c981287d8515"
+    }
   }
 ]
