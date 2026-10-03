@@ -49334,5 +49334,33 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/40f43993-21e8-4db1-a9f4-7a3e6098a9ba"
     }
+  },
+  {
+    "id": "2026-10-03T05:27:04.124Z:notion:be6e1a35-d467-48e6-96bf-62afc4ad0126:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "notion:be6e1a35-d467-48e6-96bf-62afc4ad0126",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-03T05:27:04.124Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/be6e1a35-d467-48e6-96bf-62afc4ad0126"
+    }
+  },
+  {
+    "id": "2026-10-03T05:27:04.124Z:ramp:881f9f7d-9ec5-4b69-b50d-a67000264ca8:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:881f9f7d-9ec5-4b69-b50d-a67000264ca8",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-03T05:27:04.124Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/881f9f7d-9ec5-4b69-b50d-a67000264ca8"
+    }
   }
 ]
