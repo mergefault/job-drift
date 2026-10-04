@@ -49362,5 +49362,61 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/881f9f7d-9ec5-4b69-b50d-a67000264ca8"
     }
+  },
+  {
+    "id": "2026-10-04T21:36:52.067Z:binance:1fc32f93-a16e-4e8a-9e08-d246f469ccaa:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:1fc32f93-a16e-4e8a-9e08-d246f469ccaa",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-04T21:36:52.067Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/1fc32f93-a16e-4e8a-9e08-d246f469ccaa"
+    }
+  },
+  {
+    "id": "2026-10-04T21:36:52.067Z:cloudflare:8248907:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8248907",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-02T19:04:51.000Z",
+    "after": "2026-10-04T21:29:07.000Z",
+    "occurredAt": "2026-10-04T21:36:52.067Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8248907?gh_jid=8248907"
+    }
+  },
+  {
+    "id": "2026-10-04T21:36:52.067Z:cloudflare:8248907:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8248907",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "0b51f70542576619893048ef6e1ac29791ac9e0fc8f8fc542e6ee31653ad016a",
+    "after": "2ed6b090e36ba905611748e9a837de8cacd5a0b2d684ba127888559c6851a621",
+    "occurredAt": "2026-10-04T21:36:52.067Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8248907?gh_jid=8248907"
+    }
+  },
+  {
+    "id": "2026-10-04T21:36:52.067Z:ramp:1c8e2b03-fcb3-4949-9113-07812f138eb6:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "ramp:1c8e2b03-fcb3-4949-9113-07812f138eb6",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-04T21:36:52.067Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/1c8e2b03-fcb3-4949-9113-07812f138eb6"
+    }
   }
 ]
