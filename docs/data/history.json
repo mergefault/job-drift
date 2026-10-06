@@ -50104,5 +50104,173 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/465799ed-c58b-4c6a-a290-2e95b52ef0bb"
     }
+  },
+  {
+    "id": "2026-10-06T06:30:43.718Z:binance:495005da-6a19-4ba1-b98b-19f9495ccb2a:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:495005da-6a19-4ba1-b98b-19f9495ccb2a",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-06T06:30:43.718Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/495005da-6a19-4ba1-b98b-19f9495ccb2a"
+    }
+  },
+  {
+    "id": "2026-10-06T06:30:43.718Z:binance:90318058-ca44-4b5d-a2ba-d0c019e7802f:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:90318058-ca44-4b5d-a2ba-d0c019e7802f",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "c0a98614ce742d8beac1968ec52fb935414438f90e4004949fdb029a0bf001f9",
+    "after": "61330979d7f56171183c7960b7327b0ef22b18b5ffed48adf7701d7b87de9f72",
+    "occurredAt": "2026-10-06T06:30:43.718Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/90318058-ca44-4b5d-a2ba-d0c019e7802f"
+    }
+  },
+  {
+    "id": "2026-10-06T06:30:43.718Z:binance:9203cf32-910c-4431-be2d-78ecd5b40222:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:9203cf32-910c-4431-be2d-78ecd5b40222",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-06T06:30:43.718Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/9203cf32-910c-4431-be2d-78ecd5b40222"
+    }
+  },
+  {
+    "id": "2026-10-06T06:30:43.718Z:binance:9960803c-db24-494c-9b76-e05fc70b2948:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:9960803c-db24-494c-9b76-e05fc70b2948",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-06T06:30:43.718Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/9960803c-db24-494c-9b76-e05fc70b2948"
+    }
+  },
+  {
+    "id": "2026-10-06T06:30:43.718Z:cloudflare:8164724:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8164724",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-02T18:24:13.000Z",
+    "after": "2026-10-06T01:59:24.000Z",
+    "occurredAt": "2026-10-06T06:30:43.718Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8164724?gh_jid=8164724"
+    }
+  },
+  {
+    "id": "2026-10-06T06:30:43.718Z:cloudflare:8164724:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8164724",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "d4c85e4da18629618826024f8095f55094c12ff6fe15ce8802bd02dadc106bca",
+    "after": "3900a08c94b1dc254270a73faffa84cbdc632273d91994a8784d676b7dfc2d7b",
+    "occurredAt": "2026-10-06T06:30:43.718Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8164724?gh_jid=8164724"
+    }
+  },
+  {
+    "id": "2026-10-06T06:30:43.718Z:cloudflare:8219758:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8219758",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-02T18:24:13.000Z",
+    "after": "2026-10-06T05:59:57.000Z",
+    "occurredAt": "2026-10-06T06:30:43.718Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8219758?gh_jid=8219758"
+    }
+  },
+  {
+    "id": "2026-10-06T06:30:43.718Z:cloudflare:8219758:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8219758",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "89a87b8eb1b2e7cdeb1f89027ad33db73d6a94bc06bd8de36e624cfa99b62650",
+    "after": "6bb68c948281ac5db35b818d64afeb69eba90dbd945947297d4486608cbd7490",
+    "occurredAt": "2026-10-06T06:30:43.718Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8219758?gh_jid=8219758"
+    }
+  },
+  {
+    "id": "2026-10-06T06:30:43.718Z:cloudflare:8245197:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8245197",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-06T06:30:43.718Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197"
+    }
+  },
+  {
+    "id": "2026-10-06T06:30:43.718Z:cloudflare:8245211:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8245211",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-06T06:30:43.718Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211"
+    }
+  },
+  {
+    "id": "2026-10-06T06:30:43.718Z:linear:6dd5500a-4bd4-4f57-ba09-7b07acefecf4:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "linear:6dd5500a-4bd4-4f57-ba09-7b07acefecf4",
+    "company": "linear",
+    "companyName": "Linear",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-06T06:30:43.718Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/linear/6dd5500a-4bd4-4f57-ba09-7b07acefecf4"
+    }
+  },
+  {
+    "id": "2026-10-06T06:30:43.718Z:linear:cb8e77a6-4316-45c6-ac8d-7ade980cd65e:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "linear:cb8e77a6-4316-45c6-ac8d-7ade980cd65e",
+    "company": "linear",
+    "companyName": "Linear",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-06T06:30:43.718Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/linear/cb8e77a6-4316-45c6-ac8d-7ade980cd65e"
+    }
   }
 ]
