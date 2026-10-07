@@ -51910,5 +51910,285 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/f99558f9-639c-4f36-81af-2d0910703560"
     }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:binance:371938c3-875b-431a-a8d9-16f02b184441:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:371938c3-875b-431a-a8d9-16f02b184441",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/371938c3-875b-431a-a8d9-16f02b184441"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:binance:4feba408-6143-4579-9d79-e88362b2c947:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:4feba408-6143-4579-9d79-e88362b2c947",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/4feba408-6143-4579-9d79-e88362b2c947"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:binance:5186735e-4e8a-4962-b402-0fafa00bbde5:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "binance:5186735e-4e8a-4962-b402-0fafa00bbde5",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "location",
+    "before": "Mexico, Mexico City",
+    "after": "Asia",
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/5186735e-4e8a-4962-b402-0fafa00bbde5"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:binance:53357ba5-a562-4e82-b533-0f863bd71a52:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:53357ba5-a562-4e82-b533-0f863bd71a52",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Regional Branding & Partnerships Manager - LATAM",
+    "after": "Product Marketing Manager - LATAM",
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/53357ba5-a562-4e82-b533-0f863bd71a52"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:binance:5e5c344b-d43d-4250-a729-9f04bc008388:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:5e5c344b-d43d-4250-a729-9f04bc008388",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "c0a98614ce742d8beac1968ec52fb935414438f90e4004949fdb029a0bf001f9",
+    "after": "924289074861d6976d3344471848311947dddea8f301f6063fafd256027b25bb",
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/5e5c344b-d43d-4250-a729-9f04bc008388"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:binance:6867adf0-87e2-49a1-bb1e-304336c44fe1:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:6867adf0-87e2-49a1-bb1e-304336c44fe1",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/6867adf0-87e2-49a1-bb1e-304336c44fe1"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:binance:a1124a16-3dfe-4547-b0e9-90aa402ebfde:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:a1124a16-3dfe-4547-b0e9-90aa402ebfde",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "c0a98614ce742d8beac1968ec52fb935414438f90e4004949fdb029a0bf001f9",
+    "after": "06990e911897c913d48ec40d22d307036d3d39cd609d0354a9fc365d762d8263",
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/a1124a16-3dfe-4547-b0e9-90aa402ebfde"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:binance:b5627380-0111-4d47-bbd5-9cb8b312fb8c:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:b5627380-0111-4d47-bbd5-9cb8b312fb8c",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": null,
+    "after": "01ff6a16dcb9c50baf86793a173272bfc40aa1ece3ca1e87682c7d6033580b6c",
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/b5627380-0111-4d47-bbd5-9cb8b312fb8c"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:binance:c383b373-b97f-458b-aa6e-d1c122ff3efd:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:c383b373-b97f-458b-aa6e-d1c122ff3efd",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "c0a98614ce742d8beac1968ec52fb935414438f90e4004949fdb029a0bf001f9",
+    "after": "10370d1e8392af5b37f7f46ba63063eae9be14d3e04283badcb760c8c6178c7a",
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/c383b373-b97f-458b-aa6e-d1c122ff3efd"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:binance:d4d2ba9b-3bc6-4f10-a3c1-54b7b40e563d:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:d4d2ba9b-3bc6-4f10-a3c1-54b7b40e563d",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/d4d2ba9b-3bc6-4f10-a3c1-54b7b40e563d"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:binance:da981b97-477a-4cd6-af88-797c6a7c0ea3:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:da981b97-477a-4cd6-af88-797c6a7c0ea3",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "c0a98614ce742d8beac1968ec52fb935414438f90e4004949fdb029a0bf001f9",
+    "after": "8b954b8aeb25830fec0a530e82cb6ff31df259b26ae32e478801eeb27415144a",
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/da981b97-477a-4cd6-af88-797c6a7c0ea3"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:binance:e2cec219-a165-4baa-bb22-33be2e2f3063:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:e2cec219-a165-4baa-bb22-33be2e2f3063",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/e2cec219-a165-4baa-bb22-33be2e2f3063"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:binance:eee16b8f-9b9d-473d-8d0f-cde36cdf83cd:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:eee16b8f-9b9d-473d-8d0f-cde36cdf83cd",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "QA Engineer - Automation Backend Testing, Coding (Fully Remote)",
+    "after": "Binance Accelerator Program - QA Coding (Fully Remote)",
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/eee16b8f-9b9d-473d-8d0f-cde36cdf83cd"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:binance:eee16b8f-9b9d-473d-8d0f-cde36cdf83cd:JOB_UPDATED:employmentType",
+    "type": "JOB_UPDATED",
+    "jobId": "binance:eee16b8f-9b9d-473d-8d0f-cde36cdf83cd",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "employmentType",
+    "before": "Full-time: Remote",
+    "after": "Binance Accelerator Program",
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/eee16b8f-9b9d-473d-8d0f-cde36cdf83cd"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:cloudflare:8045292:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8045292",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8045292?gh_jid=8045292"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:cloudflare:8232806:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8232806",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8232806?gh_jid=8232806"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:cloudflare:8242904:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8242904",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8242904?gh_jid=8242904"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:notion:7030916f-4277-45db-9fed-644bb3fba059:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:7030916f-4277-45db-9fed-644bb3fba059",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Enterprise Outcomes Architect (Customer Success)",
+    "after": "Enterprise Outcomes Architect",
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/7030916f-4277-45db-9fed-644bb3fba059"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:notion:b06005d2-e24b-467b-b7ea-783bac7366da:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:b06005d2-e24b-467b-b7ea-783bac7366da",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Commercial Outcomes Architect (Customer Success)",
+    "after": "Commercial Outcomes Architect",
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/b06005d2-e24b-467b-b7ea-783bac7366da"
+    }
+  },
+  {
+    "id": "2026-10-07T13:35:31.815Z:notion:b8af287c-c2b2-4213-859d-87fffbc82546:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:b8af287c-c2b2-4213-859d-87fffbc82546",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Mid-Market Outcomes Architect (Customer Success)",
+    "after": "Mid-Market Outcomes Architect",
+    "occurredAt": "2026-10-07T13:35:31.815Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/b8af287c-c2b2-4213-859d-87fffbc82546"
+    }
   }
 ]
