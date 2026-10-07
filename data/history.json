@@ -50930,5 +50930,985 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/e0b64893-0459-4d84-ac4f-7b50966ef024"
     }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:01e7966a-9873-461c-ad17-771fd7c0be9a:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:01e7966a-9873-461c-ad17-771fd7c0be9a",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/01e7966a-9873-461c-ad17-771fd7c0be9a"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:0de37732-ab17-4b6d-8507-58039706abda:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:0de37732-ab17-4b6d-8507-58039706abda",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Risk Specialist",
+    "after": "Risk Specialist, Taiwan",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/0de37732-ab17-4b6d-8507-58039706abda"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:16fefe71-f6b8-4697-85dc-75f55f90036d:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:16fefe71-f6b8-4697-85dc-75f55f90036d",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "fedd6775507ceebbf527c3caf323951dfa740d0e7c2aa7a00060ad4a9783383d",
+    "after": "7a8fbfc009b1620353995d41e714b2adfb2490544e68127daa8c27c977cb8830",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/16fefe71-f6b8-4697-85dc-75f55f90036d"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:212847ec-7c07-4b30-a253-43e9224de882:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:212847ec-7c07-4b30-a253-43e9224de882",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/212847ec-7c07-4b30-a253-43e9224de882"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:265bc7f2-a9c9-4533-b123-7f511817033e:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:265bc7f2-a9c9-4533-b123-7f511817033e",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/265bc7f2-a9c9-4533-b123-7f511817033e"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:2bf894dc-40c6-481b-9f07-d48840f7e661:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:2bf894dc-40c6-481b-9f07-d48840f7e661",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/2bf894dc-40c6-481b-9f07-d48840f7e661"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:2ead56aa-19df-4eed-ad80-e7dc2b23397c:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:2ead56aa-19df-4eed-ad80-e7dc2b23397c",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/2ead56aa-19df-4eed-ad80-e7dc2b23397c"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:44817b9e-0e46-4397-a13e-76c6866ac48c:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:44817b9e-0e46-4397-a13e-76c6866ac48c",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/44817b9e-0e46-4397-a13e-76c6866ac48c"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:4705b469-bdd0-4822-a272-de7b98a00280:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:4705b469-bdd0-4822-a272-de7b98a00280",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/4705b469-bdd0-4822-a272-de7b98a00280"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:495005da-6a19-4ba1-b98b-19f9495ccb2a:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:495005da-6a19-4ba1-b98b-19f9495ccb2a",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "fedd6775507ceebbf527c3caf323951dfa740d0e7c2aa7a00060ad4a9783383d",
+    "after": "2b2d0271163ca3f6225db1ea6b8f82d72d52773fe829ce05a7b18409a76f973d",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/495005da-6a19-4ba1-b98b-19f9495ccb2a"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:60ee32bb-4dfb-4055-98a1-ec3be5479359:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:60ee32bb-4dfb-4055-98a1-ec3be5479359",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/60ee32bb-4dfb-4055-98a1-ec3be5479359"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:6619fde1-244d-45e9-afe7-5bb02b432c8b:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:6619fde1-244d-45e9-afe7-5bb02b432c8b",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/6619fde1-244d-45e9-afe7-5bb02b432c8b"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:67106111-8a40-4236-9287-30794315c712:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:67106111-8a40-4236-9287-30794315c712",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "c0a98614ce742d8beac1968ec52fb935414438f90e4004949fdb029a0bf001f9",
+    "after": "76ee9a616f4683bec576f0b2c42f1a58a123bc0898389e1de4569f84e8ef655f",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/67106111-8a40-4236-9287-30794315c712"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:6a9b6c92-1d7b-4aca-aca6-df90e4c97d5f:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:6a9b6c92-1d7b-4aca-aca6-df90e4c97d5f",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/6a9b6c92-1d7b-4aca-aca6-df90e4c97d5f"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:6fff9a51-f9e7-4d91-99b6-bf0e6add4708:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:6fff9a51-f9e7-4d91-99b6-bf0e6add4708",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/6fff9a51-f9e7-4d91-99b6-bf0e6add4708"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:7111b594-b63b-4085-8e0c-25c66cece708:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:7111b594-b63b-4085-8e0c-25c66cece708",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "c0a98614ce742d8beac1968ec52fb935414438f90e4004949fdb029a0bf001f9",
+    "after": "a713bd054d9c7ef84aa192e740fe0522002f7ca023d615e6cad0b66e5c2c5ea0",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/7111b594-b63b-4085-8e0c-25c66cece708"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:7d019671-5db0-41d0-b70d-88762cff76d4:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:7d019671-5db0-41d0-b70d-88762cff76d4",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": null,
+    "after": "e3112720a1eb63d49ec8fd2f78f358351250b6fde68dffd36f58002c5533a399",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/7d019671-5db0-41d0-b70d-88762cff76d4"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:809e84a4-0d1e-4159-8d45-6f6f4518158e:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:809e84a4-0d1e-4159-8d45-6f6f4518158e",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/809e84a4-0d1e-4159-8d45-6f6f4518158e"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:80d948bc-2da7-47fd-9533-84613aa4b179:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:80d948bc-2da7-47fd-9533-84613aa4b179",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/80d948bc-2da7-47fd-9533-84613aa4b179"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:834478e8-854c-40d0-8093-7bc0a5e080d5:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:834478e8-854c-40d0-8093-7bc0a5e080d5",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "7ab7980a53ce50cea8eb9224abab1a3a6a95549fae1e352eb11b43b1d6a2b36d",
+    "after": "f162af69f6d0ae0cfb864bc2e5bfb6b86aac7e5f7f37cbda9f82aed18ebdc87e",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/834478e8-854c-40d0-8093-7bc0a5e080d5"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:8345f353-81e8-49ca-b1f0-36bef643eb80:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:8345f353-81e8-49ca-b1f0-36bef643eb80",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": null,
+    "after": "e3112720a1eb63d49ec8fd2f78f358351250b6fde68dffd36f58002c5533a399",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/8345f353-81e8-49ca-b1f0-36bef643eb80"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:8380dff9-eebd-458f-a23f-698e27971872:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:8380dff9-eebd-458f-a23f-698e27971872",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/8380dff9-eebd-458f-a23f-698e27971872"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:8d896aba-c7f6-4481-9444-50108cc797eb:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:8d896aba-c7f6-4481-9444-50108cc797eb",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/8d896aba-c7f6-4481-9444-50108cc797eb"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:a1806ff4-923d-4758-82de-d607a5d28011:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:a1806ff4-923d-4758-82de-d607a5d28011",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/a1806ff4-923d-4758-82de-d607a5d28011"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:b1b01056-0de9-4b4a-9962-bee31fb8e7d3:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:b1b01056-0de9-4b4a-9962-bee31fb8e7d3",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/b1b01056-0de9-4b4a-9962-bee31fb8e7d3"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:b22f7d6f-383d-4fc4-8639-bd5e7dfa5bef:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:b22f7d6f-383d-4fc4-8639-bd5e7dfa5bef",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "2f8b3f24eeeaab7dc45b0f6d30e31c03f25f004ce03ed5a0978abcfbf5492f52",
+    "after": "307a4bc52e37cfa75d39b4c44f6239dbf9561f9e79bdf12a45cdc8c041ff23ce",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/b22f7d6f-383d-4fc4-8639-bd5e7dfa5bef"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:b44b5f08-7cfd-48bd-b2a1-03b6ffb987c7:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:b44b5f08-7cfd-48bd-b2a1-03b6ffb987c7",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "ff0b2b1b57bd43c1de5f47e2727ace1d0df99ea4c3163d63402b7b52d70150f1",
+    "after": "9dbe50c4a21d5a7fb86a1cf1a9457cde2cebf2c0eac25f9e3f4a19cfd67aab72",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/b44b5f08-7cfd-48bd-b2a1-03b6ffb987c7"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:c0980db4-ea30-4f3a-be47-a17fe8424ceb:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:c0980db4-ea30-4f3a-be47-a17fe8424ceb",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "2f311232d57a42b778ffe119fe569bc012a3737856cf623e3393a980c0957465",
+    "after": "cc44b2f4eb8303e51e7716cfd3084566218143e4989283081bf27bfcab638c24",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/c0980db4-ea30-4f3a-be47-a17fe8424ceb"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:c7915d47-0f24-40eb-bf55-80b0751b5b37:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:c7915d47-0f24-40eb-bf55-80b0751b5b37",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/c7915d47-0f24-40eb-bf55-80b0751b5b37"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:d12d1a22-19b4-4c05-96c0-4305170bde02:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:d12d1a22-19b4-4c05-96c0-4305170bde02",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/d12d1a22-19b4-4c05-96c0-4305170bde02"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:e2ff393c-1ca5-4c31-adcd-a2e373bab71f:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:e2ff393c-1ca5-4c31-adcd-a2e373bab71f",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "d99e278caf2c2b8f6b13e97f899bf698b5f3dff67327eca9c0ee0afcb73c152f",
+    "after": "c0a98614ce742d8beac1968ec52fb935414438f90e4004949fdb029a0bf001f9",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/e2ff393c-1ca5-4c31-adcd-a2e373bab71f"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:e7f93f9f-9e39-4a3f-87e3-4dea1efb79b1:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:e7f93f9f-9e39-4a3f-87e3-4dea1efb79b1",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/e7f93f9f-9e39-4a3f-87e3-4dea1efb79b1"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:ec10bb42-4cbd-4db8-a38f-7ce1e549fcda:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:ec10bb42-4cbd-4db8-a38f-7ce1e549fcda",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/ec10bb42-4cbd-4db8-a38f-7ce1e549fcda"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:f610850c-df60-4c64-9951-23ca130f58eb:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:f610850c-df60-4c64-9951-23ca130f58eb",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "8655d3426b551925ad3ee36d2a0ab2c2f619de1e5eb4f6c5db3b8d3d5cf00cf5",
+    "after": "fedd6775507ceebbf527c3caf323951dfa740d0e7c2aa7a00060ad4a9783383d",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/f610850c-df60-4c64-9951-23ca130f58eb"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:binance:fa4cb816-ee24-4d6f-a1cf-d35b5a225bdc:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:fa4cb816-ee24-4d6f-a1cf-d35b5a225bdc",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/fa4cb816-ee24-4d6f-a1cf-d35b5a225bdc"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cloudflare:7774167:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:7774167",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cloudflare:8127559:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8127559",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8127559?gh_jid=8127559"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cloudflare:8143255:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8143255",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8143255?gh_jid=8143255"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cloudflare:8170775:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8170775",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8170775?gh_jid=8170775"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cloudflare:8173899:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8173899",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8173899?gh_jid=8173899"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cloudflare:8191453:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8191453",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-02T18:24:13.000Z",
+    "after": "2026-10-06T22:54:59.000Z",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8191453?gh_jid=8191453"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cloudflare:8191516:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8191516",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8191516?gh_jid=8191516"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cloudflare:8201404:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8201404",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-02T18:24:13.000Z",
+    "after": "2026-10-07T04:16:13.000Z",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8201404?gh_jid=8201404"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cloudflare:8204353:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8204353",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-02T18:24:13.000Z",
+    "after": "2026-10-07T01:23:15.000Z",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8204353?gh_jid=8204353"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cloudflare:8206674:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8206674",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-02T18:24:13.000Z",
+    "after": "2026-10-07T03:05:42.000Z",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8206674?gh_jid=8206674"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cloudflare:8206674:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8206674",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "179a3cfd2bc804229db2e40780aa8fe10837c72a8a0db60edb34fd4b4a031404",
+    "after": "3fad524666bbe5540fd33f1308a634c329975fbe0228dfafdf40eeb6b2c64c29",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8206674?gh_jid=8206674"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cloudflare:8241790:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8241790",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cloudflare:8256449:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8256449",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8256449?gh_jid=8256449"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cloudflare:8258539:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8258539",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8258539?gh_jid=8258539"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cursor:34cecd0c-c392-4454-8ef5-261310541011:JOB_UPDATED:publishedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cursor:34cecd0c-c392-4454-8ef5-261310541011",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "publishedAt",
+    "before": "2026-03-13T17:42:24.068Z",
+    "after": "2026-10-06T20:10:13.873Z",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cursor:34cecd0c-c392-4454-8ef5-261310541011:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:34cecd0c-c392-4454-8ef5-261310541011",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "a17a44da4e2cd6ff3b2ec197275109c57f91f48a6b66664df4544b46f3977dd9",
+    "after": "e69cbf6fdb11e6419f51975c921be0117d69a0e54eb111c8f17835cadfcee80a",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cursor:44264403-5674-40b7-8b8d-e60b0a86e9ec:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:44264403-5674-40b7-8b8d-e60b0a86e9ec",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "e4e50354a9b9cfc7d81269af750bcf56433c6c8cd2557ae8c55ce2944e89453d",
+    "after": "6a2ddace644cf781ef3a808f2d60da34d96753ff282d24258e3a6ec4cbb986e3",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/44264403-5674-40b7-8b8d-e60b0a86e9ec"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cursor:7bc441a4-9bb6-45cb-a9e0-5ae1b9c7ac5b:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:7bc441a4-9bb6-45cb-a9e0-5ae1b9c7ac5b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/7bc441a4-9bb6-45cb-a9e0-5ae1b9c7ac5b"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:cursor:99641cfd-8523-4f55-8100-958d72b5924b:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:99641cfd-8523-4f55-8100-958d72b5924b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/99641cfd-8523-4f55-8100-958d72b5924b"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:ramp:009dc18b-26a3-4fac-a773-c60d742cf840:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:009dc18b-26a3-4fac-a773-c60d742cf840",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London",
+    "after": "London, UK",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/009dc18b-26a3-4fac-a773-c60d742cf840"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:ramp:0cf79980-4cb6-4001-8bea-635f3b22914f:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:0cf79980-4cb6-4001-8bea-635f3b22914f",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London",
+    "after": "London, UK",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/0cf79980-4cb6-4001-8bea-635f3b22914f"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:ramp:0d731586-3626-48fb-9dc5-3061ae5fd240:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:0d731586-3626-48fb-9dc5-3061ae5fd240",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London",
+    "after": "London, UK",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/0d731586-3626-48fb-9dc5-3061ae5fd240"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:ramp:1515fe6d-1d8e-475b-a5ee-cefe43e78cb7:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:1515fe6d-1d8e-475b-a5ee-cefe43e78cb7",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London",
+    "after": "London, UK",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/1515fe6d-1d8e-475b-a5ee-cefe43e78cb7"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:ramp:2c101be9-f4b8-4a63-a634-9798d9a09eaa:JOB_UPDATED:department",
+    "type": "JOB_UPDATED",
+    "jobId": "ramp:2c101be9-f4b8-4a63-a634-9798d9a09eaa",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "department",
+    "before": "Design",
+    "after": "Marketing",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/2c101be9-f4b8-4a63-a634-9798d9a09eaa"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:ramp:2c101be9-f4b8-4a63-a634-9798d9a09eaa:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "ramp:2c101be9-f4b8-4a63-a634-9798d9a09eaa",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "team",
+    "before": "Design",
+    "after": "Growth Marketing",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/2c101be9-f4b8-4a63-a634-9798d9a09eaa"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:ramp:397d2098-59c4-4987-9ca9-ec019c37000e:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:397d2098-59c4-4987-9ca9-ec019c37000e",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London",
+    "after": "London, UK",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/397d2098-59c4-4987-9ca9-ec019c37000e"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:ramp:4e6fffef-bb23-4623-ad86-95b840dd51be:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:4e6fffef-bb23-4623-ad86-95b840dd51be",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London",
+    "after": "London, UK",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/4e6fffef-bb23-4623-ad86-95b840dd51be"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:ramp:539c56a8-0664-4149-b5ce-9b90d5cf01ac:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:539c56a8-0664-4149-b5ce-9b90d5cf01ac",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London",
+    "after": "London, UK",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/539c56a8-0664-4149-b5ce-9b90d5cf01ac"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:ramp:566c4ad0-03ea-4022-8f11-04f0d8969f97:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:566c4ad0-03ea-4022-8f11-04f0d8969f97",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London",
+    "after": "London, UK",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/566c4ad0-03ea-4022-8f11-04f0d8969f97"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:ramp:7a6ad0e2-8249-476e-a173-2b1a6bd7766b:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:7a6ad0e2-8249-476e-a173-2b1a6bd7766b",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London",
+    "after": "London, UK",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/7a6ad0e2-8249-476e-a173-2b1a6bd7766b"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:ramp:803e8ace-6c1d-4807-99d3-e35fe45b2fc9:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:803e8ace-6c1d-4807-99d3-e35fe45b2fc9",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/803e8ace-6c1d-4807-99d3-e35fe45b2fc9"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:ramp:85063603-e470-497d-b1e8-c05b664353e9:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:85063603-e470-497d-b1e8-c05b664353e9",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London",
+    "after": "London, UK",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/85063603-e470-497d-b1e8-c05b664353e9"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:ramp:b599c5a9-9c9d-4826-b67a-ca5e012faaad:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "ramp:b599c5a9-9c9d-4826-b67a-ca5e012faaad",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b599c5a9-9c9d-4826-b67a-ca5e012faaad"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:ramp:c495a261-789f-4718-9286-3bba81052b4b:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:c495a261-789f-4718-9286-3bba81052b4b",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London",
+    "after": "London, UK",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/c495a261-789f-4718-9286-3bba81052b4b"
+    }
+  },
+  {
+    "id": "2026-10-07T06:09:46.126Z:ramp:f99558f9-639c-4f36-81af-2d0910703560:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:f99558f9-639c-4f36-81af-2d0910703560",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London",
+    "after": "London, UK",
+    "occurredAt": "2026-10-07T06:09:46.126Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/f99558f9-639c-4f36-81af-2d0910703560"
+    }
   }
 ]
