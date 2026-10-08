@@ -52792,5 +52792,159 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/73fd7b0f-ee20-4a83-8765-0ce4663f2d41"
     }
+  },
+  {
+    "id": "2026-10-08T06:16:52.757Z:binance:02e2379e-9828-40c2-af39-16933a51549a:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "binance:02e2379e-9828-40c2-af39-16933a51549a",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "title",
+    "before": "Billing & Legal Admin Executive - 12 months contract",
+    "after": "Legal Operations & Admin Executive - 12 months contract",
+    "occurredAt": "2026-10-08T06:16:52.757Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/02e2379e-9828-40c2-af39-16933a51549a"
+    }
+  },
+  {
+    "id": "2026-10-08T06:16:52.757Z:binance:02e2379e-9828-40c2-af39-16933a51549a:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "binance:02e2379e-9828-40c2-af39-16933a51549a",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": "descriptionHash",
+    "before": "7f988bcf0c4cdd8855381e494c58659dcb8393b4d3551ccc8bd99ad0482e3c23",
+    "after": "add4cf6b0776784bc9e9c14f79202536760f709195ea16b8345117b6b355c326",
+    "occurredAt": "2026-10-08T06:16:52.757Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/02e2379e-9828-40c2-af39-16933a51549a"
+    }
+  },
+  {
+    "id": "2026-10-08T06:16:52.757Z:binance:16965114-4ece-4838-80bc-ebc259253e6f:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:16965114-4ece-4838-80bc-ebc259253e6f",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-08T06:16:52.757Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/16965114-4ece-4838-80bc-ebc259253e6f"
+    }
+  },
+  {
+    "id": "2026-10-08T06:16:52.757Z:binance:aad93d60-ef48-4c8e-adae-23b96af3161e:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:aad93d60-ef48-4c8e-adae-23b96af3161e",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-08T06:16:52.757Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/aad93d60-ef48-4c8e-adae-23b96af3161e"
+    }
+  },
+  {
+    "id": "2026-10-08T06:16:52.757Z:binance:faedeabf-dfce-44cf-a299-8bd1e7d91133:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:faedeabf-dfce-44cf-a299-8bd1e7d91133",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-08T06:16:52.757Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/faedeabf-dfce-44cf-a299-8bd1e7d91133"
+    }
+  },
+  {
+    "id": "2026-10-08T06:16:52.757Z:cloudflare:7978887:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:7978887",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Senior Oracle Procurement Specialist",
+    "after": "Senior Oracle EPM Specialist",
+    "occurredAt": "2026-10-08T06:16:52.757Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7978887?gh_jid=7978887"
+    }
+  },
+  {
+    "id": "2026-10-08T06:16:52.757Z:cloudflare:7978887:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:7978887",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-02T18:24:13.000Z",
+    "after": "2026-10-08T06:13:36.000Z",
+    "occurredAt": "2026-10-08T06:16:52.757Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7978887?gh_jid=7978887"
+    }
+  },
+  {
+    "id": "2026-10-08T06:16:52.757Z:cloudflare:8007032:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8007032",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-08T06:16:52.757Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8007032?gh_jid=8007032"
+    }
+  },
+  {
+    "id": "2026-10-08T06:16:52.757Z:cloudflare:8037985:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8037985",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-08T06:16:52.757Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8037985?gh_jid=8037985"
+    }
+  },
+  {
+    "id": "2026-10-08T06:16:52.757Z:cloudflare:8147148:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8147148",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-08T06:16:52.757Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8147148?gh_jid=8147148"
+    }
+  },
+  {
+    "id": "2026-10-08T06:16:52.757Z:cloudflare:8219758:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8219758",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-06T05:59:57.000Z",
+    "after": "2026-10-08T01:09:53.000Z",
+    "occurredAt": "2026-10-08T06:16:52.757Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8219758?gh_jid=8219758"
+    }
   }
 ]
