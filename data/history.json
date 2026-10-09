@@ -57216,5 +57216,145 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/ec51d0aa-a167-4c38-b955-07c55057267d"
     }
+  },
+  {
+    "id": "2026-10-09T06:18:59.670Z:cloudflare:7374496:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:7374496",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T06:18:59.670Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7374496?gh_jid=7374496"
+    }
+  },
+  {
+    "id": "2026-10-09T06:18:59.670Z:cloudflare:8212060:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8212060",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-02T18:24:13.000Z",
+    "after": "2026-10-09T02:39:23.000Z",
+    "occurredAt": "2026-10-09T06:18:59.670Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8212060?gh_jid=8212060"
+    }
+  },
+  {
+    "id": "2026-10-09T06:18:59.670Z:cloudflare:8212060:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8212060",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "370040a61e4f5cdb8a5aa557d7c0fd3b614dfac6da50b17f75e11d95909ecff5",
+    "after": "7ce50503e6dc470f35519473f3710cdabecc9eeba5bbc726ccb914def689276e",
+    "occurredAt": "2026-10-09T06:18:59.670Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8212060?gh_jid=8212060"
+    }
+  },
+  {
+    "id": "2026-10-09T06:18:59.670Z:cloudflare:8257140:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8257140",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T06:18:59.670Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8257140?gh_jid=8257140"
+    }
+  },
+  {
+    "id": "2026-10-09T06:18:59.670Z:cloudflare:8260743:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8260743",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T06:18:59.670Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8260743?gh_jid=8260743"
+    }
+  },
+  {
+    "id": "2026-10-09T06:18:59.670Z:cursor:e076ddca-ad40-4dd3-adbc-1da0740a92e6:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:e076ddca-ad40-4dd3-adbc-1da0740a92e6",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T06:18:59.670Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/e076ddca-ad40-4dd3-adbc-1da0740a92e6"
+    }
+  },
+  {
+    "id": "2026-10-09T06:18:59.670Z:notion:7030916f-4277-45db-9fed-644bb3fba059:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:7030916f-4277-45db-9fed-644bb3fba059",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Enterprise Outcomes Architect",
+    "after": "Enterprise Outcomes Architect (Customer Success)",
+    "occurredAt": "2026-10-09T06:18:59.670Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/7030916f-4277-45db-9fed-644bb3fba059"
+    }
+  },
+  {
+    "id": "2026-10-09T06:18:59.670Z:notion:b06005d2-e24b-467b-b7ea-783bac7366da:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:b06005d2-e24b-467b-b7ea-783bac7366da",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Commercial Outcomes Architect",
+    "after": "Commercial Outcomes Architect (Customer Success)",
+    "occurredAt": "2026-10-09T06:18:59.670Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/b06005d2-e24b-467b-b7ea-783bac7366da"
+    }
+  },
+  {
+    "id": "2026-10-09T06:18:59.670Z:notion:b8af287c-c2b2-4213-859d-87fffbc82546:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:b8af287c-c2b2-4213-859d-87fffbc82546",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Mid-Market Outcomes Architect",
+    "after": "Mid-Market Outcomes Architect (Customer Success)",
+    "occurredAt": "2026-10-09T06:18:59.670Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/b8af287c-c2b2-4213-859d-87fffbc82546"
+    }
+  },
+  {
+    "id": "2026-10-09T06:18:59.670Z:ramp:871d2fc8-def8-4837-a9b0-7cc4fe126c2b:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "ramp:871d2fc8-def8-4837-a9b0-7cc4fe126c2b",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "descriptionHash",
+    "before": "c0dd5931c44487a2660a622001f75002d81f5000d8b9a0df43387f7ea79808e2",
+    "after": "f3082e776d355370f9a2453d260072ea5948bc6dc83be5564b210eed399abaf6",
+    "occurredAt": "2026-10-09T06:18:59.670Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/871d2fc8-def8-4837-a9b0-7cc4fe126c2b"
+    }
   }
 ]
