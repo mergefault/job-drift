@@ -57538,5 +57538,355 @@
     "evidence": {
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8264664?gh_jid=8264664"
     }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:cloudflare:8016162:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8016162",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Senior System Engineer, Cloudflare Hyperdrive",
+    "after": "Senior Software Engineer, Cloudflare Hyperdrive",
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8016162?gh_jid=8016162"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:cloudflare:8016162:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8016162",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-02T18:24:13.000Z",
+    "after": "2026-10-09T18:13:37.000Z",
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8016162?gh_jid=8016162"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:cloudflare:8074364:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8074364",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8074364?gh_jid=8074364"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:cloudflare:8084240:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8084240",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8084240?gh_jid=8084240"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:cloudflare:8196425:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8196425",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8196425?gh_jid=8196425"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:cloudflare:8207632:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8207632",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8207632?gh_jid=8207632"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:cloudflare:8222720:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8222720",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8222720?gh_jid=8222720"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:cloudflare:8245787:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8245787",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245787?gh_jid=8245787"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:cloudflare:8246078:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8246078",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Senior Customer Engineer, Majors - San Francisco",
+    "after": "Senior Customer Engineer, Strategic - San Francisco",
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8246078?gh_jid=8246078"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:cloudflare:8246078:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8246078",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-06T14:22:31.000Z",
+    "after": "2026-10-09T19:03:51.000Z",
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8246078?gh_jid=8246078"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:cloudflare:8247492:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8247492",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-06T18:07:05.000Z",
+    "after": "2026-10-09T13:59:41.000Z",
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8247492?gh_jid=8247492"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:cloudflare:8263503:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8263503",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8263503?gh_jid=8263503"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:cloudflare:8267826:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8267826",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8267826?gh_jid=8267826"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:cursor:0130118d-1cce-4eea-8325-2fc95ab6c584:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:0130118d-1cce-4eea-8325-2fc95ab6c584",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "679595669d53b0c68f19e4327a100b4b261a32de147b0d2c985c219ebbcc762a",
+    "after": "37fe0add352ecf32bc84b9af26fb5dcac12094f4238f2da0f0161ed53a8aa65b",
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/0130118d-1cce-4eea-8325-2fc95ab6c584"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:cursor:38bd03a3-3d65-4868-87df-cb248d0a45e3:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:38bd03a3-3d65-4868-87df-cb248d0a45e3",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/38bd03a3-3d65-4868-87df-cb248d0a45e3"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:cursor:5afc044a-00ed-4392-8759-59c7effe179d:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:5afc044a-00ed-4392-8759-59c7effe179d",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/5afc044a-00ed-4392-8759-59c7effe179d"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:linear:26c77e48-b4ef-455d-a02c-3ef68fc6f9f9:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "linear:26c77e48-b4ef-455d-a02c-3ef68fc6f9f9",
+    "company": "linear",
+    "companyName": "Linear",
+    "field": "team",
+    "before": "GTM",
+    "after": "Sales",
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/linear/26c77e48-b4ef-455d-a02c-3ef68fc6f9f9"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1:JOB_UPDATED:department",
+    "type": "JOB_UPDATED",
+    "jobId": "linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
+    "company": "linear",
+    "companyName": "Linear",
+    "field": "department",
+    "before": "GTM",
+    "after": "Operations",
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
+    "company": "linear",
+    "companyName": "Linear",
+    "field": "team",
+    "before": "GTM",
+    "after": "Operations",
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:notion:3129e7bd-f717-47d3-9fdd-c4df026bbf20:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "notion:3129e7bd-f717-47d3-9fdd-c4df026bbf20",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/3129e7bd-f717-47d3-9fdd-c4df026bbf20"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:notion:3f842011-eb04-4b75-bf92-8be5a5ce02b2:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:3f842011-eb04-4b75-bf92-8be5a5ce02b2",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "29d50ccf6c381fb628e4d4ceb6e4d1d4a97c76720db0bf123b45d5cc56b53ce7",
+    "after": "c74b9519781bd11628cb956516e8590238b83f024f0c8780acd8e02ba2b4dc06",
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/3f842011-eb04-4b75-bf92-8be5a5ce02b2"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:notion:57b88701-42ce-4c7d-901d-bf65a6256ebc:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "notion:57b88701-42ce-4c7d-901d-bf65a6256ebc",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/57b88701-42ce-4c7d-901d-bf65a6256ebc"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:notion:c35370d3-ac9c-4ad7-947b-77ad6e9e176c:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "notion:c35370d3-ac9c-4ad7-947b-77ad6e9e176c",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/c35370d3-ac9c-4ad7-947b-77ad6e9e176c"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:notion:fb3cd30c-0557-40ec-a47d-e0118663d346:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:fb3cd30c-0557-40ec-a47d-e0118663d346",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "a48aa581e5a40427e4dd36bb2f7cde8966a644ab9b21a2559f9ef90c063d59a7",
+    "after": "dd44a7322886677983314536779094ca808068f84749c1943f00fb69693f353a",
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/fb3cd30c-0557-40ec-a47d-e0118663d346"
+    }
+  },
+  {
+    "id": "2026-10-09T22:43:58.212Z:ramp:530d1596-c1bf-41aa-9915-548a692ed66e:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "ramp:530d1596-c1bf-41aa-9915-548a692ed66e",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-09T22:43:58.212Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/530d1596-c1bf-41aa-9915-548a692ed66e"
+    }
   }
 ]
