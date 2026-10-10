@@ -57902,5 +57902,19 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/440606b5-1923-4f9d-a0ed-c126445b9477"
     }
+  },
+  {
+    "id": "2026-10-10T21:51:25.767Z:binance:da981b97-477a-4cd6-af88-797c6a7c0ea3:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:da981b97-477a-4cd6-af88-797c6a7c0ea3",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-10T21:51:25.767Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/da981b97-477a-4cd6-af88-797c6a7c0ea3"
+    }
   }
 ]
