@@ -57916,5 +57916,33 @@
     "evidence": {
       "url": "https://jobs.lever.co/binance/da981b97-477a-4cd6-af88-797c6a7c0ea3"
     }
+  },
+  {
+    "id": "2026-10-11T22:06:31.071Z:cloudflare:8147190:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8147190",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Senior Customer Engineer, South China",
+    "after": "Senior Customer Engineer, East China",
+    "occurredAt": "2026-10-11T22:06:31.071Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8147190?gh_jid=8147190"
+    }
+  },
+  {
+    "id": "2026-10-11T22:06:31.071Z:cloudflare:8147190:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8147190",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-02T18:24:13.000Z",
+    "after": "2026-10-11T14:21:55.000Z",
+    "occurredAt": "2026-10-11T22:06:31.071Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8147190?gh_jid=8147190"
+    }
   }
 ]
