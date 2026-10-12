@@ -57944,5 +57944,47 @@
     "evidence": {
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8147190?gh_jid=8147190"
     }
+  },
+  {
+    "id": "2026-10-12T06:09:17.319Z:binance:6fa8076d-5abd-4786-a533-3e0568ccbedf:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:6fa8076d-5abd-4786-a533-3e0568ccbedf",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-12T06:09:17.319Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/6fa8076d-5abd-4786-a533-3e0568ccbedf"
+    }
+  },
+  {
+    "id": "2026-10-12T06:09:17.319Z:cloudflare:8027747:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8027747",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-12T06:09:17.319Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8027747?gh_jid=8027747"
+    }
+  },
+  {
+    "id": "2026-10-12T06:09:17.319Z:cursor:15ccad54-d36b-410d-a21d-ac9821af269c:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:15ccad54-d36b-410d-a21d-ac9821af269c",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-12T06:09:17.319Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/15ccad54-d36b-410d-a21d-ac9821af269c"
+    }
   }
 ]
