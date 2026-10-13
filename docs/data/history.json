@@ -59218,5 +59218,2329 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/9a7b7657-1e16-4a95-9a47-79612669cf9c"
     }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8116208:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8116208",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8116208?gh_jid=8116208"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8141822:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8141822",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-02T18:24:13.000Z",
+    "after": "2026-10-13T16:35:05.000Z",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8141822?gh_jid=8141822"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8201957:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8201957",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-02T18:24:13.000Z",
+    "after": "2026-10-13T16:54:48.000Z",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8201957?gh_jid=8201957"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8201957:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8201957",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "dce21d9ec4e4c0fe722c06be8265e8d45377af8f331d8c59e8102ac5bdfbb5c3",
+    "after": "cd6e8ba5f5efd523a1d80f0e14cfe30ff56934adaa84097a722191d45bcd5832",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8201957?gh_jid=8201957"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8219758:JOB_UPDATED:department",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8219758",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "department",
+    "before": "Pricing and Monetization",
+    "after": "Accounting and Finance",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8219758?gh_jid=8219758"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8219758:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8219758",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-08T01:09:53.000Z",
+    "after": "2026-10-13T15:37:01.000Z",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8219758?gh_jid=8219758"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8264695:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8264695",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8264695?gh_jid=8264695"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8265704:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8265704",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-08T20:53:40.000Z",
+    "after": "2026-10-13T16:21:40.000Z",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8265704?gh_jid=8265704"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8269100:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8269100",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8269100?gh_jid=8269100"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8273693:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8273693",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-13T13:15:22.000Z",
+    "after": "2026-10-13T17:33:00.000Z",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8273693?gh_jid=8273693"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8273693:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8273693",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "84f40b74cc02c76ec1d01c5896f8726e52357e0221a4b79aade438c8e2964e96",
+    "after": "4833ecff13b3460756b993949346360d36b36b58b97e77a02ba9db1bc585a60a",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8273693?gh_jid=8273693"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8274341:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8274341",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8274341?gh_jid=8274341"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8275392:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8275392",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8275392?gh_jid=8275392"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8275432:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8275432",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8275432?gh_jid=8275432"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8275434:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8275434",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8275434?gh_jid=8275434"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8275611:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8275611",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8275611?gh_jid=8275611"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8276155:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8276155",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8276155?gh_jid=8276155"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cloudflare:8279346:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8279346",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8279346?gh_jid=8279346"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:010063bd-6083-4fc0-a455-e6f0193b5347:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:010063bd-6083-4fc0-a455-e6f0193b5347",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "c0669ccc0c544b4f971d6270d0382b3d6ce62e2e305b82bfce04db4c6e6fd385",
+    "after": "8f422825ad7ff45a940e6cee1795a707a29f31668bceb60f713613740f470619",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/010063bd-6083-4fc0-a455-e6f0193b5347"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:0130118d-1cce-4eea-8325-2fc95ab6c584:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:0130118d-1cce-4eea-8325-2fc95ab6c584",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "37fe0add352ecf32bc84b9af26fb5dcac12094f4238f2da0f0161ed53a8aa65b",
+    "after": "e1a9de7c752d82edcd15ec7316b193ab175a21eb374a677f9cd2d280193537b7",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/0130118d-1cce-4eea-8325-2fc95ab6c584"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:0320a8db-cb1b-407b-bd62-b23734b83330:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cursor:0320a8db-cb1b-407b-bd62-b23734b83330",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "title",
+    "before": "Software Engineer, Pretraining",
+    "after": "Software Engineer, Pretraining Data",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/0320a8db-cb1b-407b-bd62-b23734b83330"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:0320a8db-cb1b-407b-bd62-b23734b83330:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:0320a8db-cb1b-407b-bd62-b23734b83330",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "4a51ab1b5ab4aed6bd3f1e6c5ad7ecedb7ed1e065175196b84d22369df215a8d",
+    "after": "97d753a8871fd13c8705b9de910d8647e419eb341894178260c51d6b050c1c34",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/0320a8db-cb1b-407b-bd62-b23734b83330"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:03b454f2-c586-48cb-a19c-5fc57be55f43:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:03b454f2-c586-48cb-a19c-5fc57be55f43",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "7981c8a746c19bb09ce116aaf49759da6e6a5408e26799ae057a4c4c6d6021f5",
+    "after": "6bbbab6c4862aab4decf1070f963a2d908d19bb7c4a82565d4972d2c871df83f",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/03b454f2-c586-48cb-a19c-5fc57be55f43"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:040ac0f8-dba7-4d13-8171-b902e925f334:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:040ac0f8-dba7-4d13-8171-b902e925f334",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "a6b4e8fe98365fa8d41271837a34d1b1974be49dc48e105a58a630e619ee3d6f",
+    "after": "d80a7f781ef7a2a6c8c9785c66e4f0e99cac53e43cce386f24c5edcb7b926696",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/040ac0f8-dba7-4d13-8171-b902e925f334"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:066afe7d-e580-4f13-88d9-828a50bea894:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:066afe7d-e580-4f13-88d9-828a50bea894",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "8d469524e0f808249502ccedb2bbeec1ccae030ed346416ba0019909273cd923",
+    "after": "d7bac8adde0fd618a2628ab5c7d92c13d35922ad7f531a7ec23cf84ed255d6ec",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/066afe7d-e580-4f13-88d9-828a50bea894"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:0a82f564-de1b-4c72-9ba4-10cf2b63c483:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:0a82f564-de1b-4c72-9ba4-10cf2b63c483",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "c646338dd456cad414da0de71c2c43bb0a1e5e74da594f0b30ae623dfa6eff4a",
+    "after": "fdf14de500914009db09b6e91d62af1ee671c731258dfadcfa58eaade1cbd096",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/0a82f564-de1b-4c72-9ba4-10cf2b63c483"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:0aa0650b-f93c-416e-9e2f-4fdf1556fd14:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:0aa0650b-f93c-416e-9e2f-4fdf1556fd14",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "bffc052b56280ea772320c9d563b6c9fe1ecbd518cba022100be096de2198ad5",
+    "after": "b3296f4494a4facbec1c25cb3885ff5c01f52fbc3ff384d91441756cf8fff141",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/0aa0650b-f93c-416e-9e2f-4fdf1556fd14"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:0b37a162-0bba-4627-8ec9-e497080abace:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:0b37a162-0bba-4627-8ec9-e497080abace",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "f491d6d310ad1d67c25a95a7d5d286ddad18305beff3a2c39fd59b04ed729c72",
+    "after": "70896bf73301c8e21d3f834e424273f49fbdb91d39df6647548130060411ff7d",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/0b37a162-0bba-4627-8ec9-e497080abace"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:0cf937d6-ed98-42fa-a737-bb3f9f9b8aed:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:0cf937d6-ed98-42fa-a737-bb3f9f9b8aed",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "9b326cc15efd0960287490818cbcad5969ae6798bb83f6131b515ae6b0bb2453",
+    "after": "40001a5eea668ca7bbd08def8896d04495d14a858608b1248a40c0c9b3895fc9",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/0cf937d6-ed98-42fa-a737-bb3f9f9b8aed"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "6ef57e92b75bbcbb82dd907a5d050330e23cbaa5b6501380249bae34b899e123",
+    "after": "abcc8d0b0c56c966d020264df853d978aaf9953ba7f9ec16b8bd459551ac0e64",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:0ecf8ce6-a31a-410a-a49c-d73e76a94c49:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:0ecf8ce6-a31a-410a-a49c-d73e76a94c49",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "cc76c25fbda4ae1115f912078b17e3a3700ce743dbd9e023d4d0b269027e0826",
+    "after": "95a8cfdd25baa33d7d841e2e80fcba6f94b21cc67afe5c4ebd64e03b18a1a577",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/0ecf8ce6-a31a-410a-a49c-d73e76a94c49"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:123af173-6f9b-4089-9d96-d0c028b9e841:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:123af173-6f9b-4089-9d96-d0c028b9e841",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "e1510dc9675382d5a13a8fba7f5ddfe455fb10e88210cc8de074c040af6f236e",
+    "after": "656730bf7985d870aed646b14419235480c8b8308252e41f37bd63b7389451c5",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/123af173-6f9b-4089-9d96-d0c028b9e841"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:1240b4aa-8074-4afb-ae36-a690869c8233:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:1240b4aa-8074-4afb-ae36-a690869c8233",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "3e05007e72ec50c1462049adb4b63d556efca3e7748ac9f6bb65d7e11d330e76",
+    "after": "de4818ba78cb3deaac18d72603ca5f859b3466813ddf669b28ae17b49b777093",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1240b4aa-8074-4afb-ae36-a690869c8233"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:13517b5d-1c6c-4720-9650-b1d0db72c697:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:13517b5d-1c6c-4720-9650-b1d0db72c697",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "6b89b3939e0f4eaa8986ba9d8b8ab9a9f68b324d76bd12c6125dc00497282255",
+    "after": "0915a8587353ecc519f99167b31f9d35245d8bd221d3fd798e89b2c012293914",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/13517b5d-1c6c-4720-9650-b1d0db72c697"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:13ceadb8-638f-40c7-a59d-70dab2f4de0b:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:13ceadb8-638f-40c7-a59d-70dab2f4de0b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "802d8a15a61a5831fc75df04c345007a41ec952ff4d758851c3b47cbf13e5e24",
+    "after": "d698928494f8e08a5c8f04f1a60388e97c2a8e2842170c5fddd3e5ab21dcf2f5",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/13ceadb8-638f-40c7-a59d-70dab2f4de0b"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:166c3951-1d2a-4e61-b79b-bedefe96073b:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:166c3951-1d2a-4e61-b79b-bedefe96073b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "ec0a8ef912c43edbc0ae679ec20ec355217c251224f904d48e0c06ea3d3f7522",
+    "after": "f6b14291ef1e21d5334c65c37e2dd0ce681e46526316b33e0a72a12c0c03ac47",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/166c3951-1d2a-4e61-b79b-bedefe96073b"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:167f0e93-6915-4d56-803a-be89d1441fb5:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:167f0e93-6915-4d56-803a-be89d1441fb5",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "30bb1821dcaac82c29300d06ed4f75bf2db89a1d5eccd0664ee74fd5af01628d",
+    "after": "a04eb4a6d1095472597a100426ea6a3d220e069e5b59b38deb13a844ada50d68",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/167f0e93-6915-4d56-803a-be89d1441fb5"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:1703501f-53a1-4307-93ec-84b723be92ef:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:1703501f-53a1-4307-93ec-84b723be92ef",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "ccd542ef0ba3bf4c2daa5f1e5abea72f1eafe56d64a6df18ae2da8ac0ac4866d",
+    "after": "5c77ed70e0249ebf4a878e9eb222053e5fb4832bd1e3882737efeb229273784a",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1703501f-53a1-4307-93ec-84b723be92ef"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:175cb50f-063c-4d02-8954-568a9c3821bf:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:175cb50f-063c-4d02-8954-568a9c3821bf",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "f3be2f7c6a1b5aacb681a71a3069e91d643bf2d67f971a07ce4d706f6a5e8dcb",
+    "after": "72f8d8e679af252cf95622ddae378778fe43ffb87dda7b4bdad940aaf10427ba",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/175cb50f-063c-4d02-8954-568a9c3821bf"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:1910bd0e-806c-4e60-bfd6-157e369d6d02:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:1910bd0e-806c-4e60-bfd6-157e369d6d02",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "c3c48795d83b563336a7b7676b325e10d228645669b0ce132e2aa6564c78e5a1",
+    "after": "04e40da1f761bf986e35393e9d5e0afe1b50692ebac3a5451ffee8315922e3b6",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1910bd0e-806c-4e60-bfd6-157e369d6d02"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:193c326d-2ffc-4c11-8bba-73d243fd178b:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:193c326d-2ffc-4c11-8bba-73d243fd178b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "ab2798ce6f1f560fe49f48701ff97e21678ea890931f8b89ae5ece76a21c68aa",
+    "after": "2445c0f88027bb5621b00a3365b8773d46d7248ecf095d38e0c10236ba26f1f0",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:1b422774-a090-455f-a8f8-64f68d7f86e5:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:1b422774-a090-455f-a8f8-64f68d7f86e5",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "ad3e3a768b1a43714c18ef4fb25679d9b9ef4ed7945d42a0d5003bf43e8de756",
+    "after": "3d014af4efb91f0016ecf65168464f04ad4cf0cfdc8292b5bf358b5757edb815",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1b422774-a090-455f-a8f8-64f68d7f86e5"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:1cfacf1a-4ba7-4e68-9f65-4fb8e3525bde:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:1cfacf1a-4ba7-4e68-9f65-4fb8e3525bde",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "289ef5861eefcf256de9282607576bff16bddbf487259c9615af0d50a4285b58",
+    "after": "7edc0f155625ce9a68cdd5a2e187aba908185ebbbf1bec23c5c7d14483828dc0",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1cfacf1a-4ba7-4e68-9f65-4fb8e3525bde"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:1d2b496f-c867-40ac-9ca7-cba8436ec2c4:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:1d2b496f-c867-40ac-9ca7-cba8436ec2c4",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "850ca37779050fb6ceb214b4c40003bde0d8a0e274e37cb55ecf56042e541cce",
+    "after": "4e3632500f016fd707a7d6a824677fd46c8f4417b929874693e3116df95a4892",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1d2b496f-c867-40ac-9ca7-cba8436ec2c4"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:1d56ed97-eee3-406d-91e2-7feed88ce6f0:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:1d56ed97-eee3-406d-91e2-7feed88ce6f0",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "bd6eaef0e89ecc28a7d34865002c77f594164b3eeadae9fdc9f75c6f5646329a",
+    "after": "c88729e4316e5b4efb151f7e372e976d8a6fedf411bc6de8428fb18c7fdd76ba",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1d56ed97-eee3-406d-91e2-7feed88ce6f0"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:1d6dbbb2-a5af-41a6-a70a-ca97690d9313:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:1d6dbbb2-a5af-41a6-a70a-ca97690d9313",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "03f64e111cc92f60c572a9f1f51ec324419d5415d672326aed8521aa335f5f49",
+    "after": "085ef6371644271d4030310121cfa458799122937f0467146b68975f82745f03",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1d6dbbb2-a5af-41a6-a70a-ca97690d9313"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:232223c1-913a-4318-982b-1970e2842710:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:232223c1-913a-4318-982b-1970e2842710",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "dfe9993b83979ae81dd40432d99a50ad0d4c34757716908fd8f49a897f82877e",
+    "after": "20e5f2f1f9c5f527cb16222ee84ac567eebec60dbab8e3134cda5273dcd93121",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/232223c1-913a-4318-982b-1970e2842710"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:2514161d-be85-41bd-9b16-38d3771616ad:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:2514161d-be85-41bd-9b16-38d3771616ad",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "e96f4fb058b796f6c40340c05a707728cafc7b8effdcd9a9a70a8a84aa72c94c",
+    "after": "a4a6098de305be6a48e83bb96385d58eacfc2e0031f2e1c8c4dbb49d9c058018",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2514161d-be85-41bd-9b16-38d3771616ad"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:259d711f-606d-4f1c-a5f6-61e2fa5b52d5:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:259d711f-606d-4f1c-a5f6-61e2fa5b52d5",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "41583b3456b81f861599e484e4ac9cd07fd475ccf95dad03c2f02c7b1c02e94c",
+    "after": "f8719542d09f4b0c575c4fd2d23b0327d3f5c83416ee5c2b3984f5d104a68b13",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/259d711f-606d-4f1c-a5f6-61e2fa5b52d5"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:27a7ac90-fe2a-4352-ad56-3548a64c9b64:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:27a7ac90-fe2a-4352-ad56-3548a64c9b64",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "734fc32b46cecb695ff026ef4eccfd5c11715c228eab7c4fb6c982f9da3e87bf",
+    "after": "429271ba21d033f676a57c4ba2354bf1907a44aaf8375b054b2594887decd823",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/27a7ac90-fe2a-4352-ad56-3548a64c9b64"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:299ce422-0281-4282-aadd-bc22553be0b5:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:299ce422-0281-4282-aadd-bc22553be0b5",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "e0da1a210bc5dc29ef38ca77b88d6217a5aed7e2f5901aba3c2e15b52ea1de1b",
+    "after": "18e7c853d714ab9478f26c930a195db32101f3a7342d926fb981a239723ae49e",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/299ce422-0281-4282-aadd-bc22553be0b5"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:2ba388d9-8cb1-4738-a9a2-37d97fc17216:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:2ba388d9-8cb1-4738-a9a2-37d97fc17216",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "509a31621f260e16bd0158ba60921ee6fde41e34c011711da41d8c966aac5f97",
+    "after": "250b947f2bfab9cf039951a794a159a3994d0b680daa2e25125538ec85c7d8a3",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2ba388d9-8cb1-4738-a9a2-37d97fc17216"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:2bbe9f02-83a5-4173-98be-9085d1cb5693:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:2bbe9f02-83a5-4173-98be-9085d1cb5693",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "f7e9bbd08c1f383c7fc7da526fd60b3563881331b13b6a9034712a1bffa0b42e",
+    "after": "6999bac5ed32ec6ba9d2e86558bf964345efc59a2de3393733d8eae9ab6c7fce",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2bbe9f02-83a5-4173-98be-9085d1cb5693"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:2ca532ac-da2a-4f45-ba60-fe4de80ca821:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:2ca532ac-da2a-4f45-ba60-fe4de80ca821",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "39ed34a011726ef626a16128ba4a23e6d3a185bdbc618df19d8f1be9d8073fff",
+    "after": "6c08a860ad2f2fb97cd8028628f686267d3f78377a0f04a5a55d59ae590c3f8f",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2ca532ac-da2a-4f45-ba60-fe4de80ca821"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:2e98f028-1b77-4537-aeee-e2962668c970:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:2e98f028-1b77-4537-aeee-e2962668c970",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "4f6fc59b095f219761ea9e407f96f8deca5e77c41d843513a08c6952caa5e07d",
+    "after": "ecb34325a1c8933df6505822a9e5c2993813390ee4cf813788c82fe055a5e465",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2e98f028-1b77-4537-aeee-e2962668c970"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:32350e7d-b6c8-4556-b8ba-3e58490f7cb7:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:32350e7d-b6c8-4556-b8ba-3e58490f7cb7",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "fa1adb225e82d48f90bc1adc28c450dd892d4dc006bbc3c81dc50909bf0add7b",
+    "after": "3a092b394f31b0a0aae8edf6ff22ab0326717ed2be6da524ed9e547e0f6e9489",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/32350e7d-b6c8-4556-b8ba-3e58490f7cb7"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:34cecd0c-c392-4454-8ef5-261310541011:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:34cecd0c-c392-4454-8ef5-261310541011",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "e69cbf6fdb11e6419f51975c921be0117d69a0e54eb111c8f17835cadfcee80a",
+    "after": "8ff48852350230d85ebf786ccbed3d230680b1c5b77bfd963f0908e491db823a",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:3551cdaa-cf08-4c04-adbe-a968185bc769:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:3551cdaa-cf08-4c04-adbe-a968185bc769",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "268e6734883544432bb2d07d79eb61e6a4fb910dd82b7f8fe93f5830a4e7f3fe",
+    "after": "9209649ee60703e6f91e793b09f3bb39490ede8c6968a691ff6c06c40fd14f48",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/3551cdaa-cf08-4c04-adbe-a968185bc769"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:36e69353-0452-4bf6-9f35-b1e7307959a7:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:36e69353-0452-4bf6-9f35-b1e7307959a7",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "8f20ce4f7341543b813f812ff4dbc0f908c35b72e9fb72e859103dd2c895b75d",
+    "after": "28c0a107f8b44a58d0b7fe029070ed632469243baa52a2e6632ec7c7ef444d7b",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/36e69353-0452-4bf6-9f35-b1e7307959a7"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:3752886b-a6e2-402c-ba2a-47d0659ff335:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:3752886b-a6e2-402c-ba2a-47d0659ff335",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "3ad0a655c86e9758a5511518bb5cc52c86f4bf5ff21fd396062d0dc85867a594",
+    "after": "bde2be0d83ee5eae86e81288c024cef654c46c003474564140bf2643d6e4e92b",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/3752886b-a6e2-402c-ba2a-47d0659ff335"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:38bd03a3-3d65-4868-87df-cb248d0a45e3:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:38bd03a3-3d65-4868-87df-cb248d0a45e3",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "16f2d20a78d6cd35a0dd051b59f5ea4a336d0638df41e63546c37f3af255c538",
+    "after": "8f09c20d745523ee668846da5d83eeeb2171916203f02a6e370916912d0b0e85",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/38bd03a3-3d65-4868-87df-cb248d0a45e3"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:38f2d7b3-f431-464d-abdb-b10f71df9a72:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:38f2d7b3-f431-464d-abdb-b10f71df9a72",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "9788aeb5d050cb20a83b23049410322a9579120a1694b7a5a75c4986bf32f020",
+    "after": "3beec6285f72f91b0a8045f86490810a8e3039b02be1463a5965b1f6ce35aefd",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/38f2d7b3-f431-464d-abdb-b10f71df9a72"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:3b1ec65c-0d2b-43e1-81db-4d33a9a2faa4:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:3b1ec65c-0d2b-43e1-81db-4d33a9a2faa4",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "0d0053b344347cd0d44e53e362fd0153f2ad633008f055f9b75c4afc37bcc2f5",
+    "after": "9aa24f9cce2103b675293ab652853a3ab9705b4939ec2e036ac8b5ddecc195dd",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/3b1ec65c-0d2b-43e1-81db-4d33a9a2faa4"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:3d9da649-b3e6-4b4c-943d-1d081dae9497:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:3d9da649-b3e6-4b4c-943d-1d081dae9497",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "31a28cf6b2442b530c2c65234dd2e31ce957221702858d9d7f6d15e3b676281c",
+    "after": "58f5e94b97ae116ef7d12b0e67f0aa7c82a269e426afcb68a9df1416a5a86e2b",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/3d9da649-b3e6-4b4c-943d-1d081dae9497"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:409d6bff-d60c-45b7-8d4c-21f6574010de:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:409d6bff-d60c-45b7-8d4c-21f6574010de",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "e30d79bcd4e516d9bc90525674bb26a05953f127ac67e3f56103bbb0de974653",
+    "after": "10f68ef5c87ed370532ed525aa59fe579e60017ddf6bbc40ff5816b9d46d5c32",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/409d6bff-d60c-45b7-8d4c-21f6574010de"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:413e0e15-4b48-4c9c-be9d-85dc46ff60c2:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:413e0e15-4b48-4c9c-be9d-85dc46ff60c2",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "ff15e085ed4370d34a3c403d70ffa4da6f1d22ff67a30ac64144e08b03db4557",
+    "after": "c80447488cd49419fda5cbc323e4b5aad4383f48a1339b093ff110a36a247e0d",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/413e0e15-4b48-4c9c-be9d-85dc46ff60c2"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:41f0d1a2-9449-4980-8592-f23290a9b65e:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:41f0d1a2-9449-4980-8592-f23290a9b65e",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "1c19934ab5ed28190ce8868221861904679bcd33d325e0970d58fa6cb3272efc",
+    "after": "4eece4a7ca6fdbbdeebe868da52716360f0d11db57a550b89ce401dc47dfa88f",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/41f0d1a2-9449-4980-8592-f23290a9b65e"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:44264403-5674-40b7-8b8d-e60b0a86e9ec:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:44264403-5674-40b7-8b8d-e60b0a86e9ec",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "6a2ddace644cf781ef3a808f2d60da34d96753ff282d24258e3a6ec4cbb986e3",
+    "after": "7b7714e8034aad7140a2955513cc5e96e3f65c23c6776666fb56fd64046634c9",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/44264403-5674-40b7-8b8d-e60b0a86e9ec"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:45c815b0-5100-4934-8558-0e750b8aed79:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:45c815b0-5100-4934-8558-0e750b8aed79",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "cb1ca7f9ac9c8d35eeada01c4150a3f040b8eaaae8d56858e2975c3147c232f7",
+    "after": "d7f7b3d97d0f244db321270b68d38f4ee76d7822cbd7242f807eb557ee2fe9a1",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/45c815b0-5100-4934-8558-0e750b8aed79"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:47496e80-79d6-49ce-adfb-19b7d1d4248f:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:47496e80-79d6-49ce-adfb-19b7d1d4248f",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "ce31dca7e65c3e3391bb19a4299b1098cebf97ca9d3ed17428750fdccc119ab5",
+    "after": "9ad79976664af9c95bea5c2790a2017f1d1f2721ca1242667e1783a854ab3505",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/47496e80-79d6-49ce-adfb-19b7d1d4248f"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:47994d20-cc6a-436b-8da0-2eceabfd413e:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:47994d20-cc6a-436b-8da0-2eceabfd413e",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "87e28126107462c15e0443240a1f565c0da2a12cda5f450184adb2de3d81d905",
+    "after": "dff4cb3d93ba74a345ae895f572410138d6266458ef891e8ed610720109083f1",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/47994d20-cc6a-436b-8da0-2eceabfd413e"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:4a1f9223-627b-4582-a038-0d7005d7a31d:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:4a1f9223-627b-4582-a038-0d7005d7a31d",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "ba28ab7dc05ef23286ebf3ea6a09ed6bbe5ed6e3156b1692cf74007028982add",
+    "after": "65b52ab0cb1c4accb79b4e7743fc96ad07b7fbfa37496dacdc257a86fe4413f6",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/4a1f9223-627b-4582-a038-0d7005d7a31d"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:4eb9c1a5-0c02-4c35-abea-62a6fe704eeb:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:4eb9c1a5-0c02-4c35-abea-62a6fe704eeb",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "1fb92df34b2d0b738b0430a8b34788b4f1cec9e9f44152fe5f1153f68aa8f344",
+    "after": "e05a19f10772737859d6b7eb7b35a71d4601bd136b2bde6336e72fa088fdaaf1",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/4eb9c1a5-0c02-4c35-abea-62a6fe704eeb"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:54a9cfcd-570a-4e9c-b52c-bd2336c60991:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:54a9cfcd-570a-4e9c-b52c-bd2336c60991",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "7e608bf93bf839cd0743ef95ccc172ad403bdba2718afbe64101842af693dcd8",
+    "after": "952912d34a9aa6582cee0305ff7dd1a10b10eb9bd7197332fc8641b201fe27f8",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/54a9cfcd-570a-4e9c-b52c-bd2336c60991"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:5729deab-ba2b-4a39-bbdd-c981287d8515:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:5729deab-ba2b-4a39-bbdd-c981287d8515",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "29b8c4914c3a7b5c8d1d2aeab25c541a53dde9a3607e38a0cbef67a004bd1008",
+    "after": "ef869bc39e2ad89c46322fc7b6875825680e5edbc5544baedc9df0e41466b5c6",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/5729deab-ba2b-4a39-bbdd-c981287d8515"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:59d55195-2a9e-4b07-a9fc-b721008bc378:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:59d55195-2a9e-4b07-a9fc-b721008bc378",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "2cfcb92545e5f440c1c9dbc37c477e03421b74b5f9fc327216efe2edff3b778a",
+    "after": "969b419576c7c7e3d869629538202f3bbefd4c6381abe4f1d1bbd8fa1568dc73",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/59d55195-2a9e-4b07-a9fc-b721008bc378"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:5ac08fc5-e486-498b-a5b5-991ddb490059:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:5ac08fc5-e486-498b-a5b5-991ddb490059",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "a2c7eccfc04dbc2dbebfbf3da4753fe91f30e76c85e4c1edd283b623f533d430",
+    "after": "d93bacec0ca3938c5f5fca71eb089bc214f572605e4755f07ab233ddc3e419a2",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/5ac08fc5-e486-498b-a5b5-991ddb490059"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:5afc044a-00ed-4392-8759-59c7effe179d:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:5afc044a-00ed-4392-8759-59c7effe179d",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "ea4cb4747f78e04d8afd6ee280f0c1177fb4d513ae9d52be41cc353065446b6f",
+    "after": "63c6fe2bba3999c5ea083083ec30228e8008ada986e698b5e4861a069af7bc46",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/5afc044a-00ed-4392-8759-59c7effe179d"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:61e4677d-cf3d-458a-bf6c-02287d5d2c39:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:61e4677d-cf3d-458a-bf6c-02287d5d2c39",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "f5cca8dc606ba1b6079f7a862cb72d5d609a1ed8305ebe571a65ed9f43062d1c",
+    "after": "7c2f5639b377dd0bf5b71746e413c9fbac06b3792003eb28b7d34dbc84f1c194",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:635bd64f-b554-4d37-9128-cefad35913af:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:635bd64f-b554-4d37-9128-cefad35913af",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "4166d3c7315859097f06360d33ddefed926939722498fec9a213273a5dbb34a0",
+    "after": "9bcc64c19c1f222c1bc346800cf816b0c44ace0b9ad330cd988657a0ff88c0c9",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/635bd64f-b554-4d37-9128-cefad35913af"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:64606b00-0273-4f74-966b-19f3ea01c469:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:64606b00-0273-4f74-966b-19f3ea01c469",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "4ae3cf34853b53eb6b8f1b1db03ebe5ffe0fada3ea678e0c832cd80ea5a7371c",
+    "after": "97578a8b6d4da5226f814605dda553106f6d9e9672aa9d9ba05966137269a636",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/64606b00-0273-4f74-966b-19f3ea01c469"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:646f20fa-9cea-4a23-a245-4339619a5497:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:646f20fa-9cea-4a23-a245-4339619a5497",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "eb3db15cb244aacf5be73613780aa6f33b8b4e345a7b7404dc8e7f120943b240",
+    "after": "618af8f53049ab8c48672261fdf7e489fefdd3eceb71b1080e39bad8737e5b9c",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/646f20fa-9cea-4a23-a245-4339619a5497"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:64a6cb18-493b-4d18-9f22-c661ae533bfa:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:64a6cb18-493b-4d18-9f22-c661ae533bfa",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "be592f82720c0d081239ae8e3ff57c0d9724b8bc182d033089284fef89cab9e2",
+    "after": "20b0f7b44a1b40b528d27f159ea495acacc0f0edc78d2bd139602e74f129767d",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/64a6cb18-493b-4d18-9f22-c661ae533bfa"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:6960dfef-6dc1-4dbb-887b-0fc9e6e4292e:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:6960dfef-6dc1-4dbb-887b-0fc9e6e4292e",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "b9107837b5d5b71432a08daf326d5cbb7264c5eb65710a39d1d7bbf2d8270508",
+    "after": "63549f8229765fdc31f85364fc9600ca1fa1b535ae5ba46e7274ff3314651f1b",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/6960dfef-6dc1-4dbb-887b-0fc9e6e4292e"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:6ab9bead-274e-4bf4-b2ee-1f3669e4aa9b:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:6ab9bead-274e-4bf4-b2ee-1f3669e4aa9b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "30e1f94ca838888df8322981cc15ee5e861dee8c8f25bc0c4b7f6d02ebea2e1b",
+    "after": "4731d936fb355a03a722f6ddd206b4351383cd6af42dee3e142509f2701e56c7",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/6ab9bead-274e-4bf4-b2ee-1f3669e4aa9b"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:6c80d6e2-5e59-418e-9ea6-15dface61698:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:6c80d6e2-5e59-418e-9ea6-15dface61698",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "85403d8e4b6d6d7f6e8b55217356da6a32643fd2b70588127eb60c809c110315",
+    "after": "0264174ecef7707d2de2fa174cfa57c730f618ad60fb3e8ebacd3c56acda9cb1",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/6c80d6e2-5e59-418e-9ea6-15dface61698"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:6d576a09-f30d-4e5e-bb58-5d7ef56cb511:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:6d576a09-f30d-4e5e-bb58-5d7ef56cb511",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "6478f4b974204eccf24309b4b9fb930154bfef9eeaaa594690ed12fc38fdd343",
+    "after": "5996463531fc8e16b098675ac4d292a4b43ebccf48adcd92b3a840efeed4fd46",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/6d576a09-f30d-4e5e-bb58-5d7ef56cb511"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:6e6f5bc2-eb32-40e2-bba9-cfa56479600d:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:6e6f5bc2-eb32-40e2-bba9-cfa56479600d",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "377c3c1229eb536b15d50ea53bee96c25a002a4b77fa094aac82dfa6c85bd579",
+    "after": "9b3f7fb1929be31c2e59d1e7feda557f8efe46171bb7e286db85363d38aaf6be",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/6e6f5bc2-eb32-40e2-bba9-cfa56479600d"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:6eef7144-f2cc-48a8-b065-01f04e4c70ff:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:6eef7144-f2cc-48a8-b065-01f04e4c70ff",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "e42a4a5d4edfe8aab248752e4bc0f4793bdceb510135a03071784aaeb747b29d",
+    "after": "f6024c0a0aab211ffb5eacc77b5fd529a844560314fb8f6adfa154efc47f702b",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/6eef7144-f2cc-48a8-b065-01f04e4c70ff"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:723239cc-f90f-409d-86ec-3b02df603239:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:723239cc-f90f-409d-86ec-3b02df603239",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "5ea4f8192a700126db6ade8f7bda82f90c9ec825efd6a02c69303b71c441b1f3",
+    "after": "25cf8fb39da5434bfdc37704a6e3e617c4353c73ea9266b3bcd72af72e7f5ee3",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/723239cc-f90f-409d-86ec-3b02df603239"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:736ebf73-beb1-417f-87a3-a74176399ba6:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:736ebf73-beb1-417f-87a3-a74176399ba6",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "5e06b10092a1e9b74a9cdd1d24adf169f58e93f60bff66830e92c33a5bace81b",
+    "after": "073db89689ac3d4e32bdf618fe505d613acacb129c272db402ee738e755c046b",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/736ebf73-beb1-417f-87a3-a74176399ba6"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:74a6ac48-d85f-45a0-9775-3cdb8b713e1a:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:74a6ac48-d85f-45a0-9775-3cdb8b713e1a",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "798f20cc76e3f9cc44d8477adbd3a671d9d24a34d6a766da8b730b6690aa1e93",
+    "after": "6d297ed0bbda34c59f7a798c563d2ee0dfb0f7c6a4acbac3ab8612855c145b8b",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/74a6ac48-d85f-45a0-9775-3cdb8b713e1a"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:77bf35db-119c-4533-8187-1e8d5ae08c45:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:77bf35db-119c-4533-8187-1e8d5ae08c45",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "31c00b7928ffd3dd813a6a2768f6b01ee7e914326bf330b91c68e18461febab5",
+    "after": "0acf7aa19c45a79c3026de00e2648e0e0687a1e7190229f5441da953e05f1580",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/77bf35db-119c-4533-8187-1e8d5ae08c45"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:7b0b5994-5405-419c-bdca-c7b7ca05b613:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:7b0b5994-5405-419c-bdca-c7b7ca05b613",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "c38d3e637413e1eefb0d011ab7e90cc69af15e2c3b62d06a2cceaa8c32927e87",
+    "after": "f94a78c1c86efd139e4b58d168ba19b15090d898f88e403bc9cbab6c5b59cbd4",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/7b0b5994-5405-419c-bdca-c7b7ca05b613"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:7e1d8e07-c87b-4388-892a-6b138bebf665:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:7e1d8e07-c87b-4388-892a-6b138bebf665",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "66235848b20c378c7f135ec4ad3cefd9bc5c23bfaddc7ea3da94ee24c9ccc1ae",
+    "after": "f1fd66ac535f16f125e55e98378fb5f7a98200fab703d69b755a42bb77cfa3bb",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/7e1d8e07-c87b-4388-892a-6b138bebf665"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:85c98417-583b-412e-b31a-e4052195b703:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:85c98417-583b-412e-b31a-e4052195b703",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "bd6eaef0e89ecc28a7d34865002c77f594164b3eeadae9fdc9f75c6f5646329a",
+    "after": "c88729e4316e5b4efb151f7e372e976d8a6fedf411bc6de8428fb18c7fdd76ba",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/85c98417-583b-412e-b31a-e4052195b703"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:88d47f97-0bea-448c-9abb-4720e4acf17a:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:88d47f97-0bea-448c-9abb-4720e4acf17a",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "a41cfd3a524e55901bcf1e7e4e6a08e0224844b0cd939ef63650ec3e970a22bd",
+    "after": "647aeca0951fac0dc2357564731a55dbcb6c68f736a59eb9436c1cbb91a7bd12",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/88d47f97-0bea-448c-9abb-4720e4acf17a"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:89949cac-643b-4354-8bd3-744f6cde732b:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:89949cac-643b-4354-8bd3-744f6cde732b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "db4cafe9905a5e2e35e1fb56ba6edc635b082c65545ff1abf9c2746cbff1795b",
+    "after": "30804c72d482ba4ffefbfa34f3fd3de2e0d4fb6f58654d89b875c9a497a4b468",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/89949cac-643b-4354-8bd3-744f6cde732b"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:8acfb92a-eb71-4159-acef-a988eac40fcb:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:8acfb92a-eb71-4159-acef-a988eac40fcb",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "2761f03cd124407be884468d2748082bd32d1ad30aa380d84745e4760306e78a",
+    "after": "a19d9b360a80bf5bfcd4f0c2912b1e44aad1489329f4e8bcb002873e6b4016db",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/8acfb92a-eb71-4159-acef-a988eac40fcb"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:8b795459-4f93-45b2-a570-bed630cb09ee:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:8b795459-4f93-45b2-a570-bed630cb09ee",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "de746b3096e26e48194d3e26867ad6138782dbf13c85c37725b27f8d66620278",
+    "after": "cceb4e62e27c29a8db634de944a83491058418b6c07a8b7ef35963fb5dc393c0",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/8b795459-4f93-45b2-a570-bed630cb09ee"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:8d5c5ae1-3e59-4ab5-a0fa-514a392cce80:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:8d5c5ae1-3e59-4ab5-a0fa-514a392cce80",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "a4d70dcffebee041ec9b5acd8432bccdc9c436f50ef2aaff12bc63839b6d231a",
+    "after": "9a840136d79af089e77cc5f455b358660739b0beed96435888e3985ce3b3b0cf",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/8d5c5ae1-3e59-4ab5-a0fa-514a392cce80"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "441f576cbdffca969449a1b8eb88b18efac968ad6b79aaa0272a037b70021e3c",
+    "after": "401141a944870eb37b01fe92ca18a0c0e02244712383a6322657dad6e043ed4d",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:8fc9e55a-2cf9-458f-b2f7-6959dab1a011:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:8fc9e55a-2cf9-458f-b2f7-6959dab1a011",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "42e0e0c21507a171fcdf77c0ce720deea370463a786c2904f278553bf5f88315",
+    "after": "a182ba5929dd0a9307765147663c9c1e3f36e74e046306b89fc0c3a4412f787f",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/8fc9e55a-2cf9-458f-b2f7-6959dab1a011"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:90f3ffbe-8174-4dc1-a0f5-ca9cb48fdda7:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:90f3ffbe-8174-4dc1-a0f5-ca9cb48fdda7",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "baa93423e930acf6c4823f3838671d4430a2e1f70499319ccafa405d877741af",
+    "after": "79801f194d0f4dd22a8757878506bd23b8189b507c4d7a59192cc18f17977522",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/90f3ffbe-8174-4dc1-a0f5-ca9cb48fdda7"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:919b3d00-fef8-4038-8b71-165fae5d54e7:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:919b3d00-fef8-4038-8b71-165fae5d54e7",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "a122a0ffa55ff42b54fd35f84fb3f5deb44c073954e71ec62cd8ecde3e4763d2",
+    "after": "7322aa2832dd36079828af8da031e68fc08c1c6140a7800366f1f0ee18fe8f06",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/919b3d00-fef8-4038-8b71-165fae5d54e7"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:9287df8c-4138-4d75-ae92-cc98d3963856:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:9287df8c-4138-4d75-ae92-cc98d3963856",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "c21d49ee10cd704207a83b0b1507bbad2e0b8d55886b79d0e747217870ef714f",
+    "after": "44d6b693d1a0f2f43838df84445105fee2c0a7b40c68b2eb7d524582ea60c0aa",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/9287df8c-4138-4d75-ae92-cc98d3963856"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:94cc6684-9dbf-43f9-8ffc-405614e64ddd:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:94cc6684-9dbf-43f9-8ffc-405614e64ddd",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "42978953c22f083ec12d873c2d84fc0e3d776ac829e1f65a2cc1e83d6750de5a",
+    "after": "7033336e00f138f747d522c6c4ae3a7f38da843ed73a0f53bcb672addc40325d",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:99641cfd-8523-4f55-8100-958d72b5924b:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:99641cfd-8523-4f55-8100-958d72b5924b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "b83f6e9cca2c468989ed1086a2642a7505a855e0a1e5b5782b407559149de9ee",
+    "after": "2fddb6ead658eb623c44ec5c6c882b6703429e0bbfc395f2becbe859c8bbe42e",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/99641cfd-8523-4f55-8100-958d72b5924b"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:9a175381-45e2-42b6-bd64-6c84532365f9:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:9a175381-45e2-42b6-bd64-6c84532365f9",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "02621ab04f181c58d673575cbcea4f0bee3f55cbad405c7e38c9a9d17b533e9b",
+    "after": "8b78c0ca713430866c73ceb42d0850a2a65ff7bb6fee4d802d35fef2b4ffddd5",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:9b897011-11bc-4d8f-beb4-d2155d36e941:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:9b897011-11bc-4d8f-beb4-d2155d36e941",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "bde68189f64d517598bb59908fa6509223b4319e4e2ac45887272638b45e579d",
+    "after": "eec3767d23d623d4e3bea154ddee2cad36d2a9c30fcc5388cab6dbba28638da9",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/9b897011-11bc-4d8f-beb4-d2155d36e941"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:9d7c8f36-eeb7-4e9f-acbe-d959f6280e46:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:9d7c8f36-eeb7-4e9f-acbe-d959f6280e46",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "0df8bff6dbd5ae706b0da9b68ad6d7920e5040dda10a07fcf592bf8973728de6",
+    "after": "2089a4fd6e5ef517729bc69d6de89c3efb61de78a18e6019c23a8a257690fbde",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/9d7c8f36-eeb7-4e9f-acbe-d959f6280e46"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:9f1b3e17-4ab5-4d70-acc2-be1d1972b922:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:9f1b3e17-4ab5-4d70-acc2-be1d1972b922",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "c0a1dce849eba3d6e9d21e32a7475ab5167117dbd0c72aca824ed84fd9f5e23a",
+    "after": "632966dd0f388fb5e197a6212b823c09fb64ddd378ec867ef3727198021c3907",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/9f1b3e17-4ab5-4d70-acc2-be1d1972b922"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:a4fcfac1-8bf1-4804-a0fb-0ea97037772e:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:a4fcfac1-8bf1-4804-a0fb-0ea97037772e",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "11afc70c4fdf39fbb3f469bf7226872646a019b15fc76a36d2bb935ba085a623",
+    "after": "9dc5cc2d8611a280ad2b289809eda358533a3f72aa5d79c80fa413451016a612",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/a4fcfac1-8bf1-4804-a0fb-0ea97037772e"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:a59371c8-cd50-48e3-9f21-4b79a6f0e3b2:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:a59371c8-cd50-48e3-9f21-4b79a6f0e3b2",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "e5e55854484eb7c128c074730688ce89b281e83c7c9386e97730c86d4138e58c",
+    "after": "aeba73cbf77e235d846c6d71cc0f4a67210c8c67f8ba826010220a665eac3765",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/a59371c8-cd50-48e3-9f21-4b79a6f0e3b2"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:a6c00f7f-2288-4461-a64d-0f1cd9878909:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:a6c00f7f-2288-4461-a64d-0f1cd9878909",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "f3be2f7c6a1b5aacb681a71a3069e91d643bf2d67f971a07ce4d706f6a5e8dcb",
+    "after": "72f8d8e679af252cf95622ddae378778fe43ffb87dda7b4bdad940aaf10427ba",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/a6c00f7f-2288-4461-a64d-0f1cd9878909"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:a750c967-7c4d-4704-a528-dcb63afc5f64:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:a750c967-7c4d-4704-a528-dcb63afc5f64",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "d26cba3e30b82c65aabb379eefd4a10205365e3bf15efd6931248bb18ca0ad32",
+    "after": "c1b43adc5990b1db04d924a05707f1c568a95f93acc11b6dc5f9265521b50add",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/a750c967-7c4d-4704-a528-dcb63afc5f64"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:aa50a09b-2413-44a0-a1b1-04381b03cc30:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:aa50a09b-2413-44a0-a1b1-04381b03cc30",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "17070ae1bc2b17a4a5a3d9bd39d67d237286036268daf63e35c516a8fc30a07a",
+    "after": "81c7835482213b56e471aad37cf0103f782f1ab684be41cc8ed8f8f42ac45fc9",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/aa50a09b-2413-44a0-a1b1-04381b03cc30"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:aca52072-00b0-4c2b-9371-18689910cd14:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:aca52072-00b0-4c2b-9371-18689910cd14",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "e4dfa8647d22c1692cadef80bf7a9a6bb6e29914571553dad6895c40d7d91de3",
+    "after": "70f3a441b6f8764542d028a8dd01cd6b42d50a133614880a8c28a91d8c18eab4",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/aca52072-00b0-4c2b-9371-18689910cd14"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:aef8f0e7-37cd-4d6e-96c9-3af72f588bae:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "b50760815a84eca59be778fc2f4f4ec7d7d937c07edbc1641aedf3714c0ba040",
+    "after": "83ffd0a8f6ac8ed511d0da0fd5b089168a3f9ca6a39d5717cb88b883e9cb5356",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:b0ef8a4d-64b5-4dc8-aeba-aa9ac0f430fc:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:b0ef8a4d-64b5-4dc8-aeba-aa9ac0f430fc",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "734fc32b46cecb695ff026ef4eccfd5c11715c228eab7c4fb6c982f9da3e87bf",
+    "after": "429271ba21d033f676a57c4ba2354bf1907a44aaf8375b054b2594887decd823",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/b0ef8a4d-64b5-4dc8-aeba-aa9ac0f430fc"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:b3320730-9b59-42b6-8b90-0f2c3ef81c15:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:b3320730-9b59-42b6-8b90-0f2c3ef81c15",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "57792ecd87d88f865bedc5ecf0e5c9d783f1b32847e31b98a1fd4660b4efbb85",
+    "after": "202096bd55a5daa0b64139d341bb146a61577828d82c09b9a9a8049c38fb8ca3",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/b3320730-9b59-42b6-8b90-0f2c3ef81c15"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:b33a1206-6cfa-4b89-8808-51eaa3933212:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:b33a1206-6cfa-4b89-8808-51eaa3933212",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "78bd8ad81c782efffab7df699b1d0b6043b234b5d36157de9498e90559105d73",
+    "after": "afa464b36a894116989f138026c492a30682501e13bd6829f6e2d13d32f0d179",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/b33a1206-6cfa-4b89-8808-51eaa3933212"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:b6807f07-c4b7-4435-8c4c-0bef35865ad7:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:b6807f07-c4b7-4435-8c4c-0bef35865ad7",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "4e3c184a8a913b9664d4b78548c1f34a3e732b3e40c22bb5b046ef9c054011bd",
+    "after": "cbc232f5beeb5d536635fd273e0b549b359820211cd259d27a7a77c32e22381f",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/b6807f07-c4b7-4435-8c4c-0bef35865ad7"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:b6d90b7f-7586-46e8-bab6-8d87b881906c:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:b6d90b7f-7586-46e8-bab6-8d87b881906c",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "94aed01a543148f22587912ef92bd2de56f327c829f90ae5b96cd9e587e96d1f",
+    "after": "11f883e055abec163cf0f3d7770b498ba55c190278826ae693f66f69997b9db2",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/b6d90b7f-7586-46e8-bab6-8d87b881906c"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:be14443e-1c17-4619-a428-4c02a7c0a7e6:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:be14443e-1c17-4619-a428-4c02a7c0a7e6",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "45c381ca7a9d6fb57b3723b576ccccf22d37c3f7dd06ea0ec17ed6ac5dc4e3bb",
+    "after": "31c662a41575d491213564dc98f1dbbba166e9cc59996d339685abacb490acd4",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/be14443e-1c17-4619-a428-4c02a7c0a7e6"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:bff67718-1dbf-4d66-bcef-8b68d93d716f:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:bff67718-1dbf-4d66-bcef-8b68d93d716f",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "04f5d2fda7877ccf426d4219a72c0bf9e89c032001ca097619cabacc12ce93af",
+    "after": "8a595c2df09086b3868c7791bcd261df043bbd298419b9ebdf14a331cde70410",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/bff67718-1dbf-4d66-bcef-8b68d93d716f"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:c2fb18fe-8d3d-4803-b21b-2f7e8b700d9d:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:c2fb18fe-8d3d-4803-b21b-2f7e8b700d9d",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "12fc3a3bdc61408c2cc624f28e49a1c2dc163ecd5484c058f060ea321bfa9933",
+    "after": "aa77a1a8e89a8eeade23b2f24edbdade27201b62d4a7e4a54b39575ebebfc5ff",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c2fb18fe-8d3d-4803-b21b-2f7e8b700d9d"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:c30b1b69-518a-4fdd-a316-667380bcd608:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:c30b1b69-518a-4fdd-a316-667380bcd608",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "a78baee4482a00d418dad10fabefecd1fa254c23606c9cf2fd8aa929b6019530",
+    "after": "6f3e62b54bb077fa32331b8cd1c220eff6467eb349af347a63ec05a0becec1a8",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c30b1b69-518a-4fdd-a316-667380bcd608"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:c43bdded-80a1-4705-a0ec-8217d771528c:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:c43bdded-80a1-4705-a0ec-8217d771528c",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "ed3caa647e989750a043a9dee907a6b6bd1a20a1e7678d6cb2064895ca8eb2a8",
+    "after": "5f11aefd2a1e25289e5398d4d804f26be701328787b0c477f23dca20470e9aba",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c43bdded-80a1-4705-a0ec-8217d771528c"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:c4be0272-542c-4bf1-b890-8785d3044bed:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:c4be0272-542c-4bf1-b890-8785d3044bed",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "24e09425f363e8a176e93a8d0dd7bcf1e9a3da5d0e539ebbf8eb13a782bca76b",
+    "after": "b2724de505661f96d5b0ab1fe32b96d227f9c7c6789d804b60009ac1b6185a8f",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c4be0272-542c-4bf1-b890-8785d3044bed"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:c50a7358-cc49-4225-bab0-3475f80ad156:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:c50a7358-cc49-4225-bab0-3475f80ad156",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "56e041b2876e4d790426b8b4fefc8e3171110baab9766530dffcbdf59e34c40e",
+    "after": "c3fa4706624d496822dec9b7d5c8f964b21b27b82a41952bd1b4c156cb68ea36",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c50a7358-cc49-4225-bab0-3475f80ad156"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:c5bbeeb2-1af0-4bde-9e32-55d46c313767:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:c5bbeeb2-1af0-4bde-9e32-55d46c313767",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "ed7e9f6180dd10c4b59b15e6970818f132a43f25c184328e0dc580d1357dc487",
+    "after": "a08decc384782705d1fefde44de7df6fdad190c582301e783042965978d6b2b6",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c5bbeeb2-1af0-4bde-9e32-55d46c313767"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:c66cde5e-9cb6-4a2e-a330-9323e1edf2a9:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:c66cde5e-9cb6-4a2e-a330-9323e1edf2a9",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "2a3a398e1fe080747ae6940ecadb0e519971f84e387ec024653345310cb177ce",
+    "after": "e0c9a45049dc4ab1fb145dd701f267f31f8667324d24c080ab5a1677ef4413ca",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c66cde5e-9cb6-4a2e-a330-9323e1edf2a9"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:c68b3d8f-360d-41f0-84fd-1cb225b19e23:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:c68b3d8f-360d-41f0-84fd-1cb225b19e23",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "a5cac70f0ebe8d128710948a63296dc2949ac9756f25baf8d90fd0ae007343d9",
+    "after": "31b63e64a0622bbddaf7830d43d7338814f46671e208859e23ba91b7859ddb9f",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c68b3d8f-360d-41f0-84fd-1cb225b19e23"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:cd4bad0a-e2f6-4a8d-9b57-ce1780efedae:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "7657b019d9c0d3006f4718da25bf22c78ebdd19da602f32796a0a324b11d5637",
+    "after": "e38833f4978c837ac1676392f04f669a3cb977a579ca13c90d642d8dc316c7b5",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:cda9256f-e820-4f0a-9e77-e44c61295e1d:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:cda9256f-e820-4f0a-9e77-e44c61295e1d",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "060cb0267aadd612dbb9958cf776101ea641f9b1fc461948e7b80281b3617619",
+    "after": "095d1e669a3fb7352788f04041dc313670773a5deb3531bd151c80935d378c81",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/cda9256f-e820-4f0a-9e77-e44c61295e1d"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:d0cf5203-2db2-40b6-b1fe-1656ec288ce3:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:d0cf5203-2db2-40b6-b1fe-1656ec288ce3",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "c654b53fb9cb751b62de6808eb81548509236b4b46961c78544e6bc8dd047215",
+    "after": "f3cdc31af0f3070f7b62edfca3d811591cf556b8f33ab3f8cf9881df60581e33",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/d0cf5203-2db2-40b6-b1fe-1656ec288ce3"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "e7053c18a63b884ea9c8145bad4d01e1164c6654eb1985e82944bf7e2bded7c5",
+    "after": "0d99e7347f3552dd9a5bf34ee141d0436c45b2f41da65e6e2c9ecce67977952e",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:d225fc95-a56f-466a-9588-d75a7f38c426:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:d225fc95-a56f-466a-9588-d75a7f38c426",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "18c224b8be1d8d04eccc2622ad80a0d4fb19003aea0484107fdd815233fd6eb8",
+    "after": "5ce5ab1729b94f2a8733ff9d6ab1452f6a09e7ea50eaf8679b9d36eee419f753",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/d225fc95-a56f-466a-9588-d75a7f38c426"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:d4308a8f-81b7-4f67-b3ae-111bb0d87197:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:d4308a8f-81b7-4f67-b3ae-111bb0d87197",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "0ccabc0bb87c77e8be5ebcfe3d5425a91103175ff0d4d9910370fb9a3670248b",
+    "after": "f84fedf6d77fef44bb75f1b455e045754137903c534e4c92b953278d462ed66b",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/d4308a8f-81b7-4f67-b3ae-111bb0d87197"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:d7f1bf1f-b684-4994-9b70-9ce7c78bacd2:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:d7f1bf1f-b684-4994-9b70-9ce7c78bacd2",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "70a7449609e5b638bfea40956b3d91d1beab2545cabf073264a6cc50207cd81f",
+    "after": "1fba4bd230c1415fe8ad08f1308db9defc0da60e3a4cfce2a97130e490edce57",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/d7f1bf1f-b684-4994-9b70-9ce7c78bacd2"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:dbdccf8f-cc8f-4701-94ea-5d0a33efad80:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:dbdccf8f-cc8f-4701-94ea-5d0a33efad80",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "d32e41e34e6282814bcce864356957de347dd8536dcb29ef6e076303fdfaee18",
+    "after": "6000d58037c366cf758a263051785319f7c2e3775e96a0f91f76afa957ec5291",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/dbdccf8f-cc8f-4701-94ea-5d0a33efad80"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:dbefd2a3-0ea7-42ad-a50d-e85ee186267a:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:dbefd2a3-0ea7-42ad-a50d-e85ee186267a",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "b98efa2fa54a600c1442ca5aed62f83238f2a3c669dc46e0f4be19a96f8271a4",
+    "after": "9ec7fcae5c86bed545bd36a1b9de1e155a7134d32083d6f09fa66b0d1cf9a135",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/dbefd2a3-0ea7-42ad-a50d-e85ee186267a"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:de322c3d-337e-4301-a7dc-90ccf331d60f:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:de322c3d-337e-4301-a7dc-90ccf331d60f",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "813fbd9dce3da765f8887636cd95d83a3cda3ab894c9561e1fb38e6f4307d2fc",
+    "after": "ac3ec08edcafbf0361c3461369f6a6131ca78da695bda3df92c31707909e2706",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/de322c3d-337e-4301-a7dc-90ccf331d60f"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:e076ddca-ad40-4dd3-adbc-1da0740a92e6:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:e076ddca-ad40-4dd3-adbc-1da0740a92e6",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "0d23cd84d79beb541480203c8ffe5cee12d4bbb818f42cec2576a73cf7a3465a",
+    "after": "6374b6b0db1c1a45462362abd7d26786d3b6b3737639bb804dc253cc6ab77fa3",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/e076ddca-ad40-4dd3-adbc-1da0740a92e6"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:e08262e8-c089-488d-9b59-9e21f7702b64:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:e08262e8-c089-488d-9b59-9e21f7702b64",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "6927ba5e0f52aa846a0df13819fba80615acedf6ead44ff68c4a289c283a0f96",
+    "after": "76d17e7aa71f65458c652d650a4fbcafbb71a1f5e1b57778dfa32e92d0b915f0",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/e08262e8-c089-488d-9b59-9e21f7702b64"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:e3ccb495-a8a3-4ff0-a27b-262188abb9df:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:e3ccb495-a8a3-4ff0-a27b-262188abb9df",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "0e5f59da5ae7cda1c44f874e91c943223fa06bd4aefb5f90354a2e308291b824",
+    "after": "58acb911bc4d42366088f87bdee6f226090b2a8bbb139cd4dfaceff67533fe85",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/e3ccb495-a8a3-4ff0-a27b-262188abb9df"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:e57836e8-c864-4817-aaa2-1b1263f0a352:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:e57836e8-c864-4817-aaa2-1b1263f0a352",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "9af2576b2e872eab100910e18bf699ad82114838ef7e3220d87c96c79bdf48c3",
+    "after": "01f0eeebfc70ad7a5dde8644c4e83f308ad9d6a170193512e503775c5f2a371e",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/e57836e8-c864-4817-aaa2-1b1263f0a352"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:e5d8ed7a-b93d-464f-a8d1-a4fa60e808d5:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:e5d8ed7a-b93d-464f-a8d1-a4fa60e808d5",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "3fa3aed15ecdc623cd031cc5272adc48223ec03f53147e5762817ac0f5e9e506",
+    "after": "e88603db7cad0d8140b628330a1b1402f10265e012b6d94d23e5b6d20c397127",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/e5d8ed7a-b93d-464f-a8d1-a4fa60e808d5"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:f2cf204b-f469-4997-9508-f218c5869706:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:f2cf204b-f469-4997-9508-f218c5869706",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "b9107837b5d5b71432a08daf326d5cbb7264c5eb65710a39d1d7bbf2d8270508",
+    "after": "63549f8229765fdc31f85364fc9600ca1fa1b535ae5ba46e7274ff3314651f1b",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/f2cf204b-f469-4997-9508-f218c5869706"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:f7ec7811-a573-42fa-8ade-01e2d07681ef:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:f7ec7811-a573-42fa-8ade-01e2d07681ef",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "a2171ce160a4d0d847b12f4d90ab0ac05285f5e3ac07fd5a8d47ebf8ac752ba5",
+    "after": "9a1463406005226f567a2e30bb4abdfdc5851246bb7a7f126c8eb4aeb5c35bdb",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/f7ec7811-a573-42fa-8ade-01e2d07681ef"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:fa719d62-14b9-44c7-b54f-a4435cc62dec:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:fa719d62-14b9-44c7-b54f-a4435cc62dec",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "9617ffa97050fa15b7a8ef1efbe49ecc7f72301c734d8c95e7f193d4b1510a93",
+    "after": "7325e9c96eb46a8fe489c07fea60f58d2abf40899c0a94daacb59351df444245",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/fa719d62-14b9-44c7-b54f-a4435cc62dec"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:fb97e304-9d99-4b07-9474-1290121a87d5:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:fb97e304-9d99-4b07-9474-1290121a87d5",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "183558341c004385b0e8ed1457b4533ed61fbcacf8324482a58005f59545415a",
+    "after": "c1ce5d251066a03a74c6e2238f72281068374cda70692e1f3d31ff98a9c987fe",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/fb97e304-9d99-4b07-9474-1290121a87d5"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:cursor:fcdf7683-bd29-49a5-9284-f000b04a266a:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:fcdf7683-bd29-49a5-9284-f000b04a266a",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "7988b2d8fdf0913f4c2f027dc22d858baa521214a86f6516f700ddfed9f7543b",
+    "after": "d118480e2f5bca63d039e81955794e247643714fc76982965507ba05b48a873b",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/fcdf7683-bd29-49a5-9284-f000b04a266a"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:notion:00f42dd8-c3b3-45cf-829e-550b675b3dd8:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:00f42dd8-c3b3-45cf-829e-550b675b3dd8",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "5f7fdd0c188f316d6bd90637bed55f6ae033aa3d7f37ea2c90fcefb9d506ba02",
+    "after": "c29a0467688ced9a7cd7c7ebe639d39c1ac2923b7d79b474f27c27a528d0aded",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/00f42dd8-c3b3-45cf-829e-550b675b3dd8"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:notion:43b37ac5-1ce9-4106-8df1-1ae8515087ee:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:43b37ac5-1ce9-4106-8df1-1ae8515087ee",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "4b990b3890f36556f43ea0867e42c93b3b4b87ac5529006825e8609767d7067b",
+    "after": "3745514b231efd08f35f26dd1fcead6a9204e6ecc85b2e5c9ac37023fb367d7e",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/43b37ac5-1ce9-4106-8df1-1ae8515087ee"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:notion:576401b9-66e7-4407-a9e2-8aafaa590082:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "notion:576401b9-66e7-4407-a9e2-8aafaa590082",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/576401b9-66e7-4407-a9e2-8aafaa590082"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:notion:8c7e45c0-85ad-485e-aa6d-4b440d2e0723:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:8c7e45c0-85ad-485e-aa6d-4b440d2e0723",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "5f7fdd0c188f316d6bd90637bed55f6ae033aa3d7f37ea2c90fcefb9d506ba02",
+    "after": "016efa7103cfb44c5e088e76d51660525d7153b1d45f5773c3e4d1596207e2bc",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/8c7e45c0-85ad-485e-aa6d-4b440d2e0723"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:notion:9ecff4f6-409e-4600-a53d-9016139592ce:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:9ecff4f6-409e-4600-a53d-9016139592ce",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "ef8383768b8ad6a469445af74b18bec89c97c19f64d3452607481513f9ebdcff",
+    "after": "d479b078b8973fe3c928aa46765a03d64e79080067615eed5084ebd0344ab489",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/9ecff4f6-409e-4600-a53d-9016139592ce"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:notion:a1e9f265-7a8d-4acd-9503-3c36b6f7008b:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:a1e9f265-7a8d-4acd-9503-3c36b6f7008b",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "6cba6a90db144d56fd501c132cd49f6befde333a05d73127d043f8666a4e85d7",
+    "after": "e3d7a57b9a24d2dfa75cefa0323d44385da11e82cfb6b370607069f1f17a54a3",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/a1e9f265-7a8d-4acd-9503-3c36b6f7008b"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:notion:d02d5ff4-fea3-4be8-b142-cb120e966399:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "notion:d02d5ff4-fea3-4be8-b142-cb120e966399",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/d02d5ff4-fea3-4be8-b142-cb120e966399"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:notion:e12b83e9-18bd-4f5b-8bf8-16c78726559a:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:e12b83e9-18bd-4f5b-8bf8-16c78726559a",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "e25aad3295d29c63564f04be073ff67f54d6c05b06292d33ea22fc186956c1ef",
+    "after": "3f68563d986e7a5bda48ecfe399b87ca9561c42625c021152b7daf57dab445e3",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/e12b83e9-18bd-4f5b-8bf8-16c78726559a"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:ramp:190c265a-ca4f-48b7-b2a4-13412299249d:JOB_UPDATED:publishedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "ramp:190c265a-ca4f-48b7-b2a4-13412299249d",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "publishedAt",
+    "before": "2026-10-13T03:46:48.624Z",
+    "after": "2026-10-13T15:07:59.917Z",
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/190c265a-ca4f-48b7-b2a4-13412299249d"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:ramp:4d3197eb-49dc-4827-a1e6-26cf0ff24b55:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:4d3197eb-49dc-4827-a1e6-26cf0ff24b55",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/4d3197eb-49dc-4827-a1e6-26cf0ff24b55"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:ramp:e5232cce-a23a-4f03-b12e-dac510d08cd3:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:e5232cce-a23a-4f03-b12e-dac510d08cd3",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/e5232cce-a23a-4f03-b12e-dac510d08cd3"
+    }
+  },
+  {
+    "id": "2026-10-13T22:54:01.050Z:ramp:f2ad6068-02e7-4986-967e-804ecef9e043:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:f2ad6068-02e7-4986-967e-804ecef9e043",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T22:54:01.050Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/f2ad6068-02e7-4986-967e-804ecef9e043"
+    }
   }
 ]
