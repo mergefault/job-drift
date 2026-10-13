@@ -58574,5 +58574,285 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/d238a056-3a1f-4dcc-99de-fadc95b9f31c"
     }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:cloudflare:7742773:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:7742773",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7742773?gh_jid=7742773"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:cloudflare:8077614:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8077614",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-02T18:24:13.000Z",
+    "after": "2026-10-12T16:55:06.000Z",
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8077614?gh_jid=8077614"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:cloudflare:8077614:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8077614",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "859cd47158a90fdf224b7b405bd27fc5a292bd93b5661d8954f4596e0a0550ce",
+    "after": "7f6e2919c48b7f41b5d9c8ddce822c2e45cfa018e7710863036563f36b919522",
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8077614?gh_jid=8077614"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:cloudflare:8245561:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8245561",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245561?gh_jid=8245561"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:cloudflare:8247433:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8247433",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8247433?gh_jid=8247433"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:cloudflare:8264664:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8264664",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-12T12:54:33.000Z",
+    "after": "2026-10-12T16:43:29.000Z",
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8264664?gh_jid=8264664"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:cloudflare:8264664:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8264664",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "1b4e2845df604092b4f9126146782eba370b94b55cb5f7ab6bb8e67f554b95e4",
+    "after": "acad5d7056fb4c94da18748e80eae34e6d18ac628e3a641d08e099f69eed905e",
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8264664?gh_jid=8264664"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:cloudflare:8267396:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8267396",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8267396?gh_jid=8267396"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:cloudflare:8268259:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8268259",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8268259?gh_jid=8268259"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:cloudflare:8268965:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8268965",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8268965?gh_jid=8268965"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:cursor:9a175381-45e2-42b6-bd64-6c84532365f9:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cursor:9a175381-45e2-42b6-bd64-6c84532365f9",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "title",
+    "before": "Software Engineer, RL Data",
+    "after": "Research Engineer, Synthetic Data",
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:cursor:9a175381-45e2-42b6-bd64-6c84532365f9:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:9a175381-45e2-42b6-bd64-6c84532365f9",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "40092e13b940ee0779f6ec5315ad88c6c5a95e76f1756215f5dbc7e972d1f447",
+    "after": "02621ab04f181c58d673575cbcea4f0bee3f55cbad405c7e38c9a9d17b533e9b",
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:cursor:aef8f0e7-37cd-4d6e-96c9-3af72f588bae:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:cursor:c1ac67d4-645a-4632-a178-ea6b5f49bb26:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:c1ac67d4-645a-4632-a178-ea6b5f49bb26",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c1ac67d4-645a-4632-a178-ea6b5f49bb26"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:notion:a67d6f2b-7c13-41d0-b36b-b2f662c9873e:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "notion:a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:ramp:40295bb5-3b56-4544-b7fb-5c1b20383525:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "ramp:40295bb5-3b56-4544-b7fb-5c1b20383525",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "descriptionHash",
+    "before": "96d4da17b5fe0858b45a5ee68ed0ecf6ab86656e2aa0c3968417bc6ec3351f62",
+    "after": "2a69c1336d8fb4208da1a1bec626effba0c29ef35be673a46d50144c6e9ddabd",
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/40295bb5-3b56-4544-b7fb-5c1b20383525"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:ramp:6b3c0d90-10d2-4b4f-861b-cc4690ed54be:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:6b3c0d90-10d2-4b4f-861b-cc4690ed54be",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/6b3c0d90-10d2-4b4f-861b-cc4690ed54be"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:ramp:7c027757-24d8-49f4-90c1-ca3696d244a5:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:7c027757-24d8-49f4-90c1-ca3696d244a5",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Economist, Ramp Economics Lab",
+    "after": "Senior Analyst, Economic Research and Special Projects",
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/7c027757-24d8-49f4-90c1-ca3696d244a5"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:ramp:7c027757-24d8-49f4-90c1-ca3696d244a5:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "ramp:7c027757-24d8-49f4-90c1-ca3696d244a5",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "descriptionHash",
+    "before": "ea8c8d14b471201bdb248124781db9ebc19ead2a3eec6cd27018d3fcc1dda4fe",
+    "after": "a6ff659a993bcc83339d1032050f43d14f486a915fa044dfa2b67574d0f05a80",
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/7c027757-24d8-49f4-90c1-ca3696d244a5"
+    }
+  },
+  {
+    "id": "2026-10-13T00:49:02.262Z:ramp:a91527c9-d2e7-489d-9506-ad72091b5125:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:a91527c9-d2e7-489d-9506-ad72091b5125",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-13T00:49:02.262Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/a91527c9-d2e7-489d-9506-ad72091b5125"
+    }
   }
 ]
