@@ -68346,5 +68346,369 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/notion/eb46a31c-a258-4b19-afe6-f2c65eaa2dcc"
     }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:cloudflare:8105716:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8105716",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-14T00:57:01.000Z",
+    "after": "2026-10-14T20:17:52.000Z",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8105716?gh_jid=8105716"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:cloudflare:8142219:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8142219",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-14T00:57:01.000Z",
+    "after": "2026-10-14T21:22:35.000Z",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8142219?gh_jid=8142219"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:cloudflare:8143511:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8143511",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-14T00:57:01.000Z",
+    "after": "2026-10-14T20:16:35.000Z",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8143511?gh_jid=8143511"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:cloudflare:8187634:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8187634",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8187634?gh_jid=8187634"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:cloudflare:8204795:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8204795",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8204795?gh_jid=8204795"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:cloudflare:8238015:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8238015",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-14T00:57:01.000Z",
+    "after": "2026-10-14T21:23:16.000Z",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8238015?gh_jid=8238015"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:cloudflare:8257533:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8257533",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Senior Principal Data Strategy & Governance Manager",
+    "after": "Senior Principal, GTM Data Operations",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8257533?gh_jid=8257533"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:cloudflare:8257533:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8257533",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-14T00:57:01.000Z",
+    "after": "2026-10-14T21:38:49.000Z",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8257533?gh_jid=8257533"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:cloudflare:8257533:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8257533",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "123fc8d93220f1d284daa568945704a72d1f482f7990830afcbb600c3427db57",
+    "after": "90692621499eac55e1fb7a519d524b4d5daab1aae346e747f3250d2730a34cc3",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8257533?gh_jid=8257533"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:cloudflare:8269100:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8269100",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8269100?gh_jid=8269100"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:cloudflare:8279967:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8279967",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8279967?gh_jid=8279967"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:cursor:6c80d6e2-5e59-418e-9ea6-15dface61698:JOB_UPDATED:publishedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cursor:6c80d6e2-5e59-418e-9ea6-15dface61698",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "publishedAt",
+    "before": "2026-10-07T18:38:43.074Z",
+    "after": "2026-10-14T18:43:27.952Z",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/6c80d6e2-5e59-418e-9ea6-15dface61698"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:cursor:6c80d6e2-5e59-418e-9ea6-15dface61698:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:6c80d6e2-5e59-418e-9ea6-15dface61698",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "0264174ecef7707d2de2fa174cfa57c730f618ad60fb3e8ebacd3c56acda9cb1",
+    "after": "4354504515eab3631ed083fa272cde3688f439f0bfe3447e268f70b4d6bed910",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/6c80d6e2-5e59-418e-9ea6-15dface61698"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:linear:5b9997fd-7507-4437-8fd7-14178c99ab5d:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "linear:5b9997fd-7507-4437-8fd7-14178c99ab5d",
+    "company": "linear",
+    "companyName": "Linear",
+    "field": "team",
+    "before": "Magic",
+    "after": "Creative Studio",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/linear/5b9997fd-7507-4437-8fd7-14178c99ab5d"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:linear:b32de590-06ce-47d4-8994-66b936df908d:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "linear:b32de590-06ce-47d4-8994-66b936df908d",
+    "company": "linear",
+    "companyName": "Linear",
+    "field": "team",
+    "before": "Magic",
+    "after": "Creative Studio",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/linear/b32de590-06ce-47d4-8994-66b936df908d"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:linear:ea0b5868-6d7a-46fa-99d8-207cd19357a6:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "linear:ea0b5868-6d7a-46fa-99d8-207cd19357a6",
+    "company": "linear",
+    "companyName": "Linear",
+    "field": "team",
+    "before": "Magic",
+    "after": "Creative Studio",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/linear/ea0b5868-6d7a-46fa-99d8-207cd19357a6"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:linear:f04f398b-6320-499d-8a60-290239d62da8:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "linear:f04f398b-6320-499d-8a60-290239d62da8",
+    "company": "linear",
+    "companyName": "Linear",
+    "field": "team",
+    "before": "Magic",
+    "after": "Creative Studio",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/linear/f04f398b-6320-499d-8a60-290239d62da8"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:notion:7030916f-4277-45db-9fed-644bb3fba059:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:7030916f-4277-45db-9fed-644bb3fba059",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Enterprise Outcomes Architect (Customer Success)",
+    "after": "Enterprise Outcomes Architect",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/7030916f-4277-45db-9fed-644bb3fba059"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:notion:785573a1-93b9-4f7e-b84a-c224d1d98b66:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:785573a1-93b9-4f7e-b84a-c224d1d98b66",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Outcomes Architect Manager, Tokyo (Customer Success)",
+    "after": "Outcomes Architect Manager, Tokyo",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/785573a1-93b9-4f7e-b84a-c224d1d98b66"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:notion:b06005d2-e24b-467b-b7ea-783bac7366da:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:b06005d2-e24b-467b-b7ea-783bac7366da",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Commercial Outcomes Architect (Customer Success)",
+    "after": "Commercial Outcomes Architect",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/b06005d2-e24b-467b-b7ea-783bac7366da"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:notion:b58ad3ae-5fdd-4a9f-9ef5-0c0f3ebce147:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "notion:b58ad3ae-5fdd-4a9f-9ef5-0c0f3ebce147",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/b58ad3ae-5fdd-4a9f-9ef5-0c0f3ebce147"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:notion:b8af287c-c2b2-4213-859d-87fffbc82546:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:b8af287c-c2b2-4213-859d-87fffbc82546",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Mid-Market Outcomes Architect (Customer Success)",
+    "after": "Mid-Market Outcomes Architect",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/b8af287c-c2b2-4213-859d-87fffbc82546"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:notion:be6e1a35-d467-48e6-96bf-62afc4ad0126:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "notion:be6e1a35-d467-48e6-96bf-62afc4ad0126",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/be6e1a35-d467-48e6-96bf-62afc4ad0126"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:ramp:2d2c336c-16e7-4f27-b0cd-5bb6055cdf21:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:2d2c336c-16e7-4f27-b0cd-5bb6055cdf21",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/2d2c336c-16e7-4f27-b0cd-5bb6055cdf21"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:ramp:85063603-e470-497d-b1e8-c05b664353e9:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:85063603-e470-497d-b1e8-c05b664353e9",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Channel Partner Manager, Cross-Functional",
+    "after": "Channel Partner Manager, Flex",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/85063603-e470-497d-b1e8-c05b664353e9"
+    }
+  },
+  {
+    "id": "2026-10-14T21:47:36.508Z:ramp:85063603-e470-497d-b1e8-c05b664353e9:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "ramp:85063603-e470-497d-b1e8-c05b664353e9",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "descriptionHash",
+    "before": "4c7793376ccfb3b265412ff67b6b4b41f38ce6701b6c69f1ddcc5d0a6f11281d",
+    "after": "9582ca13c94ef513d2d6180b1fb3f087858a3167b26958b845eb2c47e74b8db3",
+    "occurredAt": "2026-10-14T21:47:36.508Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/85063603-e470-497d-b1e8-c05b664353e9"
+    }
   }
 ]
