@@ -78286,5 +78286,145 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f"
     }
+  },
+  {
+    "id": "2026-10-20T21:42:51.270Z:cloudflare:7567848:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:7567848",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-20T21:42:51.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7567848?gh_jid=7567848"
+    }
+  },
+  {
+    "id": "2026-10-20T21:42:51.270Z:cloudflare:8030678:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8030678",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-20T21:42:51.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8030678?gh_jid=8030678"
+    }
+  },
+  {
+    "id": "2026-10-20T21:42:51.270Z:cloudflare:8157770:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8157770",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Principal Oracle Procurement Lead",
+    "after": "Principal Oracle Supply Chain Lead",
+    "occurredAt": "2026-10-20T21:42:51.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8157770?gh_jid=8157770"
+    }
+  },
+  {
+    "id": "2026-10-20T21:42:51.270Z:cloudflare:8157770:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8157770",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-19T09:39:19.000Z",
+    "after": "2026-10-20T21:35:29.000Z",
+    "occurredAt": "2026-10-20T21:42:51.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8157770?gh_jid=8157770"
+    }
+  },
+  {
+    "id": "2026-10-20T21:42:51.270Z:cloudflare:8157770:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8157770",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "0cacf9f701de29e2f331b31708121d2ae15244643de6bf756478b40c0bd42a9a",
+    "after": "af270ffda615c5fc7606a525286646096f2aa7bee9e5be5db122d8eb44bff8f0",
+    "occurredAt": "2026-10-20T21:42:51.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8157770?gh_jid=8157770"
+    }
+  },
+  {
+    "id": "2026-10-20T21:42:51.270Z:cloudflare:8279302:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8279302",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-20T21:42:51.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8279302?gh_jid=8279302"
+    }
+  },
+  {
+    "id": "2026-10-20T21:42:51.270Z:cloudflare:8288769:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8288769",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-20T21:42:51.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8288769?gh_jid=8288769"
+    }
+  },
+  {
+    "id": "2026-10-20T21:42:51.270Z:cloudflare:8303996:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8303996",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-20T21:42:51.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8303996?gh_jid=8303996"
+    }
+  },
+  {
+    "id": "2026-10-20T21:42:51.270Z:cloudflare:8304060:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8304060",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-20T21:42:51.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8304060?gh_jid=8304060"
+    }
+  },
+  {
+    "id": "2026-10-20T21:42:51.270Z:ramp:6ac50530-ce1c-4375-9cc1-c56f8b5925fd:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "ramp:6ac50530-ce1c-4375-9cc1-c56f8b5925fd",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-20T21:42:51.270Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/6ac50530-ce1c-4375-9cc1-c56f8b5925fd"
+    }
   }
 ]
