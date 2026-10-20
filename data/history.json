@@ -77726,5 +77726,187 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/f36f233b-bb27-4334-87df-8dc02b897724"
     }
+  },
+  {
+    "id": "2026-10-20T05:00:02.152Z:cloudflare:8283875:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8283875",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-20T05:00:02.152Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8283875?gh_jid=8283875"
+    }
+  },
+  {
+    "id": "2026-10-20T05:00:02.152Z:cursor:0320a8db-cb1b-407b-bd62-b23734b83330:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:0320a8db-cb1b-407b-bd62-b23734b83330",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "Palo Alto, CA",
+    "occurredAt": "2026-10-20T05:00:02.152Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/0320a8db-cb1b-407b-bd62-b23734b83330"
+    }
+  },
+  {
+    "id": "2026-10-20T05:00:02.152Z:cursor:167f0e93-6915-4d56-803a-be89d1441fb5:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:167f0e93-6915-4d56-803a-be89d1441fb5",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "Palo Alto, CA",
+    "occurredAt": "2026-10-20T05:00:02.152Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/167f0e93-6915-4d56-803a-be89d1441fb5"
+    }
+  },
+  {
+    "id": "2026-10-20T05:00:02.152Z:cursor:2bc45647-93ff-497e-8db9-9b4f42d17240:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:2bc45647-93ff-497e-8db9-9b4f42d17240",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-20T05:00:02.152Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2bc45647-93ff-497e-8db9-9b4f42d17240"
+    }
+  },
+  {
+    "id": "2026-10-20T05:00:02.152Z:cursor:98dbc051-5dfc-4760-8c14-bbaf8529256c:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:98dbc051-5dfc-4760-8c14-bbaf8529256c",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "431e7dd5638dfa65a2c0f18de334f05ffe24b64cbfd607da7b24e44103ae083d",
+    "after": "64399cee029db40bad857fa512c65a4c6e2e92f8aed12a0e674042b46a5d4964",
+    "occurredAt": "2026-10-20T05:00:02.152Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/98dbc051-5dfc-4760-8c14-bbaf8529256c"
+    }
+  },
+  {
+    "id": "2026-10-20T05:00:02.152Z:cursor:9a175381-45e2-42b6-bd64-6c84532365f9:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:9a175381-45e2-42b6-bd64-6c84532365f9",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "Palo Alto, CA",
+    "occurredAt": "2026-10-20T05:00:02.152Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9"
+    }
+  },
+  {
+    "id": "2026-10-20T05:00:02.152Z:cursor:aef8f0e7-37cd-4d6e-96c9-3af72f588bae:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "Palo Alto, CA",
+    "occurredAt": "2026-10-20T05:00:02.152Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae"
+    }
+  },
+  {
+    "id": "2026-10-20T05:00:02.152Z:cursor:c4be0272-542c-4bf1-b890-8785d3044bed:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:c4be0272-542c-4bf1-b890-8785d3044bed",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-20T05:00:02.152Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c4be0272-542c-4bf1-b890-8785d3044bed"
+    }
+  },
+  {
+    "id": "2026-10-20T05:00:02.152Z:cursor:c68b3d8f-360d-41f0-84fd-1cb225b19e23:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:c68b3d8f-360d-41f0-84fd-1cb225b19e23",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "Palo Alto, CA",
+    "occurredAt": "2026-10-20T05:00:02.152Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c68b3d8f-360d-41f0-84fd-1cb225b19e23"
+    }
+  },
+  {
+    "id": "2026-10-20T05:00:02.152Z:cursor:fa7a821b-ca2b-43fe-8942-07f215a060c7:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:fa7a821b-ca2b-43fe-8942-07f215a060c7",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-20T05:00:02.152Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/fa7a821b-ca2b-43fe-8942-07f215a060c7"
+    }
+  },
+  {
+    "id": "2026-10-20T05:00:02.152Z:notion:15dde0f5-b3fd-4d46-8ec2-0858ebdd888d:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:15dde0f5-b3fd-4d46-8ec2-0858ebdd888d",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "6554190e533af12677d66ea163a562129ac9b59d069d95864d935e0874b6d1f6",
+    "after": "c22ffb22adf33796cb1d54e236fb2407ae2007f6f095757fc7aeaa8a4f35cde6",
+    "occurredAt": "2026-10-20T05:00:02.152Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/15dde0f5-b3fd-4d46-8ec2-0858ebdd888d"
+    }
+  },
+  {
+    "id": "2026-10-20T05:00:02.152Z:notion:38380ec7-9b4a-4bc1-8efd-852f831cf64f:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:38380ec7-9b4a-4bc1-8efd-852f831cf64f",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "35dd1e74f545a1ae04e96eedbb3b8ef9da6b89bb6ca3ce1add55d7b10a8a5a0e",
+    "after": "afc1df65807133f6ca84d5715b6c5a68cd8aad50b8aa0ab1622ef639a8c994db",
+    "occurredAt": "2026-10-20T05:00:02.152Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/38380ec7-9b4a-4bc1-8efd-852f831cf64f"
+    }
+  },
+  {
+    "id": "2026-10-20T05:00:02.152Z:notion:d1d118da-f081-4d0a-91a1-de8450ae0438:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:d1d118da-f081-4d0a-91a1-de8450ae0438",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "9468339b43687780014c49271597e15c689cfb2816ceec53be2f558377bad7cb",
+    "after": "05c57200bb5f43647762513e97c90390b21e77e7b65423191a76b675dc86539f",
+    "occurredAt": "2026-10-20T05:00:02.152Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/d1d118da-f081-4d0a-91a1-de8450ae0438"
+    }
   }
 ]
