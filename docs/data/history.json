@@ -78426,5 +78426,61 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/6ac50530-ce1c-4375-9cc1-c56f8b5925fd"
     }
+  },
+  {
+    "id": "2026-10-21T04:59:32.095Z:cloudflare:8304855:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8304855",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-21T04:59:32.095Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8304855?gh_jid=8304855"
+    }
+  },
+  {
+    "id": "2026-10-21T04:59:32.095Z:cursor:2bc45647-93ff-497e-8db9-9b4f42d17240:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:2bc45647-93ff-497e-8db9-9b4f42d17240",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "a0ae8cb333e08f683e90c54aa652e48d520df7ea1f52534ac3f80aaa1721666d",
+    "after": "57b2f45a9ea9d5e2bfbefaee140bdc307f38e9eedef4db951a77b23bb0ef8e97",
+    "occurredAt": "2026-10-21T04:59:32.095Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2bc45647-93ff-497e-8db9-9b4f42d17240"
+    }
+  },
+  {
+    "id": "2026-10-21T04:59:32.095Z:linear:0dbd1790-2652-49fc-861f-7451ae4eb1cf:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "linear:0dbd1790-2652-49fc-861f-7451ae4eb1cf",
+    "company": "linear",
+    "companyName": "Linear",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-21T04:59:32.095Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/linear/0dbd1790-2652-49fc-861f-7451ae4eb1cf"
+    }
+  },
+  {
+    "id": "2026-10-21T04:59:32.095Z:linear:d8890a6d-ce76-4c3d-aacc-34c1ed150d91:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "linear:d8890a6d-ce76-4c3d-aacc-34c1ed150d91",
+    "company": "linear",
+    "companyName": "Linear",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-21T04:59:32.095Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/linear/d8890a6d-ce76-4c3d-aacc-34c1ed150d91"
+    }
   }
 ]
