@@ -87778,5 +87778,159 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/cursor/ef96e7fc-5d91-48b2-a8af-26dca8caab77"
     }
+  },
+  {
+    "id": "2026-10-22T17:18:28.270Z:cloudflare:7478874:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:7478874",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Sr. Commercial Account Executive",
+    "after": "Senior Commercial Account Executive",
+    "occurredAt": "2026-10-22T17:18:28.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7478874?gh_jid=7478874"
+    }
+  },
+  {
+    "id": "2026-10-22T17:18:28.270Z:cloudflare:7478874:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:7478874",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-21T18:43:01.000Z",
+    "after": "2026-10-22T12:28:30.000Z",
+    "occurredAt": "2026-10-22T17:18:28.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7478874?gh_jid=7478874"
+    }
+  },
+  {
+    "id": "2026-10-22T17:18:28.270Z:cloudflare:8127204:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8127204",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-22T17:18:28.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8127204?gh_jid=8127204"
+    }
+  },
+  {
+    "id": "2026-10-22T17:18:28.270Z:cloudflare:8128468:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8128468",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-22T17:18:28.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8128468?gh_jid=8128468"
+    }
+  },
+  {
+    "id": "2026-10-22T17:18:28.270Z:cloudflare:8219962:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8219962",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Senior Sales Manager, Central Eastern Europe - Digital Natives",
+    "after": "Senior Sales Manager, Central Eastern Europe - Digital Natives, Startups",
+    "occurredAt": "2026-10-22T17:18:28.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8219962?gh_jid=8219962"
+    }
+  },
+  {
+    "id": "2026-10-22T17:18:28.270Z:cloudflare:8219962:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8219962",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-21T18:43:01.000Z",
+    "after": "2026-10-22T15:25:26.000Z",
+    "occurredAt": "2026-10-22T17:18:28.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8219962?gh_jid=8219962"
+    }
+  },
+  {
+    "id": "2026-10-22T17:18:28.270Z:cloudflare:8233344:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8233344",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-21T18:43:01.000Z",
+    "after": "2026-10-22T17:07:55.000Z",
+    "occurredAt": "2026-10-22T17:18:28.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8233344?gh_jid=8233344"
+    }
+  },
+  {
+    "id": "2026-10-22T17:18:28.270Z:cloudflare:8305918:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8305918",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-22T17:18:28.270Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8305918?gh_jid=8305918"
+    }
+  },
+  {
+    "id": "2026-10-22T17:18:28.270Z:cursor:6acdd80a-3a1b-4701-a607-ca10d86c6847:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:6acdd80a-3a1b-4701-a607-ca10d86c6847",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-22T17:18:28.270Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/6acdd80a-3a1b-4701-a607-ca10d86c6847"
+    }
+  },
+  {
+    "id": "2026-10-22T17:18:28.270Z:linear:c97e034e-19a8-4ec7-89a5-c81987451da8:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "linear:c97e034e-19a8-4ec7-89a5-c81987451da8",
+    "company": "linear",
+    "companyName": "Linear",
+    "field": "descriptionHash",
+    "before": "7f66428b6592b49e909fa72bcc0d7f2cdedd8aba27bf9511438f01638074fefe",
+    "after": "5a223406b88c72f64a37890d825fc34a47f2da1d9114a2c51469c7597d0eff36",
+    "occurredAt": "2026-10-22T17:18:28.270Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/linear/c97e034e-19a8-4ec7-89a5-c81987451da8"
+    }
+  },
+  {
+    "id": "2026-10-22T17:18:28.270Z:linear:f16dd5e9-ed10-4b8e-b5d7-1b8b5e3f002f:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "linear:f16dd5e9-ed10-4b8e-b5d7-1b8b5e3f002f",
+    "company": "linear",
+    "companyName": "Linear",
+    "field": "descriptionHash",
+    "before": "7f66428b6592b49e909fa72bcc0d7f2cdedd8aba27bf9511438f01638074fefe",
+    "after": "5a223406b88c72f64a37890d825fc34a47f2da1d9114a2c51469c7597d0eff36",
+    "occurredAt": "2026-10-22T17:18:28.270Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/linear/f16dd5e9-ed10-4b8e-b5d7-1b8b5e3f002f"
+    }
   }
 ]
