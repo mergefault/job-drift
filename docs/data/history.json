@@ -89612,5 +89612,635 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/notion/414aea17-4326-4e95-84e6-09f87cb79468"
     }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:binance:102bf83f-e63d-4c80-bfbd-d8c327a99690:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:102bf83f-e63d-4c80-bfbd-d8c327a99690",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/102bf83f-e63d-4c80-bfbd-d8c327a99690"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:binance:1046727e-f855-44ef-a18d-37c2bfb9d6d6:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:1046727e-f855-44ef-a18d-37c2bfb9d6d6",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/1046727e-f855-44ef-a18d-37c2bfb9d6d6"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:binance:1245204b-d029-4961-9819-bb6fc37d9b16:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "binance:1245204b-d029-4961-9819-bb6fc37d9b16",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/1245204b-d029-4961-9819-bb6fc37d9b16"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:binance:439d6f0a-bf27-45b5-8cd2-0783d105bb7b:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:439d6f0a-bf27-45b5-8cd2-0783d105bb7b",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/439d6f0a-bf27-45b5-8cd2-0783d105bb7b"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:binance:53f4727b-89a8-4b19-8b1a-65781808c5dd:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:53f4727b-89a8-4b19-8b1a-65781808c5dd",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/53f4727b-89a8-4b19-8b1a-65781808c5dd"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:binance:6d2c2e8e-1211-42c6-ab97-9a88879ea2b9:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:6d2c2e8e-1211-42c6-ab97-9a88879ea2b9",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/6d2c2e8e-1211-42c6-ab97-9a88879ea2b9"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:binance:73a6e166-eb27-4079-8780-a9bf2d211121:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:73a6e166-eb27-4079-8780-a9bf2d211121",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/73a6e166-eb27-4079-8780-a9bf2d211121"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:binance:8cd93838-3c12-4386-8dc2-8dfe69873e27:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:8cd93838-3c12-4386-8dc2-8dfe69873e27",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/8cd93838-3c12-4386-8dc2-8dfe69873e27"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:binance:aecc4a9f-a131-4eaa-8771-d482168c8ca8:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:aecc4a9f-a131-4eaa-8771-d482168c8ca8",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/aecc4a9f-a131-4eaa-8771-d482168c8ca8"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:binance:bcedb95d-da5e-4b47-a684-bd872ecb6d4b:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:bcedb95d-da5e-4b47-a684-bd872ecb6d4b",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/bcedb95d-da5e-4b47-a684-bd872ecb6d4b"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:binance:c2965523-a3dd-4b7b-84ef-56f815920bae:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:c2965523-a3dd-4b7b-84ef-56f815920bae",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/c2965523-a3dd-4b7b-84ef-56f815920bae"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:binance:de72d087-7b79-4496-80b6-d6110276b1e6:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:de72d087-7b79-4496-80b6-d6110276b1e6",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/de72d087-7b79-4496-80b6-d6110276b1e6"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:binance:e21ea35c-3cb2-479e-9d74-c8149441d9fb:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "binance:e21ea35c-3cb2-479e-9d74-c8149441d9fb",
+    "company": "binance",
+    "companyName": "Binance",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.lever.co/binance/e21ea35c-3cb2-479e-9d74-c8149441d9fb"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cloudflare:7167659:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:7167659",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7167659?gh_jid=7167659"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cloudflare:7535803:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:7535803",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "IT Asset Manager",
+    "after": "Manager of IT Asset Management",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7535803?gh_jid=7535803"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cloudflare:7535803:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:7535803",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-21T18:43:01.000Z",
+    "after": "2026-10-26T11:26:54.000Z",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7535803?gh_jid=7535803"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cloudflare:7535803:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:7535803",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "94900d1887769449c300c896251eaa3e28af221774cec2b6f0033e7d8a6f6473",
+    "after": "51b434c738a6af12bdf5d606a6263b1152ecfcb27ba5dea752e23660303a5e97",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7535803?gh_jid=7535803"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cloudflare:8012884:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8012884",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8012884?gh_jid=8012884"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cloudflare:8203600:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8203600",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8203600?gh_jid=8203600"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cloudflare:8213269:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8213269",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8213269?gh_jid=8213269"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cloudflare:8312693:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8312693",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Senior Manager, Customer Engineering - Central Eastern Europe",
+    "after": "Senior Manager, Customer Engineering, Central Eastern Europe & Israel - Hebrew Speaking",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8312693?gh_jid=8312693"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cloudflare:8312693:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8312693",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-23T15:46:33.000Z",
+    "after": "2026-10-26T09:57:49.000Z",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8312693?gh_jid=8312693"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cloudflare:8312693:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8312693",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "bee552d080601a8270bf7e1abac358d72a6bba1cd6e721914544f7c22e873a33",
+    "after": "5c9abe02cebe22b1cf245a42f269f525bd1aab725d90973591f6a544b121fb53",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8312693?gh_jid=8312693"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:066afe7d-e580-4f13-88d9-828a50bea894:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:066afe7d-e580-4f13-88d9-828a50bea894",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "d7bac8adde0fd618a2628ab5c7d92c13d35922ad7f531a7ec23cf84ed255d6ec",
+    "after": "f693ea45081b5e8ba83ca500a76b22c7f14d1deca71a2f0b700957a9947332e1",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/066afe7d-e580-4f13-88d9-828a50bea894"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:13517b5d-1c6c-4720-9650-b1d0db72c697:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:13517b5d-1c6c-4720-9650-b1d0db72c697",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "0915a8587353ecc519f99167b31f9d35245d8bd221d3fd798e89b2c012293914",
+    "after": "4797ee7884a46eb7e8796efeb80b3eeef604ac6a120af7f72f3e784196f53de3",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/13517b5d-1c6c-4720-9650-b1d0db72c697"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:175cb50f-063c-4d02-8954-568a9c3821bf:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:175cb50f-063c-4d02-8954-568a9c3821bf",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "72f8d8e679af252cf95622ddae378778fe43ffb87dda7b4bdad940aaf10427ba",
+    "after": "41543e5afba155258cd3e9ff492c2a0250aaa2f6b95a5691d7cb0f2658a5ba80",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/175cb50f-063c-4d02-8954-568a9c3821bf"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:1b422774-a090-455f-a8f8-64f68d7f86e5:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:1b422774-a090-455f-a8f8-64f68d7f86e5",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "3d014af4efb91f0016ecf65168464f04ad4cf0cfdc8292b5bf358b5757edb815",
+    "after": "ba229e9d1715ca27bb6761eaa56cf1d769bf76e720c87b4580571ce17ec2775f",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1b422774-a090-455f-a8f8-64f68d7f86e5"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:232223c1-913a-4318-982b-1970e2842710:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:232223c1-913a-4318-982b-1970e2842710",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "20e5f2f1f9c5f527cb16222ee84ac567eebec60dbab8e3134cda5273dcd93121",
+    "after": "0698a6be066b46ad5b5bb6e5194051ac96508553b49f7008f7cb37e1862eaae2",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/232223c1-913a-4318-982b-1970e2842710"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:2514161d-be85-41bd-9b16-38d3771616ad:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:2514161d-be85-41bd-9b16-38d3771616ad",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "a4a6098de305be6a48e83bb96385d58eacfc2e0031f2e1c8c4dbb49d9c058018",
+    "after": "d1412e1ec29c83fcaa913a3a12e9bdeeebb70a338e93aa74b2e3388d22c4d872",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2514161d-be85-41bd-9b16-38d3771616ad"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:2ba388d9-8cb1-4738-a9a2-37d97fc17216:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:2ba388d9-8cb1-4738-a9a2-37d97fc17216",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "250b947f2bfab9cf039951a794a159a3994d0b680daa2e25125538ec85c7d8a3",
+    "after": "868fbe7475b29c108919741867ee15bc713d2e29937f307080810ed75d791366",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2ba388d9-8cb1-4738-a9a2-37d97fc17216"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:2ca532ac-da2a-4f45-ba60-fe4de80ca821:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:2ca532ac-da2a-4f45-ba60-fe4de80ca821",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "6c08a860ad2f2fb97cd8028628f686267d3f78377a0f04a5a55d59ae590c3f8f",
+    "after": "09877a48e8c31c5a838d71e52577657e11ee5a6e6c92e42d35111309b5fc4188",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2ca532ac-da2a-4f45-ba60-fe4de80ca821"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:2e98f028-1b77-4537-aeee-e2962668c970:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:2e98f028-1b77-4537-aeee-e2962668c970",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "ecb34325a1c8933df6505822a9e5c2993813390ee4cf813788c82fe055a5e465",
+    "after": "6e53346db49024980efdb7cd49e8dcd8e31e2358ba0510c6f5968617e980f1ea",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2e98f028-1b77-4537-aeee-e2962668c970"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:38bd03a3-3d65-4868-87df-cb248d0a45e3:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:38bd03a3-3d65-4868-87df-cb248d0a45e3",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "8f09c20d745523ee668846da5d83eeeb2171916203f02a6e370916912d0b0e85",
+    "after": "04277a0576de6ebda77759657f50097628c806d34b2347ade2c11948b42c9edd",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/38bd03a3-3d65-4868-87df-cb248d0a45e3"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:38f2d7b3-f431-464d-abdb-b10f71df9a72:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:38f2d7b3-f431-464d-abdb-b10f71df9a72",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "3beec6285f72f91b0a8045f86490810a8e3039b02be1463a5965b1f6ce35aefd",
+    "after": "31f9f156d43d403354cc87f7ad03b049e71212f550faea388ea8a393a4ff7bd1",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/38f2d7b3-f431-464d-abdb-b10f71df9a72"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:44264403-5674-40b7-8b8d-e60b0a86e9ec:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:44264403-5674-40b7-8b8d-e60b0a86e9ec",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "383ccacb463e5261caae3891ee58867a7531c7629e082b59b7dea06d36a9cb07",
+    "after": "e919e126b553987dfe566f7a34ead76aa55397e0dd8f1b98ad51cd513d8152e2",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/44264403-5674-40b7-8b8d-e60b0a86e9ec"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:47496e80-79d6-49ce-adfb-19b7d1d4248f:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:47496e80-79d6-49ce-adfb-19b7d1d4248f",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "9ad79976664af9c95bea5c2790a2017f1d1f2721ca1242667e1783a854ab3505",
+    "after": "4ff1a336433c63c58736483e2a3b71983afd1dcbd092d25b1b26f2fe6bce40d0",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/47496e80-79d6-49ce-adfb-19b7d1d4248f"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:9764046f-8303-4fca-8386-4e743dfc8722:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:9764046f-8303-4fca-8386-4e743dfc8722",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "9f109476e1dfe6b37954401685201149ce8cd439f770e9a543272710e30597cd",
+    "after": "205422db7a9ed24d2267d34611d6c3b32bddba9d700c490f8aa6bf9562e5d77c",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/9764046f-8303-4fca-8386-4e743dfc8722"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:bff67718-1dbf-4d66-bcef-8b68d93d716f:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:bff67718-1dbf-4d66-bcef-8b68d93d716f",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "153a44263b32698ec3f68374fe3353297e636043b24d471dd54078d658977c9d",
+    "after": "f4bd01bae4fd5e3672363ddd212321d2b73af8d6412cc33ffe60da968403f0db",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/bff67718-1dbf-4d66-bcef-8b68d93d716f"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:cf144fbc-44dd-485b-8dd7-ccb5bdb41adc:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:cf144fbc-44dd-485b-8dd7-ccb5bdb41adc",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "476f23f3c8d9a5a07d6564d5bcb8d0954387f07c0aaa60eb43390f4c25e83d2a",
+    "after": "2a1018013f4733bdfc0306d7655f8c97ff9b1006aef722049f76dea5e263bf73",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/cf144fbc-44dd-485b-8dd7-ccb5bdb41adc"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:de322c3d-337e-4301-a7dc-90ccf331d60f:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:de322c3d-337e-4301-a7dc-90ccf331d60f",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "ac3ec08edcafbf0361c3461369f6a6131ca78da695bda3df92c31707909e2706",
+    "after": "e27b59ad037c604be657b3bbeedb35899563d6662e09461de03c8faecf37f82c",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/de322c3d-337e-4301-a7dc-90ccf331d60f"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:e076ddca-ad40-4dd3-adbc-1da0740a92e6:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:e076ddca-ad40-4dd3-adbc-1da0740a92e6",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "6374b6b0db1c1a45462362abd7d26786d3b6b3737639bb804dc253cc6ab77fa3",
+    "after": "54899ed2e8e1183418ad8f2b3ece149233c67aee023271dc4590ece971601754",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/e076ddca-ad40-4dd3-adbc-1da0740a92e6"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:e3ccb495-a8a3-4ff0-a27b-262188abb9df:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:e3ccb495-a8a3-4ff0-a27b-262188abb9df",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "58acb911bc4d42366088f87bdee6f226090b2a8bbb139cd4dfaceff67533fe85",
+    "after": "11d7e22a1bf1ad61f0cfd031cfcd12e19740eae1ee837733788aa9183e444c64",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/e3ccb495-a8a3-4ff0-a27b-262188abb9df"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:e57836e8-c864-4817-aaa2-1b1263f0a352:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:e57836e8-c864-4817-aaa2-1b1263f0a352",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "0e081635257867b45aacc0683de0dfe3670291c9378ce777f126528ebd41f1f7",
+    "after": "e296f126b0379af7293c89e845c4d4c5186095c35e861a26200b89b31a78d609",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/e57836e8-c864-4817-aaa2-1b1263f0a352"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:ef96e7fc-5d91-48b2-a8af-26dca8caab77:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:ef96e7fc-5d91-48b2-a8af-26dca8caab77",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "9f109476e1dfe6b37954401685201149ce8cd439f770e9a543272710e30597cd",
+    "after": "205422db7a9ed24d2267d34611d6c3b32bddba9d700c490f8aa6bf9562e5d77c",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/ef96e7fc-5d91-48b2-a8af-26dca8caab77"
+    }
+  },
+  {
+    "id": "2026-10-26T13:17:14.901Z:cursor:f2cf204b-f469-4997-9508-f218c5869706:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:f2cf204b-f469-4997-9508-f218c5869706",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "63549f8229765fdc31f85364fc9600ca1fa1b535ae5ba46e7274ff3314651f1b",
+    "after": "52e28e288c1ec551c92b2a2a3645eafe517bba77b9348fb55421d93988d6383e",
+    "occurredAt": "2026-10-26T13:17:14.901Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/f2cf204b-f469-4997-9508-f218c5869706"
+    }
   }
 ]
