@@ -91628,5 +91628,89 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/e8e96e0c-3780-42ed-8297-1ccfa505cd94"
     }
+  },
+  {
+    "id": "2026-10-28T05:54:10.076Z:cloudflare:8046869:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8046869",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-28T05:54:10.076Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8046869?gh_jid=8046869"
+    }
+  },
+  {
+    "id": "2026-10-28T05:54:10.076Z:cloudflare:8225546:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8225546",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Principal Partner Engineer, APAC",
+    "after": "Principal Partner Engineer, ANZ",
+    "occurredAt": "2026-10-28T05:54:10.076Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8225546?gh_jid=8225546"
+    }
+  },
+  {
+    "id": "2026-10-28T05:54:10.076Z:cloudflare:8225546:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8225546",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-21T18:43:01.000Z",
+    "after": "2026-10-28T01:39:39.000Z",
+    "occurredAt": "2026-10-28T05:54:10.076Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8225546?gh_jid=8225546"
+    }
+  },
+  {
+    "id": "2026-10-28T05:54:10.076Z:cursor:6acdd80a-3a1b-4701-a607-ca10d86c6847:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:6acdd80a-3a1b-4701-a607-ca10d86c6847",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-28T05:54:10.076Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/6acdd80a-3a1b-4701-a607-ca10d86c6847"
+    }
+  },
+  {
+    "id": "2026-10-28T05:54:10.076Z:cursor:c43bdded-80a1-4705-a0ec-8217d771528c:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:c43bdded-80a1-4705-a0ec-8217d771528c",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-28T05:54:10.076Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c43bdded-80a1-4705-a0ec-8217d771528c"
+    }
+  },
+  {
+    "id": "2026-10-28T05:54:10.076Z:cursor:cda9256f-e820-4f0a-9e77-e44c61295e1d:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cursor:cda9256f-e820-4f0a-9e77-e44c61295e1d",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "descriptionHash",
+    "before": "095d1e669a3fb7352788f04041dc313670773a5deb3531bd151c80935d378c81",
+    "after": "681f65a8dacf358480da8cc631eb173d5a5e49d22162c7b0660ef2f582d8dba3",
+    "occurredAt": "2026-10-28T05:54:10.076Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/cda9256f-e820-4f0a-9e77-e44c61295e1d"
+    }
   }
 ]
