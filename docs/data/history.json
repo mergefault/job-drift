@@ -91712,5 +91712,103 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/cursor/cda9256f-e820-4f0a-9e77-e44c61295e1d"
     }
+  },
+  {
+    "id": "2026-10-28T13:10:56.554Z:cloudflare:8074364:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8074364",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-28T13:10:56.554Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8074364?gh_jid=8074364"
+    }
+  },
+  {
+    "id": "2026-10-28T13:10:56.554Z:cloudflare:8099000:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8099000",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-28T13:10:56.554Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8099000?gh_jid=8099000"
+    }
+  },
+  {
+    "id": "2026-10-28T13:10:56.554Z:cloudflare:8232806:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8232806",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-28T13:10:56.554Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8232806?gh_jid=8232806"
+    }
+  },
+  {
+    "id": "2026-10-28T13:10:56.554Z:cloudflare:8311376:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8311376",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-28T13:10:56.554Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8311376?gh_jid=8311376"
+    }
+  },
+  {
+    "id": "2026-10-28T13:10:56.554Z:cursor:919704fe-a3b7-4a15-8d2b-5df649b5168c:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:919704fe-a3b7-4a15-8d2b-5df649b5168c",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-28T13:10:56.554Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/919704fe-a3b7-4a15-8d2b-5df649b5168c"
+    }
+  },
+  {
+    "id": "2026-10-28T13:10:56.554Z:notion:3b519524-cc8d-495d-a708-c57e78aca792:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "notion:3b519524-cc8d-495d-a708-c57e78aca792",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-28T13:10:56.554Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/3b519524-cc8d-495d-a708-c57e78aca792"
+    }
+  },
+  {
+    "id": "2026-10-28T13:10:56.554Z:notion:beaef5b2-ad9a-4504-a4bb-93eea06c3d1a:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "notion:beaef5b2-ad9a-4504-a4bb-93eea06c3d1a",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-28T13:10:56.554Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/beaef5b2-ad9a-4504-a4bb-93eea06c3d1a"
+    }
   }
 ]
