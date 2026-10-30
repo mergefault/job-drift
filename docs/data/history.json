@@ -94148,5 +94148,103 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/cursor/f277b2d6-c27e-4cb9-9d0b-644e9730f06c"
     }
+  },
+  {
+    "id": "2026-10-30T13:09:43.412Z:cloudflare:7735836:JOB_UPDATED:department",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:7735836",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "department",
+    "before": "Mid Market",
+    "after": "Field Sales",
+    "occurredAt": "2026-10-30T13:09:43.412Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7735836?gh_jid=7735836"
+    }
+  },
+  {
+    "id": "2026-10-30T13:09:43.412Z:cloudflare:7735836:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:7735836",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-21T18:43:01.000Z",
+    "after": "2026-10-30T12:47:38.000Z",
+    "occurredAt": "2026-10-30T13:09:43.412Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7735836?gh_jid=7735836"
+    }
+  },
+  {
+    "id": "2026-10-30T13:09:43.412Z:cloudflare:8164600:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8164600",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-30T13:09:43.412Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8164600?gh_jid=8164600"
+    }
+  },
+  {
+    "id": "2026-10-30T13:09:43.412Z:cloudflare:8229998:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8229998",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-21T18:43:01.000Z",
+    "after": "2026-10-30T09:54:22.000Z",
+    "occurredAt": "2026-10-30T13:09:43.412Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8229998?gh_jid=8229998"
+    }
+  },
+  {
+    "id": "2026-10-30T13:09:43.412Z:cloudflare:8275944:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8275944",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-30T13:09:43.412Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8275944?gh_jid=8275944"
+    }
+  },
+  {
+    "id": "2026-10-30T13:09:43.412Z:cloudflare:8323918:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8323918",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-29T08:31:16.000Z",
+    "after": "2026-10-30T07:02:56.000Z",
+    "occurredAt": "2026-10-30T13:09:43.412Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8323918?gh_jid=8323918"
+    }
+  },
+  {
+    "id": "2026-10-30T13:09:43.412Z:cloudflare:8330121:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8330121",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-30T13:09:43.412Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8330121?gh_jid=8330121"
+    }
   }
 ]
