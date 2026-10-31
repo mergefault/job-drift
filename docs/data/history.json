@@ -101050,5 +101050,19 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/cursor/0aa0650b-f93c-416e-9e2f-4fdf1556fd14"
     }
+  },
+  {
+    "id": "2026-10-31T21:43:16.965Z:ramp:318e7138-151e-4ed2-8b85-a017d234ef12:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "ramp:318e7138-151e-4ed2-8b85-a017d234ef12",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-10-31T21:43:16.965Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/318e7138-151e-4ed2-8b85-a017d234ef12"
+    }
   }
 ]
