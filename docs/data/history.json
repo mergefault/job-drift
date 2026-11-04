@@ -103514,5 +103514,1209 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/fe280d10-4258-420a-b0bb-0dc9021bd803"
     }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8028403:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8028403",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8028403?gh_jid=8028403"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8064473:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8064473",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8064473?gh_jid=8064473"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8071586:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8071586",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8071586?gh_jid=8071586"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8119184:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8119184",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8119184?gh_jid=8119184"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8139424:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8139424",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8139424?gh_jid=8139424"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8200670:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8200670",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8200670?gh_jid=8200670"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8226448:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8226448",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8226448?gh_jid=8226448"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8242904:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8242904",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8242904?gh_jid=8242904"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8243552:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8243552",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-30T22:16:11.000Z",
+    "after": "2026-11-04T14:36:54.000Z",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8243552?gh_jid=8243552"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8243552:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8243552",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "2be927be28e1e2183dc72110a8b1a280947586f194b40e1fa072b2a1b92cd251",
+    "after": "a36b8d31528ce9d97209c4b8854a34db2bc690809a35564fe6996ba61065bc93",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8243552?gh_jid=8243552"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8247492:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8247492",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8247492?gh_jid=8247492"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8264043:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8264043",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8264043?gh_jid=8264043"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8275944:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cloudflare:8275944",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "location",
+    "before": "In-Office",
+    "after": "Hybrid; In-Office",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8275944?gh_jid=8275944"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8275944:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8275944",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-03T16:09:43.000Z",
+    "after": "2026-11-04T11:57:24.000Z",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8275944?gh_jid=8275944"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8275944:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8275944",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "cd049da47512e0e6cd8c1833afe021a3d541fcb34118ab8b11425344f07c97d5",
+    "after": "73afb80884aba5c7750ab080440980e26c1d59da3544be300f3ceddf4d231def",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8275944?gh_jid=8275944"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8332504:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8332504",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-02T17:27:18.000Z",
+    "after": "2026-11-04T19:38:05.000Z",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8332504?gh_jid=8332504"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8335468:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8335468",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-30T22:18:36.000Z",
+    "after": "2026-11-04T18:52:06.000Z",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8335468?gh_jid=8335468"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8335469:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8335469",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8335469?gh_jid=8335469"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8346327:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cloudflare:8346327",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "location",
+    "before": "Hybrid",
+    "after": "Distributed",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8346327?gh_jid=8346327"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8346327:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8346327",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-03T23:19:34.000Z",
+    "after": "2026-11-04T15:09:13.000Z",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8346327?gh_jid=8346327"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8346327:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8346327",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "a965f7724ff742308df3c6a45266c728b6bd2e8c9df0b22315086290e546bc8b",
+    "after": "46be3dfd396b4a40de0765b47a82f81c8006416364e877aed2a8372037d595f4",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8346327?gh_jid=8346327"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cloudflare:8349425:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8349425",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8349425?gh_jid=8349425"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:010063bd-6083-4fc0-a455-e6f0193b5347:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:010063bd-6083-4fc0-a455-e6f0193b5347",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/010063bd-6083-4fc0-a455-e6f0193b5347"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:03b454f2-c586-48cb-a19c-5fc57be55f43:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:03b454f2-c586-48cb-a19c-5fc57be55f43",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "Austin",
+    "after": "Austin, TX",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/03b454f2-c586-48cb-a19c-5fc57be55f43"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/0ec39ed7-a5dc-4551-bb26-b7f4f9fb4a74"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:123af173-6f9b-4089-9d96-d0c028b9e841:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:123af173-6f9b-4089-9d96-d0c028b9e841",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/123af173-6f9b-4089-9d96-d0c028b9e841"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:1240b4aa-8074-4afb-ae36-a690869c8233:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:1240b4aa-8074-4afb-ae36-a690869c8233",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "New York",
+    "after": "New York, NY",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1240b4aa-8074-4afb-ae36-a690869c8233"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:13ceadb8-638f-40c7-a59d-70dab2f4de0b:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:13ceadb8-638f-40c7-a59d-70dab2f4de0b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "New York",
+    "after": "New York, NY",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/13ceadb8-638f-40c7-a59d-70dab2f4de0b"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:1703501f-53a1-4307-93ec-84b723be92ef:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:1703501f-53a1-4307-93ec-84b723be92ef",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1703501f-53a1-4307-93ec-84b723be92ef"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:193c326d-2ffc-4c11-8bba-73d243fd178b:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:193c326d-2ffc-4c11-8bba-73d243fd178b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:1a584899-847d-4e5b-8181-fb889fe4e06e:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:1a584899-847d-4e5b-8181-fb889fe4e06e",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1a584899-847d-4e5b-8181-fb889fe4e06e"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:1d3a2047-4739-479b-914d-377046f0fd1a:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:1d3a2047-4739-479b-914d-377046f0fd1a",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1d3a2047-4739-479b-914d-377046f0fd1a"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:1d56ed97-eee3-406d-91e2-7feed88ce6f0:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:1d56ed97-eee3-406d-91e2-7feed88ce6f0",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "New York",
+    "after": "New York, NY",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1d56ed97-eee3-406d-91e2-7feed88ce6f0"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:299ce422-0281-4282-aadd-bc22553be0b5:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:299ce422-0281-4282-aadd-bc22553be0b5",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/299ce422-0281-4282-aadd-bc22553be0b5"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:2bc45647-93ff-497e-8db9-9b4f42d17240:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:2bc45647-93ff-497e-8db9-9b4f42d17240",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2bc45647-93ff-497e-8db9-9b4f42d17240"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:34cecd0c-c392-4454-8ef5-261310541011:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:34cecd0c-c392-4454-8ef5-261310541011",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:44264403-5674-40b7-8b8d-e60b0a86e9ec:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cursor:44264403-5674-40b7-8b8d-e60b0a86e9ec",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "title",
+    "before": "Forward Deployed Engineer",
+    "after": "Forward Deployed Engineer (Australia)",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/44264403-5674-40b7-8b8d-e60b0a86e9ec"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:45c815b0-5100-4934-8558-0e750b8aed79:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:45c815b0-5100-4934-8558-0e750b8aed79",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "New York",
+    "after": "New York, NY",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/45c815b0-5100-4934-8558-0e750b8aed79"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:4a1f9223-627b-4582-a038-0d7005d7a31d:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:4a1f9223-627b-4582-a038-0d7005d7a31d",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/4a1f9223-627b-4582-a038-0d7005d7a31d"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:52d3d043-ee24-4663-9673-0ac4c0493eba:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:52d3d043-ee24-4663-9673-0ac4c0493eba",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/52d3d043-ee24-4663-9673-0ac4c0493eba"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:539edb8a-b82a-48f8-ae7a-5c94fffbfa0a:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:539edb8a-b82a-48f8-ae7a-5c94fffbfa0a",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/539edb8a-b82a-48f8-ae7a-5c94fffbfa0a"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:54a9cfcd-570a-4e9c-b52c-bd2336c60991:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:54a9cfcd-570a-4e9c-b52c-bd2336c60991",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/54a9cfcd-570a-4e9c-b52c-bd2336c60991"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:5729deab-ba2b-4a39-bbdd-c981287d8515:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:5729deab-ba2b-4a39-bbdd-c981287d8515",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/5729deab-ba2b-4a39-bbdd-c981287d8515"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:61e4677d-cf3d-458a-bf6c-02287d5d2c39:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:61e4677d-cf3d-458a-bf6c-02287d5d2c39",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:635bd64f-b554-4d37-9128-cefad35913af:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:635bd64f-b554-4d37-9128-cefad35913af",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "New York",
+    "after": "New York, NY",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/635bd64f-b554-4d37-9128-cefad35913af"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:646f20fa-9cea-4a23-a245-4339619a5497:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:646f20fa-9cea-4a23-a245-4339619a5497",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/646f20fa-9cea-4a23-a245-4339619a5497"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:6868de4a-f753-4f10-8dc5-f7aabef03b56:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:6868de4a-f753-4f10-8dc5-f7aabef03b56",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:6acdd80a-3a1b-4701-a607-ca10d86c6847:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:6acdd80a-3a1b-4701-a607-ca10d86c6847",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/6acdd80a-3a1b-4701-a607-ca10d86c6847"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:6c80d6e2-5e59-418e-9ea6-15dface61698:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:6c80d6e2-5e59-418e-9ea6-15dface61698",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/6c80d6e2-5e59-418e-9ea6-15dface61698"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:6d576a09-f30d-4e5e-bb58-5d7ef56cb511:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:6d576a09-f30d-4e5e-bb58-5d7ef56cb511",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/6d576a09-f30d-4e5e-bb58-5d7ef56cb511"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:6eef7144-f2cc-48a8-b065-01f04e4c70ff:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:6eef7144-f2cc-48a8-b065-01f04e4c70ff",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/6eef7144-f2cc-48a8-b065-01f04e4c70ff"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:723239cc-f90f-409d-86ec-3b02df603239:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:723239cc-f90f-409d-86ec-3b02df603239",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/723239cc-f90f-409d-86ec-3b02df603239"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:736ebf73-beb1-417f-87a3-a74176399ba6:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:736ebf73-beb1-417f-87a3-a74176399ba6",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "New York",
+    "after": "New York, NY",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/736ebf73-beb1-417f-87a3-a74176399ba6"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:77bf35db-119c-4533-8187-1e8d5ae08c45:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:77bf35db-119c-4533-8187-1e8d5ae08c45",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/77bf35db-119c-4533-8187-1e8d5ae08c45"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:85c98417-583b-412e-b31a-e4052195b703:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:85c98417-583b-412e-b31a-e4052195b703",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/85c98417-583b-412e-b31a-e4052195b703"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:88d47f97-0bea-448c-9abb-4720e4acf17a:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:88d47f97-0bea-448c-9abb-4720e4acf17a",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/88d47f97-0bea-448c-9abb-4720e4acf17a"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:8acfb92a-eb71-4159-acef-a988eac40fcb:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:8acfb92a-eb71-4159-acef-a988eac40fcb",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/8acfb92a-eb71-4159-acef-a988eac40fcb"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:8b795459-4f93-45b2-a570-bed630cb09ee:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:8b795459-4f93-45b2-a570-bed630cb09ee",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/8b795459-4f93-45b2-a570-bed630cb09ee"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "New York",
+    "after": "New York, NY",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:90f3ffbe-8174-4dc1-a0f5-ca9cb48fdda7:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:90f3ffbe-8174-4dc1-a0f5-ca9cb48fdda7",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/90f3ffbe-8174-4dc1-a0f5-ca9cb48fdda7"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:94cc6684-9dbf-43f9-8ffc-405614e64ddd:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:94cc6684-9dbf-43f9-8ffc-405614e64ddd",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/94cc6684-9dbf-43f9-8ffc-405614e64ddd"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:98dbc051-5dfc-4760-8c14-bbaf8529256c:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:98dbc051-5dfc-4760-8c14-bbaf8529256c",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/98dbc051-5dfc-4760-8c14-bbaf8529256c"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:99641cfd-8523-4f55-8100-958d72b5924b:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:99641cfd-8523-4f55-8100-958d72b5924b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/99641cfd-8523-4f55-8100-958d72b5924b"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:9d7c8f36-eeb7-4e9f-acbe-d959f6280e46:JOB_UPDATED:team",
+    "type": "JOB_UPDATED",
+    "jobId": "cursor:9d7c8f36-eeb7-4e9f-acbe-d959f6280e46",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "team",
+    "before": "Strategy and Operations",
+    "after": "GTM Finance Systems Architecture",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/9d7c8f36-eeb7-4e9f-acbe-d959f6280e46"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:9d7c8f36-eeb7-4e9f-acbe-d959f6280e46:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:9d7c8f36-eeb7-4e9f-acbe-d959f6280e46",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/9d7c8f36-eeb7-4e9f-acbe-d959f6280e46"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:a4fcfac1-8bf1-4804-a0fb-0ea97037772e:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:a4fcfac1-8bf1-4804-a0fb-0ea97037772e",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "Austin",
+    "after": "Austin, TX",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/a4fcfac1-8bf1-4804-a0fb-0ea97037772e"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:a577902e-28e9-4e68-9ee9-91e34d1b59c4:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:a577902e-28e9-4e68-9ee9-91e34d1b59c4",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "New York",
+    "after": "New York, NY",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/a577902e-28e9-4e68-9ee9-91e34d1b59c4"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:b6807f07-c4b7-4435-8c4c-0bef35865ad7:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:b6807f07-c4b7-4435-8c4c-0bef35865ad7",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/b6807f07-c4b7-4435-8c4c-0bef35865ad7"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:c30b1b69-518a-4fdd-a316-667380bcd608:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cursor:c30b1b69-518a-4fdd-a316-667380bcd608",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "title",
+    "before": "Regional Director, Forward Deployed Engineering",
+    "after": "Regional Director, Forward Deployed Engineering (Singapore)",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c30b1b69-518a-4fdd-a316-667380bcd608"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:c50a7358-cc49-4225-bab0-3475f80ad156:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:c50a7358-cc49-4225-bab0-3475f80ad156",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "Austin",
+    "after": "Austin, TX",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c50a7358-cc49-4225-bab0-3475f80ad156"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:c5bbeeb2-1af0-4bde-9e32-55d46c313767:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:c5bbeeb2-1af0-4bde-9e32-55d46c313767",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "New York",
+    "after": "New York, NY",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c5bbeeb2-1af0-4bde-9e32-55d46c313767"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:cd4bad0a-e2f6-4a8d-9b57-ce1780efedae:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:cd4bad0a-e2f6-4a8d-9b57-ce1780efedae",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/cd4bad0a-e2f6-4a8d-9b57-ce1780efedae"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:d225fc95-a56f-466a-9588-d75a7f38c426:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:d225fc95-a56f-466a-9588-d75a7f38c426",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/d225fc95-a56f-466a-9588-d75a7f38c426"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:d4308a8f-81b7-4f67-b3ae-111bb0d87197:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:d4308a8f-81b7-4f67-b3ae-111bb0d87197",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/d4308a8f-81b7-4f67-b3ae-111bb0d87197"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:daa01e68-4183-43b3-8599-882ea60d7a60:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:daa01e68-4183-43b3-8599-882ea60d7a60",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/daa01e68-4183-43b3-8599-882ea60d7a60"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:dbdccf8f-cc8f-4701-94ea-5d0a33efad80:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:dbdccf8f-cc8f-4701-94ea-5d0a33efad80",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/dbdccf8f-cc8f-4701-94ea-5d0a33efad80"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:e08262e8-c089-488d-9b59-9e21f7702b64:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:e08262e8-c089-488d-9b59-9e21f7702b64",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/e08262e8-c089-488d-9b59-9e21f7702b64"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:ef96e7fc-5d91-48b2-a8af-26dca8caab77:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:ef96e7fc-5d91-48b2-a8af-26dca8caab77",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/ef96e7fc-5d91-48b2-a8af-26dca8caab77"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:f7ec7811-a573-42fa-8ade-01e2d07681ef:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:f7ec7811-a573-42fa-8ade-01e2d07681ef",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/f7ec7811-a573-42fa-8ade-01e2d07681ef"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:cursor:fb97e304-9d99-4b07-9474-1290121a87d5:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "cursor:fb97e304-9d99-4b07-9474-1290121a87d5",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": "location",
+    "before": "San Francisco",
+    "after": "San Francisco, CA",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/fb97e304-9d99-4b07-9474-1290121a87d5"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:notion:4f678608-f9f7-455d-b81c-9433ec974d0e:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:4f678608-f9f7-455d-b81c-9433ec974d0e",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Recruiting Coordinator - AMER",
+    "after": "Recruiting Coordinator,  AMER",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/4f678608-f9f7-455d-b81c-9433ec974d0e"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:notion:4f678608-f9f7-455d-b81c-9433ec974d0e:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:4f678608-f9f7-455d-b81c-9433ec974d0e",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "a29c6c5b373038b5778d2b395fad506ace7fd11bf4777e9163b0220549fca019",
+    "after": "8100c49f9e646f768b93580b0f5b8bef8a78be4e99d06f03b80a52b9232136be",
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/4f678608-f9f7-455d-b81c-9433ec974d0e"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:ramp:4745807e-82f4-4b1a-857c-dc8dadc73076:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:4745807e-82f4-4b1a-857c-dc8dadc73076",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/4745807e-82f4-4b1a-857c-dc8dadc73076"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:ramp:ad8bb2ef-9c8a-4379-829a-47143257a23b:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "ramp:ad8bb2ef-9c8a-4379-829a-47143257a23b",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/ad8bb2ef-9c8a-4379-829a-47143257a23b"
+    }
+  },
+  {
+    "id": "2026-11-04T19:52:35.849Z:ramp:b0433f82-e0c0-4dd8-9d41-c6bf2371c2ea:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:b0433f82-e0c0-4dd8-9d41-c6bf2371c2ea",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-04T19:52:35.849Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b0433f82-e0c0-4dd8-9d41-c6bf2371c2ea"
+    }
   }
 ]
