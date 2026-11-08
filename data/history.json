@@ -107770,5 +107770,33 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/f9d015d7-d5cb-450b-9936-afd8d1c4f4cc"
     }
+  },
+  {
+    "id": "2026-11-08T06:17:03.238Z:ramp:4bc09b14-0389-40cd-9d5b-f5557f451d50:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:4bc09b14-0389-40cd-9d5b-f5557f451d50",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-08T06:17:03.238Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/4bc09b14-0389-40cd-9d5b-f5557f451d50"
+    }
+  },
+  {
+    "id": "2026-11-08T06:17:03.238Z:ramp:6075e1dc-c833-4e27-a789-61d3a596c66c:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:6075e1dc-c833-4e27-a789-61d3a596c66c",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-08T06:17:03.238Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/6075e1dc-c833-4e27-a789-61d3a596c66c"
+    }
   }
 ]
