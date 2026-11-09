@@ -107812,5 +107812,4835 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/notion/369fd192-61d8-48d2-9430-49905d733349"
     }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:7525971:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:7525971",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7525971?gh_jid=7525971"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:8083701:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8083701",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-30T22:16:11.000Z",
+    "after": "2026-11-09T19:51:12.000Z",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8083701?gh_jid=8083701"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:8083701:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8083701",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "e8d2aac8fb7259dbf54a11d00ce3d28d3eba18fbcd77e0f3204b17cc46a5b0be",
+    "after": "982039204f592124eba3458c7756c7e5dc66d7cc0ef7bf8bd5565752989e40d5",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8083701?gh_jid=8083701"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:8098922:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8098922",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8098922?gh_jid=8098922"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:8153015:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8153015",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-30T22:16:11.000Z",
+    "after": "2026-11-09T19:07:05.000Z",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8153015?gh_jid=8153015"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:8153015:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8153015",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "298c16e9c7751259846ad6456e275acfee59feb5d3d6676ed3cec31b6fc2c712",
+    "after": "c152e1ef271740445008c938b1406638f6b4c21b40e160d679afbdf73dbad577",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8153015?gh_jid=8153015"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:8155495:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8155495",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-06T17:59:07.000Z",
+    "after": "2026-11-09T19:51:28.000Z",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8155495?gh_jid=8155495"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:8155495:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8155495",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "a7f07403eaaa02c25a20feb2639144520ddd4de8d5d4e925ff0821b5337344e0",
+    "after": "e19fceac696791b88b74e53fb212888846cdcaaf4db6a342be88cca4893ea1cf",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8155495?gh_jid=8155495"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:8202094:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8202094",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-30T22:16:11.000Z",
+    "after": "2026-11-09T15:08:48.000Z",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8202094?gh_jid=8202094"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:8245211:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8245211",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Software Engineer Intern (2027)",
+    "after": "Software Engineer Intern (2027) - London, UK",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:8245211:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8245211",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-10-30T22:16:11.000Z",
+    "after": "2026-11-09T14:25:38.000Z",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:8311366:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8311366",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8311366?gh_jid=8311366"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:8317920:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8317920",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8317920?gh_jid=8317920"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:8317970:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8317970",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8317970?gh_jid=8317970"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:8336559:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8336559",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8336559?gh_jid=8336559"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:8354692:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8354692",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "HR Operations Specialist",
+    "after": "People Operations Specialist",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8354692?gh_jid=8354692"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cloudflare:8354692:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8354692",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-06T10:37:17.000Z",
+    "after": "2026-11-09T06:49:55.000Z",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8354692?gh_jid=8354692"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:006079b2-d763-4f08-9beb-1533171f66c2:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:006079b2-d763-4f08-9beb-1533171f66c2",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/006079b2-d763-4f08-9beb-1533171f66c2"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:0130118d-1cce-4eea-8325-2fc95ab6c584:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:0130118d-1cce-4eea-8325-2fc95ab6c584",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/0130118d-1cce-4eea-8325-2fc95ab6c584"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:01396f08-3acd-4e0c-9782-a6944fd2a957:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:01396f08-3acd-4e0c-9782-a6944fd2a957",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/01396f08-3acd-4e0c-9782-a6944fd2a957"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:014605a9-3a17-4f7d-9037-6c8bb3278e08:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:014605a9-3a17-4f7d-9037-6c8bb3278e08",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/014605a9-3a17-4f7d-9037-6c8bb3278e08"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:02139aed-c356-47e6-88f6-6ff1a1bb266f:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:02139aed-c356-47e6-88f6-6ff1a1bb266f",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/02139aed-c356-47e6-88f6-6ff1a1bb266f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:03b454f2-c586-48cb-a19c-5fc57be55f43:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:03b454f2-c586-48cb-a19c-5fc57be55f43",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/03b454f2-c586-48cb-a19c-5fc57be55f43"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:040ac0f8-dba7-4d13-8171-b902e925f334:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:040ac0f8-dba7-4d13-8171-b902e925f334",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/040ac0f8-dba7-4d13-8171-b902e925f334"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:0473120a-7dd7-4604-b5f6-0b834cc6e782:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:0473120a-7dd7-4604-b5f6-0b834cc6e782",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/0473120a-7dd7-4604-b5f6-0b834cc6e782"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:053a8b5a-32bc-4a08-8dad-b4fc20f2883c:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:053a8b5a-32bc-4a08-8dad-b4fc20f2883c",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/053a8b5a-32bc-4a08-8dad-b4fc20f2883c"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:066afe7d-e580-4f13-88d9-828a50bea894:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:066afe7d-e580-4f13-88d9-828a50bea894",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/066afe7d-e580-4f13-88d9-828a50bea894"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:0a82f564-de1b-4c72-9ba4-10cf2b63c483:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:0a82f564-de1b-4c72-9ba4-10cf2b63c483",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/0a82f564-de1b-4c72-9ba4-10cf2b63c483"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:0ecf8ce6-a31a-410a-a49c-d73e76a94c49:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:0ecf8ce6-a31a-410a-a49c-d73e76a94c49",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/0ecf8ce6-a31a-410a-a49c-d73e76a94c49"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:1001d08e-741f-489f-9a87-702bd05bb5ce:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:1001d08e-741f-489f-9a87-702bd05bb5ce",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1001d08e-741f-489f-9a87-702bd05bb5ce"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:1229c0a1-f3f8-4739-88f3-b576248e8c08:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:1229c0a1-f3f8-4739-88f3-b576248e8c08",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1229c0a1-f3f8-4739-88f3-b576248e8c08"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:1240b4aa-8074-4afb-ae36-a690869c8233:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:1240b4aa-8074-4afb-ae36-a690869c8233",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1240b4aa-8074-4afb-ae36-a690869c8233"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:13517b5d-1c6c-4720-9650-b1d0db72c697:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:13517b5d-1c6c-4720-9650-b1d0db72c697",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/13517b5d-1c6c-4720-9650-b1d0db72c697"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:166c3951-1d2a-4e61-b79b-bedefe96073b:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:166c3951-1d2a-4e61-b79b-bedefe96073b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/166c3951-1d2a-4e61-b79b-bedefe96073b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:175cb50f-063c-4d02-8954-568a9c3821bf:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:175cb50f-063c-4d02-8954-568a9c3821bf",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/175cb50f-063c-4d02-8954-568a9c3821bf"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:18d5d868-a393-4a94-b65b-01c89eee26d2:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:18d5d868-a393-4a94-b65b-01c89eee26d2",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/18d5d868-a393-4a94-b65b-01c89eee26d2"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:193c326d-2ffc-4c11-8bba-73d243fd178b:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:193c326d-2ffc-4c11-8bba-73d243fd178b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/193c326d-2ffc-4c11-8bba-73d243fd178b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:1a584899-847d-4e5b-8181-fb889fe4e06e:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:1a584899-847d-4e5b-8181-fb889fe4e06e",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1a584899-847d-4e5b-8181-fb889fe4e06e"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:1b422774-a090-455f-a8f8-64f68d7f86e5:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:1b422774-a090-455f-a8f8-64f68d7f86e5",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1b422774-a090-455f-a8f8-64f68d7f86e5"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:1cfacf1a-4ba7-4e68-9f65-4fb8e3525bde:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:1cfacf1a-4ba7-4e68-9f65-4fb8e3525bde",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1cfacf1a-4ba7-4e68-9f65-4fb8e3525bde"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:1d56ed97-eee3-406d-91e2-7feed88ce6f0:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:1d56ed97-eee3-406d-91e2-7feed88ce6f0",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1d56ed97-eee3-406d-91e2-7feed88ce6f0"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:1f4f9aea-af74-49dc-9495-203c4c631379:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:1f4f9aea-af74-49dc-9495-203c4c631379",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/1f4f9aea-af74-49dc-9495-203c4c631379"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:204c679c-d56a-4496-b868-b0b7399d0174:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:204c679c-d56a-4496-b868-b0b7399d0174",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/204c679c-d56a-4496-b868-b0b7399d0174"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:218f9338-306f-48ef-8561-7e462fbb5191:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:218f9338-306f-48ef-8561-7e462fbb5191",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/218f9338-306f-48ef-8561-7e462fbb5191"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:232223c1-913a-4318-982b-1970e2842710:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:232223c1-913a-4318-982b-1970e2842710",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/232223c1-913a-4318-982b-1970e2842710"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:236b6232-a98b-43c0-a0ed-d2b475b8e579:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:236b6232-a98b-43c0-a0ed-d2b475b8e579",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/236b6232-a98b-43c0-a0ed-d2b475b8e579"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:2514161d-be85-41bd-9b16-38d3771616ad:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:2514161d-be85-41bd-9b16-38d3771616ad",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2514161d-be85-41bd-9b16-38d3771616ad"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:2575f103-bf9a-4fc4-91be-23bec1142e88:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:2575f103-bf9a-4fc4-91be-23bec1142e88",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2575f103-bf9a-4fc4-91be-23bec1142e88"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:27a7ac90-fe2a-4352-ad56-3548a64c9b64:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:27a7ac90-fe2a-4352-ad56-3548a64c9b64",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/27a7ac90-fe2a-4352-ad56-3548a64c9b64"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:29c33f1b-d597-48a9-b8ad-77659c19bb3c:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:29c33f1b-d597-48a9-b8ad-77659c19bb3c",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/29c33f1b-d597-48a9-b8ad-77659c19bb3c"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:2ba388d9-8cb1-4738-a9a2-37d97fc17216:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:2ba388d9-8cb1-4738-a9a2-37d97fc17216",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2ba388d9-8cb1-4738-a9a2-37d97fc17216"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:2bd4336d-ca2a-40c6-befc-6dc070a3109c:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:2bd4336d-ca2a-40c6-befc-6dc070a3109c",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2bd4336d-ca2a-40c6-befc-6dc070a3109c"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:2c7fafcd-0e0a-489a-a54f-20f84f8e55a4:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:2c7fafcd-0e0a-489a-a54f-20f84f8e55a4",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2c7fafcd-0e0a-489a-a54f-20f84f8e55a4"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:2ca532ac-da2a-4f45-ba60-fe4de80ca821:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:2ca532ac-da2a-4f45-ba60-fe4de80ca821",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2ca532ac-da2a-4f45-ba60-fe4de80ca821"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:2e98f028-1b77-4537-aeee-e2962668c970:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:2e98f028-1b77-4537-aeee-e2962668c970",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/2e98f028-1b77-4537-aeee-e2962668c970"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:32350e7d-b6c8-4556-b8ba-3e58490f7cb7:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:32350e7d-b6c8-4556-b8ba-3e58490f7cb7",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/32350e7d-b6c8-4556-b8ba-3e58490f7cb7"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:3550b122-d151-40d4-b726-6dd187be648d:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:3550b122-d151-40d4-b726-6dd187be648d",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/3550b122-d151-40d4-b726-6dd187be648d"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:38bd03a3-3d65-4868-87df-cb248d0a45e3:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:38bd03a3-3d65-4868-87df-cb248d0a45e3",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/38bd03a3-3d65-4868-87df-cb248d0a45e3"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:38f2d7b3-f431-464d-abdb-b10f71df9a72:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:38f2d7b3-f431-464d-abdb-b10f71df9a72",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/38f2d7b3-f431-464d-abdb-b10f71df9a72"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:3b1ec65c-0d2b-43e1-81db-4d33a9a2faa4:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:3b1ec65c-0d2b-43e1-81db-4d33a9a2faa4",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/3b1ec65c-0d2b-43e1-81db-4d33a9a2faa4"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:3d35fde4-b950-40ae-8ed8-aaac9f371693:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:3d35fde4-b950-40ae-8ed8-aaac9f371693",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/3d35fde4-b950-40ae-8ed8-aaac9f371693"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:41f0d1a2-9449-4980-8592-f23290a9b65e:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:41f0d1a2-9449-4980-8592-f23290a9b65e",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/41f0d1a2-9449-4980-8592-f23290a9b65e"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:42c030dd-7b5a-4ea1-8627-2052dd89b1d6:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:42c030dd-7b5a-4ea1-8627-2052dd89b1d6",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/42c030dd-7b5a-4ea1-8627-2052dd89b1d6"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:45abdab8-6d12-4e46-8108-e23aba34cec1:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:45abdab8-6d12-4e46-8108-e23aba34cec1",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/45abdab8-6d12-4e46-8108-e23aba34cec1"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:47496e80-79d6-49ce-adfb-19b7d1d4248f:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:47496e80-79d6-49ce-adfb-19b7d1d4248f",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/47496e80-79d6-49ce-adfb-19b7d1d4248f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:49476056-d5da-44d1-8c26-3640ac386441:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:49476056-d5da-44d1-8c26-3640ac386441",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/49476056-d5da-44d1-8c26-3640ac386441"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:4a1f9223-627b-4582-a038-0d7005d7a31d:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:4a1f9223-627b-4582-a038-0d7005d7a31d",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/4a1f9223-627b-4582-a038-0d7005d7a31d"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:4d08173a-687b-4d5f-ac03-759cce3696f1:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:4d08173a-687b-4d5f-ac03-759cce3696f1",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/4d08173a-687b-4d5f-ac03-759cce3696f1"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:52d3d043-ee24-4663-9673-0ac4c0493eba:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:52d3d043-ee24-4663-9673-0ac4c0493eba",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/52d3d043-ee24-4663-9673-0ac4c0493eba"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:539edb8a-b82a-48f8-ae7a-5c94fffbfa0a:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:539edb8a-b82a-48f8-ae7a-5c94fffbfa0a",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/539edb8a-b82a-48f8-ae7a-5c94fffbfa0a"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:53dcb040-7a27-4164-b380-9bb0a0a8c5f1:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:53dcb040-7a27-4164-b380-9bb0a0a8c5f1",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/53dcb040-7a27-4164-b380-9bb0a0a8c5f1"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:58b0081f-8b3f-4cac-a620-140063798adf:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:58b0081f-8b3f-4cac-a620-140063798adf",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/58b0081f-8b3f-4cac-a620-140063798adf"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:59d55195-2a9e-4b07-a9fc-b721008bc378:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:59d55195-2a9e-4b07-a9fc-b721008bc378",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/59d55195-2a9e-4b07-a9fc-b721008bc378"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:5ac08fc5-e486-498b-a5b5-991ddb490059:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:5ac08fc5-e486-498b-a5b5-991ddb490059",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/5ac08fc5-e486-498b-a5b5-991ddb490059"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:5aff7957-9655-4cc1-98d8-813e33aeb380:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:5aff7957-9655-4cc1-98d8-813e33aeb380",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/5aff7957-9655-4cc1-98d8-813e33aeb380"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:5df283dc-d53e-4769-9b30-1190a06a9adc:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:5df283dc-d53e-4769-9b30-1190a06a9adc",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/5df283dc-d53e-4769-9b30-1190a06a9adc"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:5f17ee48-29e8-4f48-bbc4-dc250731250b:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:5f17ee48-29e8-4f48-bbc4-dc250731250b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/5f17ee48-29e8-4f48-bbc4-dc250731250b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:60a3541f-f6b6-4da2-a168-40e867a51740:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:60a3541f-f6b6-4da2-a168-40e867a51740",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/60a3541f-f6b6-4da2-a168-40e867a51740"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:61e4677d-cf3d-458a-bf6c-02287d5d2c39:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:61e4677d-cf3d-458a-bf6c-02287d5d2c39",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:64606b00-0273-4f74-966b-19f3ea01c469:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:64606b00-0273-4f74-966b-19f3ea01c469",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/64606b00-0273-4f74-966b-19f3ea01c469"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:646f20fa-9cea-4a23-a245-4339619a5497:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:646f20fa-9cea-4a23-a245-4339619a5497",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/646f20fa-9cea-4a23-a245-4339619a5497"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:64a6cb18-493b-4d18-9f22-c661ae533bfa:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:64a6cb18-493b-4d18-9f22-c661ae533bfa",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/64a6cb18-493b-4d18-9f22-c661ae533bfa"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:65be8830-8f83-4420-baf3-5070fe19097d:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:65be8830-8f83-4420-baf3-5070fe19097d",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/65be8830-8f83-4420-baf3-5070fe19097d"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:6f6ca11a-6fba-4c16-8633-a8b15cb81d1d:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:6f6ca11a-6fba-4c16-8633-a8b15cb81d1d",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/6f6ca11a-6fba-4c16-8633-a8b15cb81d1d"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:7178c350-7570-4b61-9a74-b190ab4d4a9a:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:7178c350-7570-4b61-9a74-b190ab4d4a9a",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/7178c350-7570-4b61-9a74-b190ab4d4a9a"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:723239cc-f90f-409d-86ec-3b02df603239:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:723239cc-f90f-409d-86ec-3b02df603239",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/723239cc-f90f-409d-86ec-3b02df603239"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:72cbb522-a52b-4c38-ad5c-fdab256aa8ad:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:72cbb522-a52b-4c38-ad5c-fdab256aa8ad",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/72cbb522-a52b-4c38-ad5c-fdab256aa8ad"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:73276c7b-2e2a-4891-9d33-3739c9053baf:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:73276c7b-2e2a-4891-9d33-3739c9053baf",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/73276c7b-2e2a-4891-9d33-3739c9053baf"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:7469c39d-0dd4-47e3-9437-5f14b4fc8509:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:7469c39d-0dd4-47e3-9437-5f14b4fc8509",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/7469c39d-0dd4-47e3-9437-5f14b4fc8509"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:7678325b-cd6c-4cf6-97af-26ba37e615ab:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:7678325b-cd6c-4cf6-97af-26ba37e615ab",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/7678325b-cd6c-4cf6-97af-26ba37e615ab"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:79b07509-13dc-49d3-b133-2bc10d161f6f:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:79b07509-13dc-49d3-b133-2bc10d161f6f",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/79b07509-13dc-49d3-b133-2bc10d161f6f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:7a3714ab-8566-44c7-90e5-46a5c9f20e5f:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:7a3714ab-8566-44c7-90e5-46a5c9f20e5f",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/7a3714ab-8566-44c7-90e5-46a5c9f20e5f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:7b7362e4-d422-4c82-b536-6c0b40da177c:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:7b7362e4-d422-4c82-b536-6c0b40da177c",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/7b7362e4-d422-4c82-b536-6c0b40da177c"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:7bd4ecc4-e5b6-4a95-870a-2ae41a9b40cf:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:7bd4ecc4-e5b6-4a95-870a-2ae41a9b40cf",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/7bd4ecc4-e5b6-4a95-870a-2ae41a9b40cf"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:7d6611cb-28bf-4277-8758-178154466934:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:7d6611cb-28bf-4277-8758-178154466934",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/7d6611cb-28bf-4277-8758-178154466934"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:7fc92832-a196-460b-924c-ee1d93b20184:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:7fc92832-a196-460b-924c-ee1d93b20184",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/7fc92832-a196-460b-924c-ee1d93b20184"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:85c98417-583b-412e-b31a-e4052195b703:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:85c98417-583b-412e-b31a-e4052195b703",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/85c98417-583b-412e-b31a-e4052195b703"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:8759ece1-451e-4074-93dd-9d247a648ef7:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:8759ece1-451e-4074-93dd-9d247a648ef7",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/8759ece1-451e-4074-93dd-9d247a648ef7"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:8790d158-7bdc-43c0-bcb1-bbacb6e8f720:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:8790d158-7bdc-43c0-bcb1-bbacb6e8f720",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/8790d158-7bdc-43c0-bcb1-bbacb6e8f720"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:89949cac-643b-4354-8bd3-744f6cde732b:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:89949cac-643b-4354-8bd3-744f6cde732b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/89949cac-643b-4354-8bd3-744f6cde732b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:8d4e9639-3e65-46d1-a1e7-e5facaefcb00:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:8d4e9639-3e65-46d1-a1e7-e5facaefcb00",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/8d4e9639-3e65-46d1-a1e7-e5facaefcb00"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:8eb59c77-0463-46e7-a641-72a6e43d0df8:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:8eb59c77-0463-46e7-a641-72a6e43d0df8",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/8eb59c77-0463-46e7-a641-72a6e43d0df8"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:919704fe-a3b7-4a15-8d2b-5df649b5168c:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:919704fe-a3b7-4a15-8d2b-5df649b5168c",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/919704fe-a3b7-4a15-8d2b-5df649b5168c"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:919b3d00-fef8-4038-8b71-165fae5d54e7:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:919b3d00-fef8-4038-8b71-165fae5d54e7",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/919b3d00-fef8-4038-8b71-165fae5d54e7"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:978087b5-59fa-442f-8b58-97950d7169f7:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:978087b5-59fa-442f-8b58-97950d7169f7",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/978087b5-59fa-442f-8b58-97950d7169f7"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:99641cfd-8523-4f55-8100-958d72b5924b:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:99641cfd-8523-4f55-8100-958d72b5924b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/99641cfd-8523-4f55-8100-958d72b5924b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:9d7c8f36-eeb7-4e9f-acbe-d959f6280e46:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:9d7c8f36-eeb7-4e9f-acbe-d959f6280e46",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/9d7c8f36-eeb7-4e9f-acbe-d959f6280e46"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:9e81fd85-59cd-4138-8386-6ad768ed6dc1:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:9e81fd85-59cd-4138-8386-6ad768ed6dc1",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/9e81fd85-59cd-4138-8386-6ad768ed6dc1"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:a4e8f126-9761-4a01-ab21-84e20c8b5de9:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:a4e8f126-9761-4a01-ab21-84e20c8b5de9",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/a4e8f126-9761-4a01-ab21-84e20c8b5de9"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:a4fcfac1-8bf1-4804-a0fb-0ea97037772e:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:a4fcfac1-8bf1-4804-a0fb-0ea97037772e",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/a4fcfac1-8bf1-4804-a0fb-0ea97037772e"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:a6c00f7f-2288-4461-a64d-0f1cd9878909:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:a6c00f7f-2288-4461-a64d-0f1cd9878909",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/a6c00f7f-2288-4461-a64d-0f1cd9878909"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:a750c967-7c4d-4704-a528-dcb63afc5f64:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:a750c967-7c4d-4704-a528-dcb63afc5f64",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/a750c967-7c4d-4704-a528-dcb63afc5f64"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:a933d04d-9a88-4eef-8a76-06ff0b41dabf:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:a933d04d-9a88-4eef-8a76-06ff0b41dabf",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/a933d04d-9a88-4eef-8a76-06ff0b41dabf"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:ad8b3f43-6c66-4918-8eef-cef5753429bf:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:ad8b3f43-6c66-4918-8eef-cef5753429bf",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/ad8b3f43-6c66-4918-8eef-cef5753429bf"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:b0ef8a4d-64b5-4dc8-aeba-aa9ac0f430fc:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:b0ef8a4d-64b5-4dc8-aeba-aa9ac0f430fc",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/b0ef8a4d-64b5-4dc8-aeba-aa9ac0f430fc"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:b32330b1-deb0-49fb-bcce-9fc339c34fd0:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:b32330b1-deb0-49fb-bcce-9fc339c34fd0",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/b32330b1-deb0-49fb-bcce-9fc339c34fd0"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:b33a1206-6cfa-4b89-8808-51eaa3933212:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:b33a1206-6cfa-4b89-8808-51eaa3933212",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/b33a1206-6cfa-4b89-8808-51eaa3933212"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:b33f0126-7c07-478c-8c81-1f3798634535:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:b33f0126-7c07-478c-8c81-1f3798634535",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/b33f0126-7c07-478c-8c81-1f3798634535"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:b958e1bd-9e49-48cd-a7f5-b42c63f527fa:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:b958e1bd-9e49-48cd-a7f5-b42c63f527fa",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/b958e1bd-9e49-48cd-a7f5-b42c63f527fa"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:bdae07e2-54ad-4e66-a56e-e6442483f15b:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:bdae07e2-54ad-4e66-a56e-e6442483f15b",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/bdae07e2-54ad-4e66-a56e-e6442483f15b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:c2fb18fe-8d3d-4803-b21b-2f7e8b700d9d:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:c2fb18fe-8d3d-4803-b21b-2f7e8b700d9d",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c2fb18fe-8d3d-4803-b21b-2f7e8b700d9d"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:c4afc6fd-b8c8-413f-9010-0000323304aa:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:c4afc6fd-b8c8-413f-9010-0000323304aa",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c4afc6fd-b8c8-413f-9010-0000323304aa"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:c4f5f5e3-511c-4251-9ca1-ef5933b7e189:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:c4f5f5e3-511c-4251-9ca1-ef5933b7e189",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c4f5f5e3-511c-4251-9ca1-ef5933b7e189"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:c50a7358-cc49-4225-bab0-3475f80ad156:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:c50a7358-cc49-4225-bab0-3475f80ad156",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c50a7358-cc49-4225-bab0-3475f80ad156"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:c5761f37-429d-4c91-82c2-84782f6c6ac8:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:c5761f37-429d-4c91-82c2-84782f6c6ac8",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c5761f37-429d-4c91-82c2-84782f6c6ac8"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:c5bbeeb2-1af0-4bde-9e32-55d46c313767:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:c5bbeeb2-1af0-4bde-9e32-55d46c313767",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c5bbeeb2-1af0-4bde-9e32-55d46c313767"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:c5d4122b-6f85-4376-bb4d-c97dad230a65:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:c5d4122b-6f85-4376-bb4d-c97dad230a65",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/c5d4122b-6f85-4376-bb4d-c97dad230a65"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:cda9256f-e820-4f0a-9e77-e44c61295e1d:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:cda9256f-e820-4f0a-9e77-e44c61295e1d",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/cda9256f-e820-4f0a-9e77-e44c61295e1d"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:cddb7c29-39e2-431d-af11-029edd4207c4:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:cddb7c29-39e2-431d-af11-029edd4207c4",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/cddb7c29-39e2-431d-af11-029edd4207c4"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:cf144fbc-44dd-485b-8dd7-ccb5bdb41adc:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:cf144fbc-44dd-485b-8dd7-ccb5bdb41adc",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/cf144fbc-44dd-485b-8dd7-ccb5bdb41adc"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:d02cb5cc-496f-4998-80a7-87c20312c82c:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:d02cb5cc-496f-4998-80a7-87c20312c82c",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/d02cb5cc-496f-4998-80a7-87c20312c82c"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:d0cf5203-2db2-40b6-b1fe-1656ec288ce3:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:d0cf5203-2db2-40b6-b1fe-1656ec288ce3",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/d0cf5203-2db2-40b6-b1fe-1656ec288ce3"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:d59a1083-dce8-4d51-8a48-aebe31577fc4:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:d59a1083-dce8-4d51-8a48-aebe31577fc4",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/d59a1083-dce8-4d51-8a48-aebe31577fc4"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:dbdccf8f-cc8f-4701-94ea-5d0a33efad80:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:dbdccf8f-cc8f-4701-94ea-5d0a33efad80",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/dbdccf8f-cc8f-4701-94ea-5d0a33efad80"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:de322c3d-337e-4301-a7dc-90ccf331d60f:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:de322c3d-337e-4301-a7dc-90ccf331d60f",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/de322c3d-337e-4301-a7dc-90ccf331d60f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:deee5e50-6634-43f7-aa73-b49703133cab:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:deee5e50-6634-43f7-aa73-b49703133cab",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/deee5e50-6634-43f7-aa73-b49703133cab"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:e3ccb495-a8a3-4ff0-a27b-262188abb9df:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:e3ccb495-a8a3-4ff0-a27b-262188abb9df",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/e3ccb495-a8a3-4ff0-a27b-262188abb9df"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:e57836e8-c864-4817-aaa2-1b1263f0a352:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:e57836e8-c864-4817-aaa2-1b1263f0a352",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/e57836e8-c864-4817-aaa2-1b1263f0a352"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:e5ae8495-1aad-4ac2-ae6f-36c58d936d12:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:e5ae8495-1aad-4ac2-ae6f-36c58d936d12",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/e5ae8495-1aad-4ac2-ae6f-36c58d936d12"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:e7fc78cd-a4b9-468e-b286-e20cf3728d45:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:e7fc78cd-a4b9-468e-b286-e20cf3728d45",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/e7fc78cd-a4b9-468e-b286-e20cf3728d45"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:f277b2d6-c27e-4cb9-9d0b-644e9730f06c:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:f277b2d6-c27e-4cb9-9d0b-644e9730f06c",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/f277b2d6-c27e-4cb9-9d0b-644e9730f06c"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:f602d5d4-7961-479b-894e-7e975e7bfe4e:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cursor:f602d5d4-7961-479b-894e-7e975e7bfe4e",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/f602d5d4-7961-479b-894e-7e975e7bfe4e"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:fa719d62-14b9-44c7-b54f-a4435cc62dec:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:fa719d62-14b9-44c7-b54f-a4435cc62dec",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/fa719d62-14b9-44c7-b54f-a4435cc62dec"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:fb97e304-9d99-4b07-9474-1290121a87d5:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:fb97e304-9d99-4b07-9474-1290121a87d5",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/fb97e304-9d99-4b07-9474-1290121a87d5"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:cursor:fcdf7683-bd29-49a5-9284-f000b04a266a:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cursor:fcdf7683-bd29-49a5-9284-f000b04a266a",
+    "company": "cursor",
+    "companyName": "Cursor",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/cursor/fcdf7683-bd29-49a5-9284-f000b04a266a"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:021f4891-c95f-41de-b8fc-66d285f57851:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:021f4891-c95f-41de-b8fc-66d285f57851",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "4ef28b7a03fb06800596168199e5e218b3e65fb670d4a1062717ab1eb0aff1fb",
+    "after": "fbdeea6627036b7186cffb7dfb1b6751184f6dd292d0ccc1e58e2a6646e769c5",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/021f4891-c95f-41de-b8fc-66d285f57851"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:06c2599d-4dd5-4f97-843f-7194b546f042:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "notion:06c2599d-4dd5-4f97-843f-7194b546f042",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:10760f33-dd07-4343-ad30-3f26db7f8eee:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:10760f33-dd07-4343-ad30-3f26db7f8eee",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Solutions Consultant, Commercial, MEA (Middle East Africa)",
+    "after": "Solutions Consultant, Commercial, MEA",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/10760f33-dd07-4343-ad30-3f26db7f8eee"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:27090d0f-07d3-419b-adaa-837b5e22f947:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:27090d0f-07d3-419b-adaa-837b5e22f947",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "4e8e0ffac05ad028e2420c3aa1e0ee16abc0a288f8de6a84941e520132807ea5",
+    "after": "4aa596fe0aa7bca0e7ecc4a410d745a5a9830d9bf6c3564e7421b0a89be7f4bc",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:3038ee95-ed44-49a5-9808-1382c4e6cfe9:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:3038ee95-ed44-49a5-9808-1382c4e6cfe9",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "b50b446a71bca8dec9aa723694b434e2c978a13ec01d10a7966807d13fe6df10",
+    "after": "fa07b08c7bf1950164f021004d8fe514bff135c8a2ac3be5e9f4c9ed31a5b21e",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/3038ee95-ed44-49a5-9808-1382c4e6cfe9"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:43ffba97-b64a-4c6a-ac13-c803253c9413:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:43ffba97-b64a-4c6a-ac13-c803253c9413",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "95bf223550f921174acb209771b7c6cd4f848e8e88620964b1af99697d0f37eb",
+    "after": "c802c8900df755b2f9ad8fc708839b5881b2cd4f1b66c2f0cebf213519a264c5",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:499cda6b-522b-4596-8a4c-30efbb1e6b2a:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:499cda6b-522b-4596-8a4c-30efbb1e6b2a",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Solutions Consultant, Mid Market, MEA (Middle East Africa)",
+    "after": "Solutions Consultant, Mid Market, MEA",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/499cda6b-522b-4596-8a4c-30efbb1e6b2a"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:5a7fce72-6fbd-4ccd-b559-db5ca2578361:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:5a7fce72-6fbd-4ccd-b559-db5ca2578361",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "803ca312e0e8057006a25d5b2994d0019d11fe304bbb8dfe7107fb9cd4224458",
+    "after": "44f54b1c5cb97c3d8d0c6e69624e221d816c5f4f2e6993dc5efb03935e7e27fb",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/5a7fce72-6fbd-4ccd-b559-db5ca2578361"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:6c53f83d-c1c2-4e62-bb4a-8532838409da:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:6c53f83d-c1c2-4e62-bb4a-8532838409da",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "dc7114cee10056437127cde048b10c8f1e3842a600cdbfc16f75b5aaedb3ee1c",
+    "after": "d597cedd681a6b8bb819f90624ebe327615b6c3bc8e096c7d6b474e65dd1cc10",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/6c53f83d-c1c2-4e62-bb4a-8532838409da"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:7ec83090-7c5b-4691-bf20-e11e892cede1:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "notion:7ec83090-7c5b-4691-bf20-e11e892cede1",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/7ec83090-7c5b-4691-bf20-e11e892cede1"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:8109628c-ff17-4e90-b388-d159dc1c53ca:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:8109628c-ff17-4e90-b388-d159dc1c53ca",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Solutions Consultant, Enterprise, Medit",
+    "after": "Solutions Consultant, Enterprise, MEDIT",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/8109628c-ff17-4e90-b388-d159dc1c53ca"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:8c0bf773-e536-45c9-9a6c-8ee478148cc8:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:8c0bf773-e536-45c9-9a6c-8ee478148cc8",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "dbc3fb25f9c4c4954c351341ef8a74ff7bd8e612b0687db1048e25ecd3efaeda",
+    "after": "121bd3abc107f61188082e049c997d3ad01a5a12d6f7a07ca6eab24cc1984c48",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/8c0bf773-e536-45c9-9a6c-8ee478148cc8"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:9392cc22-547f-4089-8677-54f0d80c77a6:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "notion:9392cc22-547f-4089-8677-54f0d80c77a6",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "descriptionHash",
+    "before": "c98f80c860feeec1ce0a5f70293872392d2a5a105fa40480cec6c24e91422c56",
+    "after": "f4cb39214b960bd499290f04600624092cf7f3547dc69288bcb11a4d0fbb327d",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/9392cc22-547f-4089-8677-54f0d80c77a6"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:d87154d4-d3c5-48cf-8e83-559436f27133:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "notion:d87154d4-d3c5-48cf-8e83-559436f27133",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/d87154d4-d3c5-48cf-8e83-559436f27133"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:f7da3ea4-12ce-4bb3-95c1-e852336d608e:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "notion:f7da3ea4-12ce-4bb3-95c1-e852336d608e",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "title",
+    "before": "Solutions Consultant, Commercial, Medit",
+    "after": "Solutions Consultant, Commercial, MEDIT",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/f7da3ea4-12ce-4bb3-95c1-e852336d608e"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:f7ea6f19-fc0f-482c-b5a8-1271747fea1b:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "notion:f7ea6f19-fc0f-482c-b5a8-1271747fea1b",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "location",
+    "before": "Paris, France",
+    "after": "Dublin, Ireland",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/f7ea6f19-fc0f-482c-b5a8-1271747fea1b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:notion:f7ea6f19-fc0f-482c-b5a8-1271747fea1b:LOCATION_CHANGED:country",
+    "type": "LOCATION_CHANGED",
+    "jobId": "notion:f7ea6f19-fc0f-482c-b5a8-1271747fea1b",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "country",
+    "before": "France",
+    "after": "Ireland",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/f7ea6f19-fc0f-482c-b5a8-1271747fea1b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:0378cc97-de79-42f9-8401-d301c678f4d7:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:0378cc97-de79-42f9-8401-d301c678f4d7",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/0378cc97-de79-42f9-8401-d301c678f4d7"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:03e2d4e1-73ad-4f09-a058-2eb9ce34c2bc:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:03e2d4e1-73ad-4f09-a058-2eb9ce34c2bc",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "Remote (US)",
+    "after": "Remote",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/03e2d4e1-73ad-4f09-a058-2eb9ce34c2bc"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:0775bf66-8524-412b-906b-6e51695d8fdb:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:0775bf66-8524-412b-906b-6e51695d8fdb",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/0775bf66-8524-412b-906b-6e51695d8fdb"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:09360e92-fc95-4ba6-9611-dfefd60b13ce:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:09360e92-fc95-4ba6-9611-dfefd60b13ce",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Software Engineer, Enterprise Product",
+    "after": "Software Engineer, Forward Deployed, Enterprise Product",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:09360e92-fc95-4ba6-9611-dfefd60b13ce:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:09360e92-fc95-4ba6-9611-dfefd60b13ce",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:09a9381c-677b-40a5-9ff1-027bd4302c13:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:09a9381c-677b-40a5-9ff1-027bd4302c13",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/09a9381c-677b-40a5-9ff1-027bd4302c13"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:0d52b853-4088-45dd-8c4b-0702da1bf5ed:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:0d52b853-4088-45dd-8c4b-0702da1bf5ed",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/0d52b853-4088-45dd-8c4b-0702da1bf5ed"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:100c09be-f179-406f-893e-8a212f32c642:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:100c09be-f179-406f-893e-8a212f32c642",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "Remote (US)",
+    "after": "Remote",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/100c09be-f179-406f-893e-8a212f32c642"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:13fe8467-b624-4f30-8aad-af441dfb1797:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:13fe8467-b624-4f30-8aad-af441dfb1797",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "Remote (US)",
+    "after": "Remote",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/13fe8467-b624-4f30-8aad-af441dfb1797"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:1515fe6d-1d8e-475b-a5ee-cefe43e78cb7:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:1515fe6d-1d8e-475b-a5ee-cefe43e78cb7",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London, UK",
+    "after": "London",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/1515fe6d-1d8e-475b-a5ee-cefe43e78cb7"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:157bb000-868b-4a6d-9143-67619871812f:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:157bb000-868b-4a6d-9143-67619871812f",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/157bb000-868b-4a6d-9143-67619871812f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:198150d6-789a-4ef8-999f-93a49656d4f1:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:198150d6-789a-4ef8-999f-93a49656d4f1",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/198150d6-789a-4ef8-999f-93a49656d4f1"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:1c8e2b03-fcb3-4949-9113-07812f138eb6:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:1c8e2b03-fcb3-4949-9113-07812f138eb6",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/1c8e2b03-fcb3-4949-9113-07812f138eb6"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:1e3b5c1e-28aa-4a8b-9af6-785df4aacd5f:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:1e3b5c1e-28aa-4a8b-9af6-785df4aacd5f",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London, UK",
+    "after": "London",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/1e3b5c1e-28aa-4a8b-9af6-785df4aacd5f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:218e3fef-0fa7-4ad4-b401-9ba0c76c0ff0:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:218e3fef-0fa7-4ad4-b401-9ba0c76c0ff0",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "Remote (US)",
+    "after": "Remote",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/218e3fef-0fa7-4ad4-b401-9ba0c76c0ff0"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:220e674a-fc70-439f-bacf-687553ca59c9:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:220e674a-fc70-439f-bacf-687553ca59c9",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "Remote (US)",
+    "after": "Remote",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/220e674a-fc70-439f-bacf-687553ca59c9"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:2888b101-b1da-4e53-a02e-1bb9b1b5a951:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:2888b101-b1da-4e53-a02e-1bb9b1b5a951",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/2888b101-b1da-4e53-a02e-1bb9b1b5a951"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:29a5da77-37f0-402a-92bc-072778e77ed8:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:29a5da77-37f0-402a-92bc-072778e77ed8",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:29b679a8-9990-48c1-b91e-001c566ced27:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:29b679a8-9990-48c1-b91e-001c566ced27",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/29b679a8-9990-48c1-b91e-001c566ced27"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:29d188c7-0529-4bc8-a04a-57902df2a7ae:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:29d188c7-0529-4bc8-a04a-57902df2a7ae",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/29d188c7-0529-4bc8-a04a-57902df2a7ae"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:2a4968ae-220c-471b-b890-a011de570bbb:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:2a4968ae-220c-471b-b890-a011de570bbb",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/2a4968ae-220c-471b-b890-a011de570bbb"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:2c101be9-f4b8-4a63-a634-9798d9a09eaa:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:2c101be9-f4b8-4a63-a634-9798d9a09eaa",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/2c101be9-f4b8-4a63-a634-9798d9a09eaa"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:2e27ba79-c95d-44de-ab75-ea90200ec9c0:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:2e27ba79-c95d-44de-ab75-ea90200ec9c0",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/2e27ba79-c95d-44de-ab75-ea90200ec9c0"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:30323399-3039-499d-a0b6-a891ced89e1e:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:30323399-3039-499d-a0b6-a891ced89e1e",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/30323399-3039-499d-a0b6-a891ced89e1e"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:314d4881-e8f2-4e61-a102-3469f9566759:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:314d4881-e8f2-4e61-a102-3469f9566759",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/314d4881-e8f2-4e61-a102-3469f9566759"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:318e7138-151e-4ed2-8b85-a017d234ef12:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:318e7138-151e-4ed2-8b85-a017d234ef12",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/318e7138-151e-4ed2-8b85-a017d234ef12"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:31bd9e9e-102f-4051-abc1-22cdd7d9617a:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "ramp:31bd9e9e-102f-4051-abc1-22cdd7d9617a",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/31bd9e9e-102f-4051-abc1-22cdd7d9617a"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:32fb4396-1976-45de-8137-79e6eecf40b3:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:32fb4396-1976-45de-8137-79e6eecf40b3",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "Remote (US)",
+    "after": "Remote",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/32fb4396-1976-45de-8137-79e6eecf40b3"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:34413f8d-26bf-4bbc-8ade-eb309a0e2245:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:34413f8d-26bf-4bbc-8ade-eb309a0e2245",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:390f4cd0-e0e4-451c-ae28-e6b19861dda9:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:390f4cd0-e0e4-451c-ae28-e6b19861dda9",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/390f4cd0-e0e4-451c-ae28-e6b19861dda9"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:397d2098-59c4-4987-9ca9-ec019c37000e:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:397d2098-59c4-4987-9ca9-ec019c37000e",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London, UK",
+    "after": "London",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/397d2098-59c4-4987-9ca9-ec019c37000e"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:398a73d4-e10f-491f-884e-4ab0b5560bc6:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:398a73d4-e10f-491f-884e-4ab0b5560bc6",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/398a73d4-e10f-491f-884e-4ab0b5560bc6"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:3c43dea1-3cd7-45ab-96f1-4054cfa875ff:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:3c43dea1-3cd7-45ab-96f1-4054cfa875ff",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Tech Lead, Ramp Travel",
+    "after": "Software Engineer, Tech Lead, Travel",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/3c43dea1-3cd7-45ab-96f1-4054cfa875ff"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:3c43dea1-3cd7-45ab-96f1-4054cfa875ff:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:3c43dea1-3cd7-45ab-96f1-4054cfa875ff",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/3c43dea1-3cd7-45ab-96f1-4054cfa875ff"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:3f4509ad-1858-478b-a7fb-bcd792d9575a:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:3f4509ad-1858-478b-a7fb-bcd792d9575a",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/3f4509ad-1858-478b-a7fb-bcd792d9575a"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:3f94674f-6af8-4e10-9631-77b1b0a410bf:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:3f94674f-6af8-4e10-9631-77b1b0a410bf",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "Toronto, ON",
+    "after": "Toronto",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/3f94674f-6af8-4e10-9631-77b1b0a410bf"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:40295bb5-3b56-4544-b7fb-5c1b20383525:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:40295bb5-3b56-4544-b7fb-5c1b20383525",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/40295bb5-3b56-4544-b7fb-5c1b20383525"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:40f43993-21e8-4db1-a9f4-7a3e6098a9ba:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:40f43993-21e8-4db1-a9f4-7a3e6098a9ba",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/40f43993-21e8-4db1-a9f4-7a3e6098a9ba"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:42527ca9-03b9-499e-a5c4-18e4245af138:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:42527ca9-03b9-499e-a5c4-18e4245af138",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Software Engineer, Developer API",
+    "after": "Software Engineer, Backend, Developer API",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/42527ca9-03b9-499e-a5c4-18e4245af138"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:42527ca9-03b9-499e-a5c4-18e4245af138:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:42527ca9-03b9-499e-a5c4-18e4245af138",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/42527ca9-03b9-499e-a5c4-18e4245af138"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:428f41e2-48e8-409d-b5e3-8053f7fc7a27:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:428f41e2-48e8-409d-b5e3-8053f7fc7a27",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/428f41e2-48e8-409d-b5e3-8053f7fc7a27"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:440606b5-1923-4f9d-a0ed-c126445b9477:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:440606b5-1923-4f9d-a0ed-c126445b9477",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/440606b5-1923-4f9d-a0ed-c126445b9477"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:465799ed-c58b-4c6a-a290-2e95b52ef0bb:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:465799ed-c58b-4c6a-a290-2e95b52ef0bb",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/465799ed-c58b-4c6a-a290-2e95b52ef0bb"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:47a75895-24af-49b7-9858-1be0ec0e7c71:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:47a75895-24af-49b7-9858-1be0ec0e7c71",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Backend Engineer | Accounts Receivable",
+    "after": "Software Engineer, Backend, Accounts Receivable",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/47a75895-24af-49b7-9858-1be0ec0e7c71"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:47a75895-24af-49b7-9858-1be0ec0e7c71:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:47a75895-24af-49b7-9858-1be0ec0e7c71",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/47a75895-24af-49b7-9858-1be0ec0e7c71"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:4859cd5e-f2a9-44d7-81f7-8bfc0e62369f:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:4859cd5e-f2a9-44d7-81f7-8bfc0e62369f",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Mobile Engineer, iOS",
+    "after": "Software Engineer, iOS",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:4859cd5e-f2a9-44d7-81f7-8bfc0e62369f:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:4859cd5e-f2a9-44d7-81f7-8bfc0e62369f",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:4c24a55a-ea3b-4cea-a5b5-7862938616bf:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:4c24a55a-ea3b-4cea-a5b5-7862938616bf",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "Remote (US)",
+    "after": "Remote",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/4c24a55a-ea3b-4cea-a5b5-7862938616bf"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:4e6fffef-bb23-4623-ad86-95b840dd51be:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:4e6fffef-bb23-4623-ad86-95b840dd51be",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London, UK",
+    "after": "London",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/4e6fffef-bb23-4623-ad86-95b840dd51be"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:530d1596-c1bf-41aa-9915-548a692ed66e:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:530d1596-c1bf-41aa-9915-548a692ed66e",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/530d1596-c1bf-41aa-9915-548a692ed66e"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:539c56a8-0664-4149-b5ce-9b90d5cf01ac:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:539c56a8-0664-4149-b5ce-9b90d5cf01ac",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London, UK",
+    "after": "London",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/539c56a8-0664-4149-b5ce-9b90d5cf01ac"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:5598f7b8-4ae2-4105-a2b4-2d0f55c54c40:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:5598f7b8-4ae2-4105-a2b4-2d0f55c54c40",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Software Engineer, Credit",
+    "after": "Software Engineer, Backend, Credit",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/5598f7b8-4ae2-4105-a2b4-2d0f55c54c40"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:5598f7b8-4ae2-4105-a2b4-2d0f55c54c40:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:5598f7b8-4ae2-4105-a2b4-2d0f55c54c40",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/5598f7b8-4ae2-4105-a2b4-2d0f55c54c40"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:566c4ad0-03ea-4022-8f11-04f0d8969f97:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:566c4ad0-03ea-4022-8f11-04f0d8969f97",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London, UK",
+    "after": "London",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/566c4ad0-03ea-4022-8f11-04f0d8969f97"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:5cc4e600-1b28-4083-8a70-90f790112f89:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:5cc4e600-1b28-4083-8a70-90f790112f89",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/5cc4e600-1b28-4083-8a70-90f790112f89"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:606475af-b74f-42c4-978a-dde138a86ac7:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:606475af-b74f-42c4-978a-dde138a86ac7",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/606475af-b74f-42c4-978a-dde138a86ac7"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:6075e1dc-c833-4e27-a789-61d3a596c66c:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "ramp:6075e1dc-c833-4e27-a789-61d3a596c66c",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/6075e1dc-c833-4e27-a789-61d3a596c66c"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:6081b22a-5016-4fd4-9e43-bc6413c47792:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "ramp:6081b22a-5016-4fd4-9e43-bc6413c47792",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/6081b22a-5016-4fd4-9e43-bc6413c47792"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:60d6aef5-b60d-4163-82b7-00bad89c6d3f:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:60d6aef5-b60d-4163-82b7-00bad89c6d3f",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/60d6aef5-b60d-4163-82b7-00bad89c6d3f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:60ed4fac-3833-4495-9b0f-75e6dfe4b36c:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:60ed4fac-3833-4495-9b0f-75e6dfe4b36c",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/60ed4fac-3833-4495-9b0f-75e6dfe4b36c"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:623abf6f-84c6-49d2-8276-385c1ffec097:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:623abf6f-84c6-49d2-8276-385c1ffec097",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/623abf6f-84c6-49d2-8276-385c1ffec097"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:624cd0cc-7471-4c9a-99be-56b90809d2ce:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:624cd0cc-7471-4c9a-99be-56b90809d2ce",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/624cd0cc-7471-4c9a-99be-56b90809d2ce"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:6310f1b3-1ae2-476c-b4ce-affe530ede26:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:6310f1b3-1ae2-476c-b4ce-affe530ede26",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/6310f1b3-1ae2-476c-b4ce-affe530ede26"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:6511d68f-b65d-4499-962f-7e2f75eabe3f:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:6511d68f-b65d-4499-962f-7e2f75eabe3f",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/6511d68f-b65d-4499-962f-7e2f75eabe3f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:6a3f42e6-00d6-4e9d-9caa-9663ffac6d53:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:6a3f42e6-00d6-4e9d-9caa-9663ffac6d53",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "Remote (US)",
+    "after": "Remote",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/6a3f42e6-00d6-4e9d-9caa-9663ffac6d53"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:6a508863-352b-4f39-b299-5a3b6693605a:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:6a508863-352b-4f39-b299-5a3b6693605a",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/6a508863-352b-4f39-b299-5a3b6693605a"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:6a7e382f-240a-4952-b9e5-7fe2b3856bc9:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:6a7e382f-240a-4952-b9e5-7fe2b3856bc9",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/6a7e382f-240a-4952-b9e5-7fe2b3856bc9"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:6ac50530-ce1c-4375-9cc1-c56f8b5925fd:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:6ac50530-ce1c-4375-9cc1-c56f8b5925fd",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/6ac50530-ce1c-4375-9cc1-c56f8b5925fd"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:6c1c3192-2508-4805-9dbb-08a4f581b44d:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:6c1c3192-2508-4805-9dbb-08a4f581b44d",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:707d5f91-bcf7-42b2-a0e6-8130bf13e56b:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:707d5f91-bcf7-42b2-a0e6-8130bf13e56b",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "San Francisco, CA",
+    "after": "SF",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/707d5f91-bcf7-42b2-a0e6-8130bf13e56b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:70958953-f10f-4dba-a606-80a10f80a8f6:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:70958953-f10f-4dba-a606-80a10f80a8f6",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "Toronto, ON",
+    "after": "Toronto",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/70958953-f10f-4dba-a606-80a10f80a8f6"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:70c26b31-1afb-4fab-b3d3-019261d428c2:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:70c26b31-1afb-4fab-b3d3-019261d428c2",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/70c26b31-1afb-4fab-b3d3-019261d428c2"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:72ba7873-254f-45dc-9e7b-595c9d1f8acf:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:72ba7873-254f-45dc-9e7b-595c9d1f8acf",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/72ba7873-254f-45dc-9e7b-595c9d1f8acf"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:72c3ef8f-e390-4ee1-9c0d-83b7b616ee17:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:72c3ef8f-e390-4ee1-9c0d-83b7b616ee17",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/72c3ef8f-e390-4ee1-9c0d-83b7b616ee17"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:78b98c66-af59-4fa8-a5ae-d8af8d737976:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:78b98c66-af59-4fa8-a5ae-d8af8d737976",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/78b98c66-af59-4fa8-a5ae-d8af8d737976"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:7a6ad0e2-8249-476e-a173-2b1a6bd7766b:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:7a6ad0e2-8249-476e-a173-2b1a6bd7766b",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London, UK",
+    "after": "London",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/7a6ad0e2-8249-476e-a173-2b1a6bd7766b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:7bfa613e-151c-469b-9973-c89ee3d14838:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:7bfa613e-151c-469b-9973-c89ee3d14838",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/7bfa613e-151c-469b-9973-c89ee3d14838"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:7c027757-24d8-49f4-90c1-ca3696d244a5:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:7c027757-24d8-49f4-90c1-ca3696d244a5",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/7c027757-24d8-49f4-90c1-ca3696d244a5"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:7c26780b-7923-42d5-8111-9825ff996966:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:7c26780b-7923-42d5-8111-9825ff996966",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/7c26780b-7923-42d5-8111-9825ff996966"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:7c55aa7c-90a5-46af-9ce7-134fbf370284:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:7c55aa7c-90a5-46af-9ce7-134fbf370284",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/7c55aa7c-90a5-46af-9ce7-134fbf370284"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:7cd46077-05fe-4cd7-816f-5528638342f1:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:7cd46077-05fe-4cd7-816f-5528638342f1",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/7cd46077-05fe-4cd7-816f-5528638342f1"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:7e531974-caac-46a2-804e-c6c3140bfda4:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:7e531974-caac-46a2-804e-c6c3140bfda4",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "San Francisco, CA",
+    "after": "SF",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/7e531974-caac-46a2-804e-c6c3140bfda4"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:7fd0e6c9-202b-44ad-9742-4284b69b88a1:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:7fd0e6c9-202b-44ad-9742-4284b69b88a1",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/7fd0e6c9-202b-44ad-9742-4284b69b88a1"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:8086c65e-b4cc-4bdd-8f1f-5bdf03130ff4:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:8086c65e-b4cc-4bdd-8f1f-5bdf03130ff4",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/8086c65e-b4cc-4bdd-8f1f-5bdf03130ff4"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:814edb3c-fa7a-452f-bde6-91daa9ffdd86:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:814edb3c-fa7a-452f-bde6-91daa9ffdd86",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/814edb3c-fa7a-452f-bde6-91daa9ffdd86"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:83e5a0bb-c7c4-4118-9526-0215f260bfc2:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:83e5a0bb-c7c4-4118-9526-0215f260bfc2",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/83e5a0bb-c7c4-4118-9526-0215f260bfc2"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:83eec8f4-c37d-43c9-860b-27223eee3643:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:83eec8f4-c37d-43c9-860b-27223eee3643",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/83eec8f4-c37d-43c9-860b-27223eee3643"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:85063603-e470-497d-b1e8-c05b664353e9:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:85063603-e470-497d-b1e8-c05b664353e9",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London, UK",
+    "after": "London",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/85063603-e470-497d-b1e8-c05b664353e9"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:85bb97ba-b1fe-4a3b-be35-df4d40b7455e:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:85bb97ba-b1fe-4a3b-be35-df4d40b7455e",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "Remote (US)",
+    "after": "Remote",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/85bb97ba-b1fe-4a3b-be35-df4d40b7455e"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:871d2fc8-def8-4837-a9b0-7cc4fe126c2b:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:871d2fc8-def8-4837-a9b0-7cc4fe126c2b",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/871d2fc8-def8-4837-a9b0-7cc4fe126c2b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:8be15a12-b918-4653-a631-834db164a146:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:8be15a12-b918-4653-a631-834db164a146",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London, UK",
+    "after": "London",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/8be15a12-b918-4653-a631-834db164a146"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:8be55ffc-d512-4ef3-a14d-3a4cb29a60d4:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:8be55ffc-d512-4ef3-a14d-3a4cb29a60d4",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/8be55ffc-d512-4ef3-a14d-3a4cb29a60d4"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:8c004352-f162-4d89-858f-75a649e77ec4:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:8c004352-f162-4d89-858f-75a649e77ec4",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/8c004352-f162-4d89-858f-75a649e77ec4"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:8d516dbd-e5b7-43da-922f-1417ead4d082:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:8d516dbd-e5b7-43da-922f-1417ead4d082",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/8d516dbd-e5b7-43da-922f-1417ead4d082"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:8efd3a0a-fc66-46e2-9415-bffba10e2919:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:8efd3a0a-fc66-46e2-9415-bffba10e2919",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/8efd3a0a-fc66-46e2-9415-bffba10e2919"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:8f1aa562-5599-491b-b94c-128511ac40b2:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:8f1aa562-5599-491b-b94c-128511ac40b2",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/8f1aa562-5599-491b-b94c-128511ac40b2"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:8f3c27f0-50fb-47ba-a3dd-597428380843:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:8f3c27f0-50fb-47ba-a3dd-597428380843",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/8f3c27f0-50fb-47ba-a3dd-597428380843"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:8fa367de-71ba-409e-befd-175a163acb1b:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:8fa367de-71ba-409e-befd-175a163acb1b",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/8fa367de-71ba-409e-befd-175a163acb1b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:939892e5-5273-4bfc-8c41-a6c51cabb228:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "ramp:939892e5-5273-4bfc-8c41-a6c51cabb228",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:94d79eed-34db-42c8-b47c-5edef335b7f2:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:94d79eed-34db-42c8-b47c-5edef335b7f2",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/94d79eed-34db-42c8-b47c-5edef335b7f2"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:95f450a1-0d38-4d58-9aac-9d7e655adc36:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:95f450a1-0d38-4d58-9aac-9d7e655adc36",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/95f450a1-0d38-4d58-9aac-9d7e655adc36"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:96250bac-465c-4524-bc7c-ba0f0b05310f:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:96250bac-465c-4524-bc7c-ba0f0b05310f",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/96250bac-465c-4524-bc7c-ba0f0b05310f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:97898101-f97b-47c8-a991-267afc517ae5:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:97898101-f97b-47c8-a991-267afc517ae5",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/97898101-f97b-47c8-a991-267afc517ae5"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:9bdecd09-5a15-47d1-83bc-21cf86a54d02:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:9bdecd09-5a15-47d1-83bc-21cf86a54d02",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/9bdecd09-5a15-47d1-83bc-21cf86a54d02"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:9ef1c3f4-c5bb-46ae-b03c-3f79205e1102:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:9ef1c3f4-c5bb-46ae-b03c-3f79205e1102",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/9ef1c3f4-c5bb-46ae-b03c-3f79205e1102"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:a0a26a90-7c9a-4a45-a042-ae646911930a:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:a0a26a90-7c9a-4a45-a042-ae646911930a",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/a0a26a90-7c9a-4a45-a042-ae646911930a"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:a11f7720-f3a8-4e86-9cc6-562bb11420b2:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:a11f7720-f3a8-4e86-9cc6-562bb11420b2",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/a11f7720-f3a8-4e86-9cc6-562bb11420b2"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:a13ae586-f4cb-4385-8822-c42b9b54ed74:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:a13ae586-f4cb-4385-8822-c42b9b54ed74",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:a4ecdd59-e379-4841-9bd3-c3f1f86da008:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:a4ecdd59-e379-4841-9bd3-c3f1f86da008",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/a4ecdd59-e379-4841-9bd3-c3f1f86da008"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:a5c7c68a-33f9-4f78-929e-29b58f26d22a:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:a5c7c68a-33f9-4f78-929e-29b58f26d22a",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/a5c7c68a-33f9-4f78-929e-29b58f26d22a"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:a808d519-404a-4aee-9189-2b1ad62d0330:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:a808d519-404a-4aee-9189-2b1ad62d0330",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "San Francisco, CA",
+    "after": "SF",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/a808d519-404a-4aee-9189-2b1ad62d0330"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:a8451979-2691-440e-851b-49a3b807729b:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:a8451979-2691-440e-851b-49a3b807729b",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "San Francisco, CA",
+    "after": "SF",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/a8451979-2691-440e-851b-49a3b807729b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:aa0c645d-7aa0-40b0-bdfa-9b3fb19da404:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:aa0c645d-7aa0-40b0-bdfa-9b3fb19da404",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/aa0c645d-7aa0-40b0-bdfa-9b3fb19da404"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:aa433e44-f095-484b-a46a-a330583d84b0:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:aa433e44-f095-484b-a46a-a330583d84b0",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/aa433e44-f095-484b-a46a-a330583d84b0"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:aa5512b1-d973-4d74-9d10-d56446ecf803:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:aa5512b1-d973-4d74-9d10-d56446ecf803",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/aa5512b1-d973-4d74-9d10-d56446ecf803"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:ab74a687-4545-47c9-870d-bfd7e7cde576:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:ab74a687-4545-47c9-870d-bfd7e7cde576",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/ab74a687-4545-47c9-870d-bfd7e7cde576"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:abd1360f-bd9d-4649-ac02-9af2a437ff98:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:abd1360f-bd9d-4649-ac02-9af2a437ff98",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/abd1360f-bd9d-4649-ac02-9af2a437ff98"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:acf6b28d-767f-483f-8ff2-114620cd7e04:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:acf6b28d-767f-483f-8ff2-114620cd7e04",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:ad8bb2ef-9c8a-4379-829a-47143257a23b:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:ad8bb2ef-9c8a-4379-829a-47143257a23b",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/ad8bb2ef-9c8a-4379-829a-47143257a23b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:ad9d3118-1ab4-488a-a6e8-3784082f92a4:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "ramp:ad9d3118-1ab4-488a-a6e8-3784082f92a4",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/ad9d3118-1ab4-488a-a6e8-3784082f92a4"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:af262319-1c4f-4a36-93bd-ef260cb02aed:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:af262319-1c4f-4a36-93bd-ef260cb02aed",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/af262319-1c4f-4a36-93bd-ef260cb02aed"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:afe866c3-3725-4416-9e5f-530ed89b295d:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:afe866c3-3725-4416-9e5f-530ed89b295d",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "San Francisco, CA",
+    "after": "SF",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/afe866c3-3725-4416-9e5f-530ed89b295d"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:b39ceb08-a0a7-4f8b-a760-2fb88e209956:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:b4366e7a-d1e7-498b-8630-4dfea67caca0:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:b4366e7a-d1e7-498b-8630-4dfea67caca0",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b4366e7a-d1e7-498b-8630-4dfea67caca0"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:b4908db8-ac21-4c7f-b544-a66fffbfb97e:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:b4908db8-ac21-4c7f-b544-a66fffbfb97e",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b4908db8-ac21-4c7f-b544-a66fffbfb97e"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:b55447c0-4adc-42eb-9ca2-f88fd44e0e5b:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:b55447c0-4adc-42eb-9ca2-f88fd44e0e5b",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b55447c0-4adc-42eb-9ca2-f88fd44e0e5b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:b599c5a9-9c9d-4826-b67a-ca5e012faaad:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:b599c5a9-9c9d-4826-b67a-ca5e012faaad",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b599c5a9-9c9d-4826-b67a-ca5e012faaad"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:b6132946-62e7-4ed4-9b93-f7cbe0e2c1fe:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:b6132946-62e7-4ed4-9b93-f7cbe0e2c1fe",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b6132946-62e7-4ed4-9b93-f7cbe0e2c1fe"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:b614563f-3ce6-4dca-b5ba-0e5a6c8bda27:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:b614563f-3ce6-4dca-b5ba-0e5a6c8bda27",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Software Engineer, Forward Deployed AI Solutions",
+    "after": "Software Engineer, Forward Deployed, AI Solutions",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:b614563f-3ce6-4dca-b5ba-0e5a6c8bda27:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:b614563f-3ce6-4dca-b5ba-0e5a6c8bda27",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:b66be397-240b-41a6-9b05-493299b270a9:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:b66be397-240b-41a6-9b05-493299b270a9",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:b68aca53-16c0-4ced-ab1d-e8beb2940b4f:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:b68aca53-16c0-4ced-ab1d-e8beb2940b4f",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b68aca53-16c0-4ced-ab1d-e8beb2940b4f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:b7514711-8a29-4bd2-a97a-967be14e336f:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:b7514711-8a29-4bd2-a97a-967be14e336f",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Backend Engineer | AI Spend Management",
+    "after": "Software Engineer, Backend, AI Spend Management",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:b7514711-8a29-4bd2-a97a-967be14e336f:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:b7514711-8a29-4bd2-a97a-967be14e336f",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b7514711-8a29-4bd2-a97a-967be14e336f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:b9568fb8-a47e-4738-87fb-a6d88c3a505f:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:b9568fb8-a47e-4738-87fb-a6d88c3a505f",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/b9568fb8-a47e-4738-87fb-a6d88c3a505f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:baa94095-c976-46d0-8d18-25a951950714:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:baa94095-c976-46d0-8d18-25a951950714",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/baa94095-c976-46d0-8d18-25a951950714"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:baf0a4d2-e07e-4f76-af85-d85c91f479a4:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:baf0a4d2-e07e-4f76-af85-d85c91f479a4",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/baf0a4d2-e07e-4f76-af85-d85c91f479a4"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:bdd28c40-f95b-43df-bebe-3b8a25c8f602:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:bdd28c40-f95b-43df-bebe-3b8a25c8f602",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/bdd28c40-f95b-43df-bebe-3b8a25c8f602"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:be496b52-cfbf-494e-b862-61fb4a188b24:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:be496b52-cfbf-494e-b862-61fb4a188b24",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/be496b52-cfbf-494e-b862-61fb4a188b24"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:c0a71032-1efb-40dc-b1e8-aa0f30cd5961:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Backend Engineer | Accounting",
+    "after": "Software Engineer, Backend, Accounting",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/c0a71032-1efb-40dc-b1e8-aa0f30cd5961"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:c0a71032-1efb-40dc-b1e8-aa0f30cd5961:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/c0a71032-1efb-40dc-b1e8-aa0f30cd5961"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:c0fe115a-6251-4608-af07-d222ab6a0f42:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:c0fe115a-6251-4608-af07-d222ab6a0f42",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/c0fe115a-6251-4608-af07-d222ab6a0f42"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:c495a261-789f-4718-9286-3bba81052b4b:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:c495a261-789f-4718-9286-3bba81052b4b",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "London, UK",
+    "after": "London",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/c495a261-789f-4718-9286-3bba81052b4b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:c63ba7d7-5290-4d9b-b002-40b2873b66f6:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:c63ba7d7-5290-4d9b-b002-40b2873b66f6",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "Remote (US)",
+    "after": "Remote",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/c63ba7d7-5290-4d9b-b002-40b2873b66f6"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:cbdf2857-1675-4b68-8cb5-2f92a20faa75:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:cbdf2857-1675-4b68-8cb5-2f92a20faa75",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/cbdf2857-1675-4b68-8cb5-2f92a20faa75"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:cc0af88a-2a19-493d-93cf-c5090f986f1f:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:cc0af88a-2a19-493d-93cf-c5090f986f1f",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "San Francisco, CA",
+    "after": "SF",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/cc0af88a-2a19-493d-93cf-c5090f986f1f"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:cc861080-4e19-43a2-bbeb-5b4dc5c6f92a:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:cc861080-4e19-43a2-bbeb-5b4dc5c6f92a",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/cc861080-4e19-43a2-bbeb-5b4dc5c6f92a"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:cce684de-191d-4a8a-bc42-7ded3ccd47af:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:cce684de-191d-4a8a-bc42-7ded3ccd47af",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "Toronto, ON",
+    "after": "Toronto",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/cce684de-191d-4a8a-bc42-7ded3ccd47af"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:cdc3cb5a-8c6d-4820-86cf-5f9daa2b41fc:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:cdc3cb5a-8c6d-4820-86cf-5f9daa2b41fc",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/cdc3cb5a-8c6d-4820-86cf-5f9daa2b41fc"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:cf3516f6-4d6b-4872-831f-c8ef4a3078ee:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:cf3516f6-4d6b-4872-831f-c8ef4a3078ee",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/cf3516f6-4d6b-4872-831f-c8ef4a3078ee"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:d1183b00-6590-4fe4-a585-28d84e578fe3:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "ramp:d1183b00-6590-4fe4-a585-28d84e578fe3",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/d1183b00-6590-4fe4-a585-28d84e578fe3"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:d204e136-2749-42de-82b4-88a0dd352090:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:d204e136-2749-42de-82b4-88a0dd352090",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/d204e136-2749-42de-82b4-88a0dd352090"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:d238a056-3a1f-4dcc-99de-fadc95b9f31c:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:d238a056-3a1f-4dcc-99de-fadc95b9f31c",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "San Francisco, CA",
+    "after": "SF",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/d238a056-3a1f-4dcc-99de-fadc95b9f31c"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:d2beca4a-7409-404b-8382-761e5db6e917:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:d2beca4a-7409-404b-8382-761e5db6e917",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/d2beca4a-7409-404b-8382-761e5db6e917"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:d64609dd-c391-45a2-bfdb-c1bb34e8f93c:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:d64609dd-c391-45a2-bfdb-c1bb34e8f93c",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/d64609dd-c391-45a2-bfdb-c1bb34e8f93c"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:d7c117f8-45e4-4212-8bc5-233ff60c7038:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:d7c117f8-45e4-4212-8bc5-233ff60c7038",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/d7c117f8-45e4-4212-8bc5-233ff60c7038"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:d84bbf19-572a-499c-9c87-0c154ce85caf:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:d84bbf19-572a-499c-9c87-0c154ce85caf",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/d84bbf19-572a-499c-9c87-0c154ce85caf"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:d8925f84-562f-470c-a5bd-4f6c20009361:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:d8925f84-562f-470c-a5bd-4f6c20009361",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/d8925f84-562f-470c-a5bd-4f6c20009361"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:dba53e68-4c96-449d-af4d-27dc475b814c:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:dba53e68-4c96-449d-af4d-27dc475b814c",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/dba53e68-4c96-449d-af4d-27dc475b814c"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:e0b64893-0459-4d84-ac4f-7b50966ef024:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:e0b64893-0459-4d84-ac4f-7b50966ef024",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/e0b64893-0459-4d84-ac4f-7b50966ef024"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:e0cca3aa-24f7-46ca-9493-9984a7ae2285:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:e0cca3aa-24f7-46ca-9493-9984a7ae2285",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/e0cca3aa-24f7-46ca-9493-9984a7ae2285"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:e577622f-6657-4e53-8941-b3a774b04448:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:e577622f-6657-4e53-8941-b3a774b04448",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/e577622f-6657-4e53-8941-b3a774b04448"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:e8e96e0c-3780-42ed-8297-1ccfa505cd94:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:e8e96e0c-3780-42ed-8297-1ccfa505cd94",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/e8e96e0c-3780-42ed-8297-1ccfa505cd94"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:ec51d0aa-a167-4c38-b955-07c55057267d:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:ec51d0aa-a167-4c38-b955-07c55057267d",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/ec51d0aa-a167-4c38-b955-07c55057267d"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:eca54d0e-232a-4c3e-bfcc-d6c6add393f5:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:eca54d0e-232a-4c3e-bfcc-d6c6add393f5",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/eca54d0e-232a-4c3e-bfcc-d6c6add393f5"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:ee493d8f-c75e-4ca4-b665-1576e835f522:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:ee493d8f-c75e-4ca4-b665-1576e835f522",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/ee493d8f-c75e-4ca4-b665-1576e835f522"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:f0e3a8bb-5f86-4ce1-b345-80d8912f9ddc:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:f0e3a8bb-5f86-4ce1-b345-80d8912f9ddc",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/f0e3a8bb-5f86-4ce1-b345-80d8912f9ddc"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:f0f95d20-fb64-4c06-86ff-6142e937fe0b:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:f0f95d20-fb64-4c06-86ff-6142e937fe0b",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/f0f95d20-fb64-4c06-86ff-6142e937fe0b"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:f1ebd439-56ed-4d12-a8fd-979c74604eca:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:f1ebd439-56ed-4d12-a8fd-979c74604eca",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/f1ebd439-56ed-4d12-a8fd-979c74604eca"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:f330ccd7-59f5-4032-82b0-4448482769e4:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:f330ccd7-59f5-4032-82b0-4448482769e4",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/f330ccd7-59f5-4032-82b0-4448482769e4"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:f4545aaa-c98b-4134-b250-f12dc46ad6a8:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:f4545aaa-c98b-4134-b250-f12dc46ad6a8",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/f4545aaa-c98b-4134-b250-f12dc46ad6a8"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:f564dcf9-9390-4a3f-896f-8047a5086040:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "ramp:f564dcf9-9390-4a3f-896f-8047a5086040",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "title",
+    "before": "Mobile Engineer, Android",
+    "after": "Software Engineer, Android",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/f564dcf9-9390-4a3f-896f-8047a5086040"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:f564dcf9-9390-4a3f-896f-8047a5086040:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:f564dcf9-9390-4a3f-896f-8047a5086040",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/f564dcf9-9390-4a3f-896f-8047a5086040"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:f5b60cf1-c0ec-42c1-89db-ece853e998ab:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:f5b60cf1-c0ec-42c1-89db-ece853e998ab",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/f5b60cf1-c0ec-42c1-89db-ece853e998ab"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:f5cf4790-0b77-47be-b332-02ca6ec755fd:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:f5cf4790-0b77-47be-b332-02ca6ec755fd",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/f5cf4790-0b77-47be-b332-02ca6ec755fd"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:f65b0f22-e2b1-4081-b4db-a4a0b0e31055:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:f65b0f22-e2b1-4081-b4db-a4a0b0e31055",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "Toronto, ON",
+    "after": "Toronto",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/f65b0f22-e2b1-4081-b4db-a4a0b0e31055"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:f7c4de3c-1d64-42e9-8111-f38e265327d8:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:f7c4de3c-1d64-42e9-8111-f38e265327d8",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/f7c4de3c-1d64-42e9-8111-f38e265327d8"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:f9d015d7-d5cb-450b-9936-afd8d1c4f4cc:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:f9d015d7-d5cb-450b-9936-afd8d1c4f4cc",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "Remote (US)",
+    "after": "Remote",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/f9d015d7-d5cb-450b-9936-afd8d1c4f4cc"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:fc753f8d-7f2f-4b12-9db2-a5694ce4e74c:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:fc753f8d-7f2f-4b12-9db2-a5694ce4e74c",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/fc753f8d-7f2f-4b12-9db2-a5694ce4e74c"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:fc971889-db1d-4a20-a25e-f282f9296936:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:fc971889-db1d-4a20-a25e-f282f9296936",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8"
+    }
+  },
+  {
+    "id": "2026-11-09T22:29:40.893Z:ramp:fe280d10-4258-420a-b0bb-0dc9021bd803:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "ramp:fe280d10-4258-420a-b0bb-0dc9021bd803",
+    "company": "ramp",
+    "companyName": "Ramp",
+    "field": "location",
+    "before": "New York, NY (HQ)",
+    "after": "NYC",
+    "occurredAt": "2026-11-09T22:29:40.893Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/ramp/fe280d10-4258-420a-b0bb-0dc9021bd803"
+    }
   }
 ]
