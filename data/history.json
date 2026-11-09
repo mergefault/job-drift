@@ -107798,5 +107798,19 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/6075e1dc-c833-4e27-a789-61d3a596c66c"
     }
+  },
+  {
+    "id": "2026-11-09T06:49:55.865Z:notion:369fd192-61d8-48d2-9430-49905d733349:LOCATION_CHANGED:location",
+    "type": "LOCATION_CHANGED",
+    "jobId": "notion:369fd192-61d8-48d2-9430-49905d733349",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": "location",
+    "before": "New York, New York",
+    "after": "San Francisco, California",
+    "occurredAt": "2026-11-09T06:49:55.865Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/369fd192-61d8-48d2-9430-49905d733349"
+    }
   }
 ]
