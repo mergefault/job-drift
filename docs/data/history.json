@@ -126782,5 +126782,19 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/cursor/79b07509-13dc-49d3-b133-2bc10d161f6f"
     }
+  },
+  {
+    "id": "2026-11-15T06:47:17.730Z:notion:4e7b3471-20b7-4a37-8455-8b2735bfaf26:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "notion:4e7b3471-20b7-4a37-8455-8b2735bfaf26",
+    "company": "notion",
+    "companyName": "Notion",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-15T06:47:17.730Z",
+    "evidence": {
+      "url": "https://jobs.ashbyhq.com/notion/4e7b3471-20b7-4a37-8455-8b2735bfaf26"
+    }
   }
 ]
