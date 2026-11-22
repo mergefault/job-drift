@@ -131290,5 +131290,19 @@
     "evidence": {
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8406944?gh_jid=8406944"
     }
+  },
+  {
+    "id": "2026-11-22T07:03:57.577Z:cloudflare:8179387:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8179387",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-14T07:15:15.000Z",
+    "after": "2026-11-22T03:50:50.000Z",
+    "occurredAt": "2026-11-22T07:03:57.577Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8179387?gh_jid=8179387"
+    }
   }
 ]
