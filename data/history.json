@@ -133334,5 +133334,243 @@
     "evidence": {
       "url": "https://jobs.ashbyhq.com/ramp/96fb14e0-c44f-409d-aeb4-b2e864bfa36f"
     }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8158016:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8158016",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-13T18:48:41.000Z",
+    "after": "2026-11-25T21:53:05.000Z",
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8158016?gh_jid=8158016"
+    }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8202081:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8202081",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-10T00:03:42.000Z",
+    "after": "2026-11-26T02:43:33.000Z",
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8202081?gh_jid=8202081"
+    }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8210019:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8210019",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8210019?gh_jid=8210019"
+    }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8211796:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8211796",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-10T00:03:42.000Z",
+    "after": "2026-11-26T02:40:30.000Z",
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8211796?gh_jid=8211796"
+    }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8275611:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8275611",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8275611?gh_jid=8275611"
+    }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8311376:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8311376",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Data Center Network Operations Engineer",
+    "after": "Network Operations Engineer",
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8311376?gh_jid=8311376"
+    }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8311376:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8311376",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-10T00:03:42.000Z",
+    "after": "2026-11-26T08:21:38.000Z",
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8311376?gh_jid=8311376"
+    }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8354678:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8354678",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "HR Operations Specialist, Tokyo (12-months contract)",
+    "after": "HR Operations Specialist, Japanese Speaker (12-months contract)",
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8354678?gh_jid=8354678"
+    }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8354678:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8354678",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-23T02:42:36.000Z",
+    "after": "2026-11-25T23:37:28.000Z",
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8354678?gh_jid=8354678"
+    }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8354678:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8354678",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "8cdc3cd0410b298136d55bc1947f5f0d11e47c6d5320200cdab723d5a195b981",
+    "after": "fb6f85652ede43c5baab8c62328852dab1659dceeeb5227ccb575ebec415753f",
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8354678?gh_jid=8354678"
+    }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8354680:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8354680",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "People Operations Specialist, Tokyo (12-months contract)",
+    "after": "People Operations Specialist, Japanese Speaker (12-months contract)",
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8354680?gh_jid=8354680"
+    }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8354680:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8354680",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-23T02:41:56.000Z",
+    "after": "2026-11-25T23:37:58.000Z",
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8354680?gh_jid=8354680"
+    }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8354680:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8354680",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "8cdc3cd0410b298136d55bc1947f5f0d11e47c6d5320200cdab723d5a195b981",
+    "after": "fb6f85652ede43c5baab8c62328852dab1659dceeeb5227ccb575ebec415753f",
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8354680?gh_jid=8354680"
+    }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8392302:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8392302",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8392302?gh_jid=8392302"
+    }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8403466:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8403466",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-20T18:29:02.000Z",
+    "after": "2026-11-26T02:03:24.000Z",
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8403466?gh_jid=8403466"
+    }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8406156:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8406156",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-20T18:20:53.000Z",
+    "after": "2026-11-26T02:03:24.000Z",
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8406156?gh_jid=8406156"
+    }
+  },
+  {
+    "id": "2026-11-26T08:35:34.983Z:cloudflare:8406159:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8406159",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-20T18:20:53.000Z",
+    "after": "2026-11-26T02:03:24.000Z",
+    "occurredAt": "2026-11-26T08:35:34.983Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8406159?gh_jid=8406159"
+    }
   }
 ]
