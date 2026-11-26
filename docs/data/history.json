@@ -133572,5 +133572,257 @@
     "evidence": {
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8406159?gh_jid=8406159"
     }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:7736431:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:7736431",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-10T00:03:42.000Z",
+    "after": "2026-11-26T16:49:05.000Z",
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7736431?gh_jid=7736431"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:7736431:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:7736431",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "7c7f5490a836c39b4c33209f67dc65de12101756a17269728ba3a184cc174123",
+    "after": "a966adf1d8614e44d7ca00ea7a962e28cce288c7cb124b5d1ab9990e78099242",
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7736431?gh_jid=7736431"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:8044712:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8044712",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-10T19:09:38.000Z",
+    "after": "2026-11-26T19:31:21.000Z",
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8044712?gh_jid=8044712"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:8263016:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8263016",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Senior Software Engineer - Kubernetes platform",
+    "after": "Senior Software Engineer - Kubernetes Platform",
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8263016?gh_jid=8263016"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:8263016:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8263016",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-10T00:03:42.000Z",
+    "after": "2026-11-26T20:14:20.000Z",
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8263016?gh_jid=8263016"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:8281074:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8281074",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-24T12:35:56.000Z",
+    "after": "2026-11-26T16:23:33.000Z",
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8281074?gh_jid=8281074"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:8300518:JOB_CLOSED:job",
+    "type": "JOB_CLOSED",
+    "jobId": "cloudflare:8300518",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8300518?gh_jid=8300518"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:8336447:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8336447",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8336447?gh_jid=8336447"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:8352969:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8352969",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-13T15:23:32.000Z",
+    "after": "2026-11-26T14:43:00.000Z",
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8352969?gh_jid=8352969"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:8376042:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8376042",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8376042?gh_jid=8376042"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:8405408:TITLE_CHANGED:title",
+    "type": "TITLE_CHANGED",
+    "jobId": "cloudflare:8405408",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "title",
+    "before": "Senior Named Account Executive, Czechia",
+    "after": "Senior Named Account Executive, Czech Republic & Slovakia",
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8405408?gh_jid=8405408"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:8405408:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8405408",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-23T21:43:53.000Z",
+    "after": "2026-11-26T15:13:44.000Z",
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8405408?gh_jid=8405408"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:8405408:DESCRIPTION_CHANGED:descriptionHash",
+    "type": "DESCRIPTION_CHANGED",
+    "jobId": "cloudflare:8405408",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "descriptionHash",
+    "before": "96dfd89c80c85e1b9a71f9cf994b1a90e49833b63a33c4fee12732b266b84d22",
+    "after": "a271771ac16efe406d8a68a170b496df493087f5792bb6f58889e5a98084303a",
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8405408?gh_jid=8405408"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:8405433:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8405433",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8405433?gh_jid=8405433"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:8411146:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8411146",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8411146?gh_jid=8411146"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:8414218:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8414218",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8414218?gh_jid=8414218"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:8416549:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8416549",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8416549?gh_jid=8416549"
+    }
+  },
+  {
+    "id": "2026-11-26T21:42:21.099Z:cloudflare:8416739:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8416739",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-26T21:42:21.099Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8416739?gh_jid=8416739"
+    }
   }
 ]
