@@ -133866,5 +133866,75 @@
     "evidence": {
       "url": "https://boards.greenhouse.io/cloudflare/jobs/8416739?gh_jid=8416739"
     }
+  },
+  {
+    "id": "2026-11-27T21:26:46.069Z:cloudflare:7462801:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:7462801",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-25T14:31:47.000Z",
+    "after": "2026-11-27T11:15:25.000Z",
+    "occurredAt": "2026-11-27T21:26:46.069Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801"
+    }
+  },
+  {
+    "id": "2026-11-27T21:26:46.069Z:cloudflare:8203700:JOB_UPDATED:updatedAt",
+    "type": "JOB_UPDATED",
+    "jobId": "cloudflare:8203700",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": "updatedAt",
+    "before": "2026-11-10T00:03:42.000Z",
+    "after": "2026-11-27T12:55:01.000Z",
+    "occurredAt": "2026-11-27T21:26:46.069Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8203700?gh_jid=8203700"
+    }
+  },
+  {
+    "id": "2026-11-27T21:26:46.069Z:cloudflare:8414193:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8414193",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-27T21:26:46.069Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8414193?gh_jid=8414193"
+    }
+  },
+  {
+    "id": "2026-11-27T21:26:46.069Z:cloudflare:8414208:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8414208",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-27T21:26:46.069Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8414208?gh_jid=8414208"
+    }
+  },
+  {
+    "id": "2026-11-27T21:26:46.069Z:cloudflare:8417031:JOB_POSTED:job",
+    "type": "JOB_POSTED",
+    "jobId": "cloudflare:8417031",
+    "company": "cloudflare",
+    "companyName": "Cloudflare",
+    "field": null,
+    "before": null,
+    "after": null,
+    "occurredAt": "2026-11-27T21:26:46.069Z",
+    "evidence": {
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8417031?gh_jid=8417031"
+    }
   }
 ]
